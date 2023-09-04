@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.options import Options
 import pandas as pd 
 
 website = 'https://www.domain.com.au/rent/melbourne-region-vic/?page=25'
-chromedriver_path = 'Uni Melb/Year 3 Semester 2/ADS WEB SCRAPPING/chromedriver-mac-arm64/chromedriver.exe'
+chromedriver_path = '../chromedriver-mac-arm64/chromedriver.exe'
 
 os.environ['webdriver.chrome.driver'] = chromedriver_path
 driver = webdriver.Chrome()
