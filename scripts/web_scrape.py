@@ -122,7 +122,7 @@ data['Type'].extend(types)
 
 current_page = 25
 df = pd.DataFrame(data)
-df.to_excel(f'../data/landing/rental{current_page}.xlsx', index=False)
+df.to_excel(f'../data/raw/rental{current_page}.xlsx', index=False)
 print(f"Data written to rental{current_page}.xlsx")
 
 input("Press Enter to exit")
