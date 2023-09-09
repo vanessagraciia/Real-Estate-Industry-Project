@@ -5,8 +5,8 @@ from selenium.webdriver.chrome.options import Options
 import pandas as pd 
 from itertools import zip_longest
 
-N_PAGES = range(1, 51)
-PRICE_RANGE = [(700, 820), (820, 1700), (1700, 5000)]
+N_PAGES = range(8, 51)
+PRICE_RANGE = [(0, 400), (400, 450), (450, 480), (480, 510)]
 for price in PRICE_RANGE:
     lowest_price = price[0]
     highest_price = price[1]
@@ -130,7 +130,7 @@ for price in PRICE_RANGE:
             data['Type'].append(item[5])
 
         df = pd.DataFrame(data)
-        df.to_csv(f'../data/raw/price_{lowest_price}_{highest_price}_page{page}.csv', index=False)
+        df.to_csv(f'../data/raw/data/price_{lowest_price}_{highest_price}_page{page}.csv', index=False)
         print(f"Data written {page}.xlsx")
 
 input("Press Enter to exit")
