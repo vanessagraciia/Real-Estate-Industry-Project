@@ -5,6 +5,11 @@ from selenium.webdriver.chrome.options import Options
 import pandas as pd 
 from itertools import zip_longest
 
+directory_path = '../data/raw/dataset'
+# Check if the directory exists, and if not, create it
+if not os.path.exists(directory_path):
+    os.makedirs(directory_path)
+
 N_PAGES = range(26, 39)
 PRICE_RANGE = [(510, 550)]
 for price in PRICE_RANGE:
@@ -131,7 +136,7 @@ for price in PRICE_RANGE:
 
         df = pd.DataFrame(data)
         df.to_csv(f'../data/raw/dataset/price_{lowest_price}_{highest_price}_page{page}.csv', index=False)
-        print(f"Data written {page}.xlsx")
+        print(f"Data written {page}.csv")
 
 input("Press Enter to exit")
 driver.quit()
