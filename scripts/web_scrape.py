@@ -10,7 +10,7 @@ directory_path = '../data/raw/dataset'
 if not os.path.exists(directory_path):
     os.makedirs(directory_path)
 
-N_PAGES = range(26, 39)
+N_PAGES = range(1, 51)
 PRICE_RANGE = [(510, 550)]
 for price in PRICE_RANGE:
     lowest_price = price[0]
@@ -135,7 +135,7 @@ for price in PRICE_RANGE:
             data['Type'].append(item[5])
 
         df = pd.DataFrame(data)
-        df.to_csv(f'../data/raw/dataset/price_{lowest_price}_{highest_price}_page{page}.csv', index=False)
+        df.to_csv(f'{directory_path}/price_{lowest_price}_{highest_price}_page{page}.csv', index=False)
         print(f"Data written {page}.csv")
 
 input("Press Enter to exit")
