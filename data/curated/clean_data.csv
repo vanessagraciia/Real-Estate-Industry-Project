@@ -9,8 +9,6 @@ IVANHOE VIC 3079",450.0,2,1,1,Apartment / Unit / Flat
 IVANHOE VIC 3079",450.0,1,1,1,Apartment / Unit / Flat
 "4/64 Lorraine Crescent, 
 JACANA VIC 3047",450.0,2,1,1,Townhouse
-KALKALLO VIC 3064,2.0,4,2,2,House
-KALKALLO VIC 3064,2.0,4,2,2,House
 "1/552 Buckley Street, 
 KEILOR EAST VIC 3033",450.0,2,1,1,Townhouse
 "63 Dunne Street, 
@@ -23,16 +21,12 @@ LALOR VIC 3075",450.0,3,1,1,House
 LANGWARRIN VIC 3910",450.0,2,1,1,Apartment / Unit / Flat
 "36 Station Lake Road, 
 LARA VIC 3212",450.0,3,1, ,House
-"66 Rebecca Drive, 
-LEOPOLD VIC 3224",,3,1,2,House
 "8/18 Johnstone Street, 
 MALVERN VIC 3144",450.0,2,1,1,Apartment / Unit / Flat
 "302/2 Clarence Street, 
 MALVERN EAST VIC 3145",450.0,1,1,1,Apartment / Unit / Flat
 "1/15 Camira Street, 
 MALVERN EAST VIC 3145",450.0,2,1, ,Apartment / Unit / Flat
-MAMBOURIN VIC 3024,2.0,4,2,2,House
-MANOR LAKES VIC 3024,2.0,4,2,2,House
 "7 Julep street, 
 MANOR LAKES VIC 3024",450.0,4,2,2,House
 "22 Campbell Street, 
@@ -109,8 +103,6 @@ ELTHAM VIC 3095",620.0,3,2,2,Townhouse
 ESSENDON VIC 3040",620.0,3,1,2,Villa
 "37 Reid Street, 
 FITZROY NORTH VIC 3068",620.0,2,1, ,House
-"7/55 Reid Street, 
-FITZROY NORTH VIC 3068",,2,2,1,Apartment / Unit / Flat
 "9 Queen Street, 
 FITZROY NORTH VIC 3068",620.0,3,1, ,House
 "1702/6 Joseph road, 
@@ -202,14 +194,10 @@ GLENROY VIC 3046,330.0,2,1,1,Apartment / Unit / Flat
 HEATHERTON VIC 3202",330.0,2,1,1,Apartment / Unit / Flat
 "1/6 Bruce Street, 
 LAVERTON VIC 3028",330.0,1,1,1,Apartment / Unit / Flat
-"9/197 Church Street, 
-MANIFOLD HEIGHTS VIC 3218",,1,1,1,Apartment / Unit / Flat
 "1/3A Kinloch Road, 
 MELTON VIC 3337",330.0,2,1,1,House
 "6 Exford Road, 
 MELTON SOUTH VIC 3338",330.0,3,1,2,House
-"1/35 Corrigan Road, 
-NOBLE PARK VIC 3174",330.0,2,1,1,Apartment / Unit / Flat
 "1/30 Wisteria Grove, 
 NORLANE VIC 3214",330.0,2,1,2,House
 "109 Princes Highway, 
@@ -222,8 +210,6 @@ NORTH MELBOURNE VIC 3051",330.0,1,1, ,Apartment / Unit / Flat
 NORTHCOTE VIC 3070",330.0,1,1,1,Apartment / Unit / Flat
 "3/18 Quick Street, 
 PASCOE VALE VIC 3044",330.0,2,1,1,Apartment / Unit / Flat
-"4/9 Beach Close, 
-POINT LONSDALE VIC 3225",,1,1,1,Townhouse
 "317/42 Porter St, 
 PRAHRAN VIC 3181",330.0,1,1, ,Apartment / Unit / Flat
 "5/90 Roseberry Avenue, 
@@ -276,16 +262,12 @@ HALLAM VIC 3803",370.0,2,1,1,Apartment / Unit / Flat
 LAVERTON VIC 3028",370.0,3,1,1,House
 "39B Hampshire Rd, 
 GLEN WAVERLEY VIC 3150",480.0,3,2,1,Townhouse
-"45 Venezia Promenade, 
-GREENVALE VIC 3059",,3,2,2,Townhouse
 "20 Fluent Lane,, 
 GREENVALE VIC 3059",480.0,3,3,2,Townhouse
 "8 Fitzgerald Road, 
 HALLAM VIC 3803",480.0,3,2,4,House
 "94 Ballarat Road, 
 HAMLYN HEIGHTS VIC 3215",500.0,3,2,3,House
-"36 Derby Road, 
-HERNE HILL VIC 3218",,3,1,2,House
 "1 Gamston Court, 
 HIGHTON VIC 3216",480.0,3,2,1,Townhouse
 "17 Gwyther Road, 
@@ -420,8 +402,6 @@ CARLTON VIC 3053",500.0,1,1,1,Apartment / Unit / Flat
 CARLTON VIC 3053",500.0,1,1,1,Apartment / Unit / Flat
 "2504/570 Lygon Street, 
 CARLTON VIC 3053",500.0,2,1, ,Apartment / Unit / Flat
-"2/284-286 Neerim Rd, 
-CARNEGIE VIC 3163",500.0,2,1,1,Apartment / Unit / Flat
 "3/1150 Dandenong Road, 
 CARNEGIE VIC 3163",500.0,2,1,1,Apartment / Unit / Flat
 "4 Kai Close, 
@@ -539,8 +519,6 @@ NOTTING HILL VIC 3168,952.0,2,1,1,Apartment / Unit / Flat
 BALACLAVA VIC 3183",960.0,3,3,2,Townhouse
 "UNIT 13/18-22 ISLINGTON STREET, 
 COLLINGWOOD VIC 3066",960.0,3,2,2,Townhouse
-"5/7 Overman Court, 
-ESSENDON VIC 3040",,4,3,2,Townhouse
 "1503/63 La Trobe Street, 
 MELBOURNE VIC 3000",960.0,2,2, ,Apartment / Unit / Flat
 "5313D/648 Lonsdale Street, 
@@ -617,8 +595,6 @@ YARRAVILLE VIC 3013",900.0,4,2,2,House
 ST KILDA WEST VIC 3182",950.0,3,2,1,Apartment / Unit / Flat
 "2115/101 Therry St, 
 MELBOURNE VIC 3000",905.0,2,2, ,Apartment / Unit / Flat
-"7A Arvern Avenue, 
-AVONDALE HEIGHTS VIC 3034",,4,3,1,Townhouse
 "1/60 Brunel Street, 
 MALVERN EAST VIC 3145",910.0,2,1,1,House
 "23 Hilltop Drive, 
@@ -719,8 +695,6 @@ COLLINGWOOD VIC 3066",970.0,3,1, ,House
 MELBOURNE VIC 3000",970.0,2,2,1,Apartment / Unit / Flat
 "3703/260 City Rd, 
 SOUTHBANK VIC 3006",970.0,2,2, ,Apartment / Unit / Flat
-"28 Bent Street, 
-BENTLEIGH VIC 3204",,4,2,2,House
 "1/8-10 Johnston Street, 
 COLLINGWOOD VIC 3066",975.0,3,1,1,House
 "1012/101 Therry St, 
@@ -897,8 +871,6 @@ DOCKLANDS VIC 3008",490.0,1,1, ,Apartment / Unit / Flat
 DONNYBROOK VIC 3064",490.0,3,2,2,House
 "4 Leigh Court, 
 DOVETON VIC 3177",490.0,3,1,1,House
-"35 Dahlia Street, 
-DROMANA VIC 3936",,3,1,2,House
 "4 Rainier Avenue, 
 DROMANA VIC 3936",490.0,3,1,2,House
 "19 Orchard Street, 
@@ -915,8 +887,6 @@ ELWOOD VIC 3184",490.0,2,1,1,Apartment / Unit / Flat
 ST KILDA VIC 3182",630.0,2,2,1,Apartment / Unit / Flat
 "45 Bendigo Drive, 
 TARNEIT VIC 3029",630.0,4,2,2,House
-"507/33 Batman Street, 
-WEST MELBOURNE VIC 3003",,2,1, ,Apartment / Unit / Flat
 "206/22 Upton Road, 
 WINDSOR VIC 3181",630.0,2,2,1,Apartment / Unit / Flat
 "61 Tongue Street, 
@@ -959,8 +929,6 @@ ESSENDON NORTH VIC 3041",480.0,2,1,1,House
 FAWKNER VIC 3060",480.0,2,1,1,Townhouse
 "67/50 King William Street, 
 FITZROY VIC 3065",480.0,1,1,1,Apartment / Unit / Flat
-"2601/8 Hallenstein Street, 
-FOOTSCRAY VIC 3011",480.0,2,1, ,Apartment / Unit / Flat
 "1504/8 Hallenstein Street, 
 FOOTSCRAY VIC 3011",480.0,2,2, ,Apartment / Unit / Flat
 "1001D/4 Tannery Walk, 
@@ -981,8 +949,6 @@ FRANKSTON NORTH VIC 3200",480.0,3,2,2,Apartment / Unit / Flat
 FRANKSTON SOUTH VIC 3199",480.0,2,1,1,Apartment / Unit / Flat
 "13 Hector strret, 
 FRASER RISE VIC 3336",480.0,4,2,1,House
-"39 Galveston Avenue, 
-FRASER RISE VIC 3336",,4,2,2,House
 "18 Lavant Road, 
 FRASER RISE VIC 3336",500.0,3,2,2,Townhouse
 "1/75 Swanston Street, 
@@ -1025,8 +991,6 @@ WERRIBEE VIC 3030",365.0,2,1,2,Apartment / Unit / Flat
 CARLTON VIC 3053",369.0,1,1, ,Apartment / Unit / Flat
 "17 Wills Street, 
 MELBOURNE VIC 3000",369.0,1, , ,Apartment / Unit / Flat
-"2507/433 Collins St, 
-MELBOURNE VIC 3000",,3,2,1,Apartment / Unit / Flat
 "1/66 Donald Street, 
 ALTONA MEADOWS VIC 3028",370.0,2,1,1,Apartment / Unit / Flat
 "2/4 Woods Street, 
@@ -1075,20 +1039,10 @@ ESSENDON VIC 3040",330.0,1,1,1,Apartment / Unit / Flat
 ST LEONARDS VIC 3223",1000.0,3,1, ,House
 "9 Narvik Avenue, 
 ST LEONARDS VIC 3223",1200.0,3,1,1,House
-"16 Holden Road, 
-RYE VIC 3941",,4,1, ,House
 "83 Nelson Street, 
 CRANBOURNE EAST VIC 3977",540.0,4,2,2,House
-"18/243 Flemington Road, 
-NORTH MELBOURNE VIC 3051",,2,2,1,Apartment / Unit / Flat
-"116/8 Daly Street, 
-SOUTH YARRA VIC 3141",,1,1,1,Apartment / Unit / Flat
-"20 Pardolote Crescent, 
-ST LEONARDS VIC 3223",,4,2,2,House
 "3/5 Cleveland Road, 
 ASHWOOD VIC 3147",500.0,2,1,1,Apartment / Unit / Flat
-"107 Pound Road, 
-HAMPTON PARK VIC 3976",,5,1,2,House
 "10 Natura Avenue, 
 WERRIBEE VIC 3030",500.0,4,2,2,House
 "20 Birchwood Street, 
@@ -1097,8 +1051,6 @@ FAWKNER VIC 3060",500.0,3,1, ,House
 ARMSTRONG CREEK VIC 3217",500.0,4,2,2,House
 "21 Corella Road, 
 ARMSTRONG CREEK VIC 3217",500.0,4,2, ,House
-"15 Sampford Street, 
-ARMSTRONG CREEK VIC 3217",,4,2,2,House
 "12 Amiable Parade, 
 ARMSTRONG CREEK VIC 3217",500.0,4,2,2,House
 "94 Naturaliste Way, 
@@ -1138,7 +1090,7 @@ PORT MELBOURNE VIC 3207",690.0,2,1,1,House
 "308/115 Church Street, 
 RICHMOND VIC 3121",690.0,2,2,1,Apartment / Unit / Flat
 "7 Sherwood Road, 
-RYE VIC 3941",6.0,5,2,2,House
+RYE VIC 3941",690.0,5,2,2,House
 "2805/89 Gladstone Street, 
 SOUTH MELBOURNE VIC 3205",690.0,2,2,1,Apartment / Unit / Flat
 "808/3 Yarra Street, 
@@ -1199,7 +1151,6 @@ SAFETY BEACH VIC 3936",2400.0,5,4,2,House
 ALBERT PARK VIC 3206",2.0,3,2, ,House
 "4/19 Birdwood Avenue, 
 BRIGHTON VIC 3186",2.0,3,3,3,Apartment / Unit / Flat
-BRIGHTON VIC 3186,,3,3,3,House
 "51 Drummond Street, 
 CARLTON VIC 3053",2.0,4,4,2,House
 "30 Gore Street, 
@@ -1256,8 +1207,6 @@ CARLTON VIC 3053",620.0,2,1,1,Apartment / Unit / Flat
 CARLTON NORTH VIC 3054",620.0,2,1, ,House
 "102/1254-1258 Glen Huntly Road, 
 CARNEGIE VIC 3163",620.0,2,2,1,Apartment / Unit / Flat
-"ap2.1/29 Browns Road, 
-CLAYTON VIC 3168",650.0,2,1,1,Townhouse
 "4 Hall Street, 
 COBURG VIC 3058",620.0,3,1,1,House
 "205/44 Bedford Street, 
@@ -1318,8 +1267,6 @@ GROVEDALE VIC 3216",450.0,3,1,1,House
 HAMLYN HEIGHTS VIC 3215",450.0,3,1,2,House
 "18B Highbury Avenue, 
 HAMPTON EAST VIC 3188",450.0,2,1,1,Apartment / Unit / Flat
-"2/6 Matthew Court, 
-HAMPTON PARK VIC 3976",,2,1,1,Apartment / Unit / Flat
 "31 Torrance Drive, 
 HARKNESS VIC 3337",450.0,3,2,2,House
 "49 Mercer Street, 
@@ -1348,8 +1295,6 @@ HOPPERS CROSSING VIC 3029",450.0,3,1,2,House
 HOPPERS CROSSING VIC 3029",450.0,3,2,2,Apartment / Unit / Flat
 "12 Tudor Court, 
 HOPPERS CROSSING VIC 3029",450.0,3,1,2,House
-"41 Kelpie Blvd, 
-CURLEWIS VIC 3222",,4,2,2,House
 "49 Tivoli Drive, 
 CURLEWIS VIC 3222",470.0,4,2,2,House
 "3/28 David Street, 
@@ -1372,8 +1317,6 @@ DOREEN VIC 3754",470.0,4,2,2,House
 DROMANA VIC 3936",470.0,3,1,1,Apartment / Unit / Flat
 "1/42 McCulloch Street, 
 DROMANA VIC 3936",470.0,2,1,1,Apartment / Unit / Flat
-"123 Barrands Ln, 
-DRYSDALE VIC 3222",,3,1,2,House
 "7/10 Parkside Street, 
 ELSTERNWICK VIC 3185",470.0,2,1,1,Apartment / Unit / Flat
 "5 Duke Street, 
@@ -1427,8 +1370,6 @@ MELBOURNE VIC 3000",610.0,2,1, ,Apartment / Unit / Flat
 MELBOURNE VIC 3000",610.0,2,1, ,Apartment / Unit / Flat
 "4206/120 A'Beckett Street, 
 MELBOURNE VIC 3000",610.0,1,1, ,Apartment / Unit / Flat
-"4/9 Glyndon Avenue, 
-BRIGHTON VIC 3186",,3,3,2,Apartment / Unit / Flat
 "3605/439 Collins Street, 
 MELBOURNE VIC 3000",4.0,4,3,2,Apartment / Unit / Flat
 "14A Ethel Street, 
@@ -1484,8 +1425,6 @@ MELTON VIC 3337",370.0,4,1,2,House
 MELTON SOUTH VIC 3338",370.0,3,1,2,Apartment / Unit / Flat
 "36A Claremont Street, 
 MOUNT ELIZA VIC 3930",370.0,2,1,1,House
-"19 Ida Street, 
-NIDDRIE VIC 3042",,3,1,1,House
 "3/74 Callander Road, 
 NOBLE PARK VIC 3174",370.0,2,1,1,Apartment / Unit / Flat
 "11 Coleman Court, 
@@ -1530,20 +1469,10 @@ WYNDHAM VALE VIC 3024",500.0,4,2,2,House
 WYNDHAM VALE VIC 3024",500.0,4,2,2,House
 "27 Vogue Drive, 
 WYNDHAM VALE VIC 3024",500.0,4,2,2,House
-"50 Forrest Green Drive, 
-MOUNT DUNEED VIC 3217",,4,2,2,House
-"1/36 Hotham Road, 
-SORRENTO VIC 3943",,3,2,1,House
-"49 Rogerson Street, 
-AVONDALE HEIGHTS VIC 3034",,3,1,2,House
-"4/39 Cook Street, 
-FLINDERS VIC 3929",,2,2,1,Apartment / Unit / Flat
 "1-3/140 Evell Street, 
 GLENROY VIC 3046",500.0,3,2,1,Townhouse
 "903/23 Mackenzie Street, 
 MELBOURNE VIC 3000",580.0,1,1, ,Apartment / Unit / Flat
-"7/86-90 The Terrace, 
-OCEAN GROVE VIC 3226",,3,2,2,Townhouse
 "3/55 Seston Street, 
 RESERVOIR VIC 3073",500.0,2,2,1,Townhouse
 "28/151 Fitzroy Street, 
@@ -1592,8 +1521,6 @@ BRUNSWICK VIC 3056",340.0,1,1,1,Apartment / Unit / Flat
 BUNDOORA VIC 3083",340.0,5,1, ,House
 "1/56 Dickens Street, 
 LALOR VIC 3075",630.0,4,2,1,Townhouse
-"140 Boland Street, 
-LYNDHURST VIC 3975",,4,2,2,House
 "66 Horace Street, 
 MALVERN VIC 3144",630.0,2,1,2,House
 "1 Mitchell Street, 
@@ -1626,12 +1553,8 @@ MELBOURNE VIC 3000",630.0,1,1, ,Apartment / Unit / Flat
 MELBOURNE VIC 3000",630.0,1,1, ,Apartment / Unit / Flat
 "1706/618 Lonsdale Street, 
 MELBOURNE VIC 3000",630.0,2,1,1,Apartment / Unit / Flat
-"2007/11 Rose Lane, 
-MELBOURNE VIC 3000",630.0,2,1, ,Apartment / Unit / Flat
 "1902/200 Spencer Street, 
 MELBOURNE VIC 3000",630.0,2,1,1,Apartment / Unit / Flat
-"1506/648 Lonsdale Street, 
-MELBOURNE VIC 3000",580.0,1,1, ,Apartment / Unit / Flat
 "319/118 Franklin Street, 
 MELBOURNE VIC 3000",580.0,2,1, ,Apartment / Unit / Flat
 "3512/228 La Trobe Street, 
@@ -1642,12 +1565,8 @@ MELBOURNE VIC 3000",580.0,1,1,1,Apartment / Unit / Flat
 MELBOURNE VIC 3004",580.0,1,1,1,Apartment / Unit / Flat
 "803/483 Swanston Street, 
 MELBOURNE VIC 3000",580.0,1,1, ,Apartment / Unit / Flat
-"3209/288 Spencer Street, 
-MELBOURNE VIC 3000",580.0,1,1,1,Apartment / Unit / Flat
 "609/33 Rose Lane, 
 MELBOURNE VIC 3000",580.0,2,1, ,Apartment / Unit / Flat
-"4207D/648 Lonsdale Street, 
-MELBOURNE VIC 3000",,1,1, ,Apartment / Unit / Flat
 "2207d/648 Lonsdale Street, 
 MELBOURNE VIC 3000",580.0,1,1, ,Apartment / Unit / Flat
 "1B1B/633 Little Lonsdale Street, 
@@ -1670,10 +1589,6 @@ MELBOURNE VIC 3000",580.0,2,1, ,Apartment / Unit / Flat
 MELBOURNE VIC 3000",580.0,1,1, ,Apartment / Unit / Flat
 "1210/119 A'Beckett Street, 
 MELBOURNE VIC 3000",580.0, ,1, ,Apartment / Unit / Flat
-"1/68 Cheltenham Road, 
-DANDENONG VIC 3175",500.0,3,3,2,Apartment / Unit / Flat
-"1/22 Cornelious Street, 
-DANDENONG VIC 3175",500.0,3,2,2,Townhouse
 "2/63-68 James Street, 
 DANDENONG VIC 3175",500.0,3,1,1,Apartment / Unit / Flat
 "33 Raymond Street, 
@@ -1718,8 +1633,6 @@ KALKALLO VIC 3064",490.0,4,2,2,House
 KALKALLO VIC 3064",490.0,4,2,2,House
 "13 Firewheel Road, 
 KALKALLO VIC 3064",490.0,4,2,2,House
-"2 Bianchi Court, 
-KEILOR DOWNS VIC 3038",,4,2,2,House
 "31 Kanimbla Drive, 
 LALOR VIC 3075",490.0,3,1, ,House
 "20/15 Linoak Avenue, 
@@ -1766,9 +1679,6 @@ CHELTENHAM VIC 3192",450.0,2,1,1,Apartment / Unit / Flat
 CLAYTON VIC 3168",450.0,2,1,1,Apartment / Unit / Flat
 "3/1390 North Road, 
 CLAYTON VIC 3168",450.0,2,1,1,Apartment / Unit / Flat
-CLYDE NORTH VIC 3978,2.0,4,2,2,House
-"13 Fleuve Rise, 
-CLYDE NORTH VIC 3978",,3,2,1,House
 "52 Moroak Cres, 
 CLYDE NORTH VIC 3978",450.0,3,2,1,House
 "82 Adelong Bvd,, 
@@ -1821,8 +1731,6 @@ WILLIAMS LANDING VIC 3027",695.0,4,2,2,House
 WINDSOR VIC 3181",700.0,2,2,1,Apartment / Unit / Flat
 "1055 Merriang Road, 
 WOODSTOCK VIC 3751",700.0,3,1, ,House
-"11 Collins Street, 
-ORMOND VIC 3204",,3,1,3,House
 "50 Fisher Parade, 
 ASCOT VALE VIC 3032",710.0,4,1,2,House
 "1403/518 Swanston Street, 
@@ -1905,8 +1813,6 @@ LARA VIC 3212",550.0,4,2,2,House
 LARA VIC 3212",550.0,4,2,2,House
 "10 Blackwood Road, 
 LARA VIC 3212",550.0,4,2,2,House
-"30 Yeoman Crescent, 
-LEOPOLD VIC 3224",,3,2, ,House
 "41 Opal Drive, 
 LEOPOLD VIC 3224",550.0,4,2,2,House
 "2/23 Marine prd, 
@@ -1961,8 +1867,6 @@ MELBOURNE VIC 3000",980.0,2,2,1,Apartment / Unit / Flat
 NORTH MELBOURNE VIC 3051",980.0,4,1, ,House
 "132 Evans Street, 
 PORT MELBOURNE VIC 3207",980.0,2,2,1,House
-"1 140 Victoria Street, 
-SEDDON VIC 3011",, ,1, ,House
 "2306/1 Almeida Crescent, 
 SOUTH YARRA VIC 3141",980.0,2,2,1,Apartment / Unit / Flat
 "619/1 Freshwater Place, 
@@ -2203,8 +2107,6 @@ CRAIGIEBURN VIC 3064",500.0,3,2,1,House
 CRAIGIEBURN VIC 3064",500.0,3,1,2,House
 "11 Farrell Street, 
 CRAIGIEBURN VIC 3064",500.0,3,2,1,House
-"11 Talara Court, 
-CRANBOURNE VIC 3977",500.0,3,2, ,House
 "73 Toirram Cres, 
 CRANBOURNE VIC 3977",500.0,3,2,2,House
 "13 Jillian Street, 
@@ -2217,8 +2119,6 @@ CRANBOURNE EAST VIC 3977",500.0,4,2,2,House
 CRANBOURNE EAST VIC 3977",500.0,3,2,2,House
 "41 Chantenay Parade, 
 CRANBOURNE NORTH VIC 3977",500.0,4,2,2,House
-"9 Aldous Place, 
-CRANBOURNE NORTH VIC 3977",,3,2,2,House
 "23 Paxford Drive, 
 CRANBOURNE NORTH VIC 3977",500.0,3,2,2,House
 "55 Bernborough Avenue, 
@@ -2315,8 +2215,6 @@ CLAYTON VIC 3168",340.0,1,1,1,Apartment / Unit / Flat
 CLAYTON VIC 3168",340.0,1,1,1,House
 "4/44 Koonawarra Street, 
 CLAYTON VIC 3168",340.0,1,1, ,Apartment / Unit / Flat
-"1/38 Hemmings Street, 
-DANDENONG VIC 3175",340.0,2,1,1,Apartment / Unit / Flat
 "1/2 Ferndale Crescent, 
 DANDENONG NORTH VIC 3175",340.0,2,1, ,House
 "3/54 McNicholl Way, 
@@ -2359,14 +2257,10 @@ ELWOOD VIC 3184",500.0,2,1, ,Apartment / Unit / Flat
 ESSENDON VIC 3040",500.0,2,1,2,Apartment / Unit / Flat
 "94 Ballarat Road, 
 HAMLYN HEIGHTS VIC 3215",500.0,3,2,3,House
-"36 Derby Road, 
-HERNE HILL VIC 3218",,3,1,2,House
 "50 Wattle Valley Drive, 
 HILLSIDE VIC 3037",500.0,4,2,2,House
 "7 Moonah Circuit, 
 LARA VIC 3212",500.0,3,2,2,House
-"1005/560 Flinders Street, 
-MELBOURNE VIC 3000",,1,1, ,Apartment / Unit / Flat
 "146 Whites Road, 
 MOUNT DUNEED VIC 3217",500.0,3,2,2,House
 "204/33 Racecourse Road, 
@@ -2395,8 +2289,6 @@ CARLTON VIC 3053",375.0,1,1, ,Studio
 CHELTENHAM VIC 3192",375.0,2,1,1,Apartment / Unit / Flat
 "72 Ontario Avenue, 
 CORIO VIC 3214",375.0,3,1,1,House
-"4/17 Norman Court, 
-DANDENONG VIC 3175",375.0,2,1,1,Villa
 "6 Beachurst Avenue, 
 DROMANA VIC 3936",400.0,3,1,2,House
 "7/657 Brunswick Street North, 
@@ -2419,8 +2311,6 @@ PRAHRAN VIC 3181",400.0,1,1, ,House
 RICHMOND VIC 3121",375.0,1,1,1,Apartment / Unit / Flat
 "8/60 Arthur Street, 
 SOUTH YARRA VIC 3141",375.0,1,1,1,Apartment / Unit / Flat
-"4/14 Tanti Avenue, 
-MORNINGTON VIC 3931",,2,2,2,Apartment / Unit / Flat
 "31 Ardoyne Street, 
 BLACK ROCK VIC 3193",750.0,3,1,3,House
 "1305E/888 Collins Street, 
@@ -2507,8 +2397,6 @@ ROSANNA VIC 3084",610.0,2,1,1,Townhouse
 SEAFORD VIC 3198",610.0,3,2,2,House
 "4 Lisa Beth Mews, 
 SKYE VIC 3977",610.0,4,2,2,House
-"915/25 Coventry Street, 
-SOUTHBANK VIC 3006",,1,1, ,Apartment / Unit / Flat
 "706/43 Hancock Street, 
 SOUTHBANK VIC 3006",610.0,2,1, ,Apartment / Unit / Flat
 "48 Curlew Avenue, 
@@ -2541,7 +2429,6 @@ ABBOTSFORD VIC 3067",620.0,2,1,1,Apartment / Unit / Flat
 BLACK ROCK VIC 3193",2.0,5,3,5,House
 "104 Male Street, 
 BRIGHTON VIC 3186",2.0,4,5,4,House
-BRIGHTON VIC 3186,,5,4,3,Apartment / Unit / Flat
 "75 Coppin Street, 
 MALVERN EAST VIC 3145",2.0,5,4,3,House
 "6703/500 Elizabeth Street, 
@@ -2628,7 +2515,6 @@ FRANKSTON VIC 3199",450.0,2,1,1,Apartment / Unit / Flat
 FRANKSTON SOUTH VIC 3199",450.0,2,1,1,Apartment / Unit / Flat
 "12 Somers St, 
 FRASER RISE VIC 3336",450.0,3,2,2,House
-FRASER RISE VIC 3336,2.0,4,2,2,House
 "23 Basin Street, 
 FRASER RISE VIC 3336",450.0,3,2,1,House
 "17 Keynes Circuit, 
@@ -2699,18 +2585,12 @@ FAWKNER VIC 3060",460.0,3,1,4,House
 MELBOURNE VIC 3000",450.0,1,1, ,Studio
 "405/181 ABeckett Street, 
 MELBOURNE VIC 3000",450.0,1,1, ,Studio
-MELTON VIC 3337,2.0,4,2,2,House
-MELTON VIC 3337,2.0,4,2,2,House
-MELTON SOUTH VIC 3338,2.0,4,2,2,House
-MELTON SOUTH VIC 3338,2.0,4,2,2,House
 "139 Bridge Road, 
 MELTON SOUTH VIC 3338",450.0,3,2,2,House
 "77 Blamey Drive, 
 MELTON SOUTH VIC 3338",450.0,3,2,2,House
 "6 Marsala Way, 
 MERNDA VIC 3754",450.0,4,2,2,House
-MICKLEHAM VIC 3064,2.0,4,2,2,House
-MICKLEHAM VIC 3064,2.0,4,2,2,House
 "24 Beavers St, 
 MICKLEHAM VIC 3064",450.0,3,2,2,House
 "9 Montague Street, 
@@ -2741,8 +2621,6 @@ BRIGHTON EAST VIC 3187",1.0,4,3,4,House
 MELBOURNE VIC 3000",1800.0,3,2,2,Apartment / Unit / Flat
 "162/461 St Kilda Road, 
 MELBOURNE VIC 3004",1.0,3,2,2,Apartment / Unit / Flat
-"11 Alexandra Avenue, 
-SOUTH YARRA VIC 3141",,6,2,2,House
 "9 Copelen Street, 
 SOUTH YARRA VIC 3141",1.0,5,3,1,House
 "7801/7 Riverside Quay, 
@@ -2809,18 +2687,12 @@ MOUNT WAVERLEY VIC 3149",620.0,3,2,2,Apartment / Unit / Flat
 NORTH MELBOURNE VIC 3051",620.0,2,1, ,Townhouse
 "5/309 Heidelberg Road, 
 NORTHCOTE VIC 3070",360.0,1,1,1,Apartment / Unit / Flat
-"85 Asbury Street, 
-OCEAN GROVE VIC 3226",,2,2,1,House
 "4/238 Cumberland Road, 
 PASCOE VALE VIC 3044",360.0,2,1,1,Apartment / Unit / Flat
-"16 Flinders Street, 
-QUEENSCLIFF VIC 3225",,3,1,2,House
 "Rear 111B Spring Street, 
 RESERVOIR VIC 3073",360.0,2,1, ,House
 "3/19 Bellevue Street, 
 RICHMOND VIC 3121",360.0,1,1, ,Apartment / Unit / Flat
-"71 Seventh Avenue, 
-ROSEBUD VIC 3939",,2,1, ,House
 "9 Gipps Street, 
 ROSEBUD VIC 3939",360.0,3,1,2,House
 "3 Walter Street, 
@@ -2831,8 +2703,6 @@ TULLAMARINE VIC 3043",360.0,2,1,1,House
 TULLAMARINE VIC 3043",360.0,3,1,1,House
 "1/12 Puli Street, 
 WERRIBEE VIC 3030",360.0,2,1, ,House
-"42 Russell Street, 
-WERRIBEE VIC 3030",,3,1,3,House
 "1/94 Silvereye Crescent, 
 WERRIBEE VIC 3030",360.0,3,1,4,House
 "9 Camden Way, 
@@ -2899,8 +2769,6 @@ HERNE HILL VIC 3218",350.0,2,1,1,Apartment / Unit / Flat
 HERNE HILL VIC 3218",350.0,1,1,1,Studio
 "4/51 Belle Vue Avenue, 
 HIGHTON VIC 3216",350.0,1,1,1,Apartment / Unit / Flat
-"11/12 Cedar Grove, 
-HIGHTON VIC 3216",,2,1,1,Apartment / Unit / Flat
 "2/35 Hunter Avenue, 
 HOPPERS CROSSING VIC 3029",350.0,2,1,1,Apartment / Unit / Flat
 "9/86 Marshall Street, 
@@ -2941,8 +2809,6 @@ MELBOURNE VIC 3000",700.0,2,1, ,Apartment / Unit / Flat
 MELBOURNE VIC 3000",700.0,1,1, ,Apartment / Unit / Flat
 "1910/138 Spencer Street, 
 MELBOURNE VIC 3000",700.0,2,1, ,Apartment / Unit / Flat
-"4204/568 Collins Street, 
-MELBOURNE VIC 3000",,2,2,1,Apartment / Unit / Flat
 "1310/639 Lonsdale Street, 
 MELBOURNE VIC 3000",700.0,2,2,1,Apartment / Unit / Flat
 "117/1 Albert Road, 
@@ -2979,14 +2845,10 @@ SOUTHBANK VIC 3006",690.0,2,1, ,Apartment / Unit / Flat
 WILLIAMS LANDING VIC 3027",690.0,5,3,2,House
 "9 Inlet Street, 
 ASPENDALE VIC 3195",695.0,4,3,2,Townhouse
-"72A Swans Way, 
-CAPEL SOUND VIC 3940",,4,3,2,House
 "12 Elmtree Terrace, 
 CHADSTONE VIC 3148",695.0,3,1,2,Townhouse
 "59 Springleaf Avenue, 
 CLYDE NORTH VIC 3978",695.0,4,2,2,House
-"65 You Yangs Ave, 
-CURLEWIS VIC 3222",,4,2, ,House
 "1307/8 Waterview Walk, 
 DOCKLANDS VIC 3008",695.0,2,2,2,Apartment / Unit / Flat
 "42 Christopher Drive, 
@@ -3003,8 +2865,6 @@ MALVERN EAST VIC 3145",695.0,2,1,1,Townhouse
 NEWPORT VIC 3015",3.0,4,2,4,House
 "90 Palm Beach Drive, 
 PATTERSON LAKES VIC 3197",695.0,5,2,4,House
-"45 Limpet Circuit, 
-POINT LONSDALE VIC 3225",,5,3,2,House
 "103 Ingles Street, 
 PORT MELBOURNE VIC 3207",695.0,2,1, ,House
 "16 Marian Court, 
@@ -3055,12 +2915,8 @@ DOCKLANDS VIC 3008",690.0,2,2,1,Apartment / Unit / Flat
 SOUTHBANK VIC 3006",590.0,2,1,1,Apartment / Unit / Flat
 "1714/628 Flinders Street, 
 DOCKLANDS VIC 3008",650.0,2,1, ,Apartment / Unit / Flat
-"205 Autumn Street, 
-GEELONG WEST VIC 3218",,3,2,1,House
 "3007/80 Abeckett Street, 
 MELBOURNE VIC 3000",680.0,2,1, ,Apartment / Unit / Flat
-"2 forrest Avenue, 
-SORRENTO VIC 3943",,4,2, ,House
 "4005/105 Clarendon st, 
 SOUTHBANK VIC 3006",650.0,2,1, ,Apartment / Unit / Flat
 "7 Langs Road, 
@@ -3075,8 +2931,6 @@ ABBOTSFORD VIC 3067",500.0,2,1,1,Apartment / Unit / Flat
 ABBOTSFORD VIC 3067",500.0,1,1,1,Apartment / Unit / Flat
 "102/631 Victoria Street, 
 ABBOTSFORD VIC 3067",500.0,1,1, ,Apartment / Unit / Flat
-"5&6/20 Green Street, 
-AIRPORT WEST VIC 3042",500.0,2,1,2,Townhouse
 "1/19 Clydesdale Road, 
 AIRPORT WEST VIC 3042",500.0,3,1,2,Apartment / Unit / Flat
 "18 Carling Court, 
@@ -3105,8 +2959,6 @@ ASCOT VALE VIC 3032",500.0,2,2,1,Apartment / Unit / Flat
 ASCOT VALE VIC 3032",500.0,2,2,1,Apartment / Unit / Flat
 "101/5 Cleveland Road, 
 ASHWOOD VIC 3147",500.0,2,2,1,Apartment / Unit / Flat
-"229 Military Road, 
-AVONDALE HEIGHTS VIC 3034",,3,1,2,House
 "5/21D Riviera Road, 
 AVONDALE HEIGHTS VIC 3034",500.0,2,1,2,Apartment / Unit / Flat
 "9/57 Lansdowne Road, 
@@ -3153,8 +3005,6 @@ WERRIBEE VIC 3030",490.0,4,2,2,House
 FITZROY VIC 3065",720.0,2,2,1,Apartment / Unit / Flat
 "24 Camelot Drive, 
 GLEN WAVERLEY VIC 3150",720.0,4,2,2,House
-"2/12 Owens Av, 
-GLEN WAVERLEY VIC 3150",,4,3,2,Townhouse
 "2 Keller Cl, 
 GREENVALE VIC 3059",720.0,4,2,2,House
 "306/25 Small Street, 
@@ -3165,8 +3015,6 @@ HEATHERTON VIC 3202",720.0,3,2,2,House
 HIGHTON VIC 3216",720.0,3,2,1,Townhouse
 "3 Jacaranda Lane, 
 KEYSBOROUGH VIC 3173",720.0,3,2,2,Townhouse
-"3/37 Darling Road, 
-MALVERN EAST VIC 3145",720.0,2,1,2,Townhouse
 "10 Ibis Place, 
 MARIBYRNONG VIC 3032",720.0,3,2,1,House
 "4119/228 La Trobe Street, 
@@ -3223,8 +3071,6 @@ SOUTH MELBOURNE VIC 3205",400.0,1,1,1,Apartment / Unit / Flat
 SOUTHBANK VIC 3006",400.0,1,1, ,Apartment / Unit / Flat
 "3/132 Power Street, 
 ST ALBANS VIC 3021",400.0,2,2,1,Townhouse
-"67 Theodore Street, 
-ST ALBANS VIC 3021",,3,1,1,House
 "5 Acfold Court, 
 ST ALBANS VIC 3021",400.0,3,1,1,House
 "8 Phoenix Street, 
@@ -3245,8 +3091,6 @@ TOORAK VIC 3142",1100.0,3,1, ,House
 TOORAK VIC 3142",1100.0,2,2,1,Apartment / Unit / Flat
 "3 Green Street, 
 WINDSOR VIC 3181",1.0,3,1,1,House
-"203/8 James Street, 
-WINDSOR VIC 3181",1100.0,2,2, ,Apartment / Unit / Flat
 "10/90-110 Smythe Street, 
 PORTARLINGTON VIC 3223",1500.0,3,1, ,Apartment / Unit / Flat
 "4804/260 City Rd, 
@@ -3406,16 +3250,10 @@ NORTHCOTE VIC 3070",400.0,1,1,1,Apartment / Unit / Flat
 NORTHCOTE VIC 3070",400.0,1,1,1,Apartment / Unit / Flat
 "3/309 Heidelberg Road, 
 NORTHCOTE VIC 3070",400.0,1,1,1,Apartment / Unit / Flat
-"126 The Parade, 
-OCEAN GROVE VIC 3226",,3,1,2,House
 "102/18 Tribeca Drive, 
 POINT COOK VIC 3030",400.0,2,2,1,Apartment / Unit / Flat
 "1 Old Geelong Road, 
 POINT LONSDALE VIC 3225",400.0,2,1,2,House
-"6 Robertson Court, 
-POINT LONSDALE VIC 3225",,3,2,1,House
-"46 Lawrence Road, 
-POINT LONSDALE VIC 3225",,3,1,1,House
 "7/6 Airlie Avenue, 
 PRAHRAN VIC 3181",400.0,2,1,1,Apartment / Unit / Flat
 "12/35a Grandview Grove, 
@@ -3462,8 +3300,6 @@ PRAHRAN VIC 3181",720.0,3,1,1,House
 RESERVOIR VIC 3073",720.0,4,2,2,House
 "58 Neptune St, 
 RICHMOND VIC 3121",720.0,2,1,1,House
-"68A Helm Avenue, 
-SAFETY BEACH VIC 3936",,4,2,2,Townhouse
 "1101/259 Normanby Road, 
 SOUTH MELBOURNE VIC 3205",720.0,2,2, ,Apartment / Unit / Flat
 "113/140 Dudley Street, 
@@ -3590,8 +3426,6 @@ DROMANA VIC 3936",695.0,4,3,2,Townhouse
 EAST MELBOURNE VIC 3002",700.0,1,1, ,Apartment / Unit / Flat
 "112/80 Cheltenham Road, 
 DANDENONG VIC 3175",350.0,1,1,1,Apartment / Unit / Flat
-"43/35 David Street, 
-DANDENONG VIC 3175",350.0,2,1,1,Apartment / Unit / Flat
 "9/60-62 Herbert Street, 
 DANDENONG VIC 3175",350.0,2,1,1,Apartment / Unit / Flat
 "3/18 Canberra Ave, 
@@ -3776,8 +3610,6 @@ MELBOURNE VIC 3004",2000.0,3,2,2,Apartment / Unit / Flat
 MELBOURNE VIC 3000",2.0,2,2,1,Apartment / Unit / Flat
 "7-9 Leveson St, 
 NORTH MELBOURNE VIC 3051",2.0,6,3,1,House
-"69 Esplanade East, 
-PORT MELBOURNE VIC 3207",2.0,2,2,2,House
 "37 Victoria Street, 
 WILLIAMSTOWN VIC 3016",2.0,4,3,1,House
 "2/1 Chatsworth Avenue, 
@@ -3816,8 +3648,6 @@ LYNBROOK VIC 3975",620.0,4,2,3,House
 MAIDSTONE VIC 3012",620.0,3,2,2,House
 "17/15A Wattle Grove, 
 MCKINNON VIC 3204",620.0,2,1,1,Apartment / Unit / Flat
-"507/470 St Kilda Road, 
-MELBOURNE VIC 3004",,2,1,1,Apartment / Unit / Flat
 "2505/155 Franklin Street, 
 MELBOURNE VIC 3000",620.0,1,1,1,Apartment / Unit / Flat
 "1203B/639 Little Lonsdale Street, 
@@ -3912,7 +3742,6 @@ PASCOE VALE VIC 3044",450.0,2,1,1,Townhouse
 PASCOE VALE VIC 3044",450.0,3,2, ,House
 "13 Vimy Court, 
 PASCOE VALE SOUTH VIC 3044",450.0,2,1,1,House
-POINT COOK VIC 3030,2.0,4,2,2,House
 "36 Lincoln Heath Boulevard, 
 POINT COOK VIC 3030",450.0,3,3,2,House
 "4/19 Hemsley Promenade, 
@@ -3981,8 +3810,6 @@ SOUTHBANK VIC 3006",620.0,1,1,1,Apartment / Unit / Flat
 SOUTHBANK VIC 3006",620.0,2,1,1,Apartment / Unit / Flat
 "612/80 Clarendon Street, 
 SOUTHBANK VIC 3006",620.0,1,1,1,Apartment / Unit / Flat
-"1 Woodland Avenue, 
-MOUNT ELIZA VIC 3930",,4,2,2,House
 "5/90-110 Smythe Street, 
 PORTARLINGTON VIC 3223",1750.0,2,1, ,Apartment / Unit / Flat
 "7/90-110 Smythe Street, 
@@ -3999,8 +3826,6 @@ ABBOTSFORD VIC 3067",1.0,3,2,2,Apartment / Unit / Flat
 ALBERT PARK VIC 3206",1.0,3,2, ,House
 "3/243 Balaclava Road, 
 CAULFIELD NORTH VIC 3161",2.0,4,3,2,Townhouse
-"22 Grout Street, 
-HAMPTON VIC 3188",,5,3,2,House
 "83 Grandview Terrace, 
 MOUNT MARTHA VIC 3934",1700.0,5,2,2,House
 "502/88 Beach Street, 
@@ -4082,11 +3907,8 @@ NORTHCOTE VIC 3070",345.0,1,1,1,Apartment / Unit / Flat
 ROCKBANK VIC 3335",345.0,2,1,2,House
 "341 Lower Plenty Road, 
 VIEWBANK VIC 3084",345.0,2,1,2,House
-"21-25 Powlett St, 
-EAST MELBOURNE VIC 3002",,1,1,1,Apartment / Unit / Flat
 "2/45 Station Street, 
 FAIRFIELD VIC 3078",349.0,1,1,1,Apartment / Unit / Flat
-MELBOURNE VIC 3000,,1,1, ,Apartment / Unit / Flat
 "5/37 St Kinnord Street, 
 ABERFELDIE VIC 3040",350.0,1,1,1,Apartment / Unit / Flat
 "3/52 King Edward Avenue, 
@@ -4106,8 +3928,6 @@ THORNBURY VIC 3071",350.0,1,1,1,Apartment / Unit / Flat
 "10/2A Myoora Road, 
 TOORAK VIC 3142",350.0,1,1,1,Apartment / Unit / Flat
 TYABB VIC 3913,350.0,2,1,1,Apartment / Unit / Flat
-"Unit/435 Wallington Road, 
-WALLINGTON VIC 3222",,2,1,1,Apartment / Unit / Flat
 "21 Gossamer Street, 
 WERRIBEE VIC 3030",350.0,3,1,1,House
 "207/5 Stawell Street, 
@@ -4162,8 +3982,6 @@ HADFIELD VIC 3046",320.0,1,1,1,House
 HEIDELBERG WEST VIC 3081",320.0,1,1,1,Apartment / Unit / Flat
 "3/2 Everett Close, 
 HERNE HILL VIC 3218",320.0,1,1,1,Apartment / Unit / Flat
-"911/500 Flinders Street, 
-MELBOURNE VIC 3000",, ,1, ,Apartment / Unit / Flat
 "593 Elizabeth Street, 
 MELBOURNE VIC 3000",320.0,1,1, ,Apartment / Unit / Flat
 "14 Bennett Street, 
@@ -4184,8 +4002,6 @@ NEWTOWN VIC 3220",320.0,1,1,1,Apartment / Unit / Flat
 NORLANE VIC 3214",320.0,2,1,3,House
 "74 Eagle Parade, 
 NORLANE VIC 3214",320.0,2,1,3,House
-"3/435 Flemington Road, 
-NORTH MELBOURNE VIC 3051",,2,1, ,Apartment / Unit / Flat
 "106/9 High Street, 
 NORTH MELBOURNE VIC 3051",320.0,1,1, ,Apartment / Unit / Flat
 "1/1067 High Street, 
@@ -4372,8 +4188,6 @@ CARRUM VIC 3197",720.0,3,2,2,Townhouse
 CHELTENHAM VIC 3192",720.0,3,2,2,House
 "1/30 Francis, 
 CLAYTON VIC 3168",720.0,5,3,1,Townhouse
-"APF2.1 29 Browns Road, 
-CLAYTON VIC 3168",720.0,2,1,1,New apartments / off the plan
 "1A/9 Eva Street, 
 CLAYTON VIC 3168",720.0,3,3,2,Townhouse
 "14 Playwright Street, 
@@ -4508,8 +4322,6 @@ SOUTH YARRA VIC 3141",1.0,3,1, ,House
 SOUTH YARRA VIC 3141",1100.0,3,2,2,Apartment / Unit / Flat
 "Thomas Street, 
 DANDENONG VIC 3175",1.0,3,1, ,Apartment / Unit / Flat
-"182/8 Waterside Pl, 
-DOCKLANDS VIC 3008",,3,2,2,Apartment / Unit / Flat
 "25 South Wharf Drive, 
 DOCKLANDS VIC 3008",1.0,3,2,2,Townhouse
 "65 Rose Street, 
@@ -4622,12 +4434,8 @@ HAMPTON VIC 3188",750.0,3,2,1,Townhouse
 HEIDELBERG VIC 3084",750.0,3,2,2,House
 "29 Ironbark Crescent, 
 IVANHOE VIC 3079",750.0,3,2,2,Townhouse
-"39 Largo Circuit, 
-JUNCTION VILLAGE VIC 3977",,4,3,2,House
 "143 Empress Avenue, 
 KINGSVILLE VIC 3012",750.0,3,2, ,House
-"2/7 Ashby Court, 
-CHADSTONE VIC 3148",710.0,3,2,1,Townhouse
 "1706N/883 Collins Street, 
 DOCKLANDS VIC 3008",710.0,2,1,1,Apartment / Unit / Flat
 "3617/628 Flinders Street, 
@@ -4772,8 +4580,6 @@ NORLANE VIC 3214",490.0,3,2,1,Townhouse
 NORTH MELBOURNE VIC 3051",490.0,2,1, ,House
 "2/127 Bonnyvale Road, 
 OCEAN GROVE VIC 3226",490.0,2,1,1,Townhouse
-"35 Penleigh Crescent, 
-OCEAN GROVE VIC 3226",,3,2,1,House
 "4 Arlington Crescent, 
 OCEAN GROVE VIC 3226",490.0,3,2,1,House
 "5/86-90 The Terrace, 
@@ -4806,8 +4612,6 @@ CLIFTON HILL VIC 3068",630.0,2,2,1,Apartment / Unit / Flat
 CLYDE VIC 3978",630.0,4,2,4,House
 "304T/70 Stanley Street, 
 COLLINGWOOD VIC 3066",630.0,2,2,1,Apartment / Unit / Flat
-"6 Kenwood Green, 
-DERRIMUT VIC 3026",630.0,4,2,2,House
 "711/8 Pearl River Road, 
 DOCKLANDS VIC 3008",630.0,2,1,1,Apartment / Unit / Flat
 "416B/455 Glen Huntly Road, 
@@ -4816,16 +4620,12 @@ ELSTERNWICK VIC 3185",630.0,2,2,1,Apartment / Unit / Flat
 GLEN WAVERLEY VIC 3150",630.0,4,2,2,House
 "60 Avendon Boulevard, 
 GLEN WAVERLEY VIC 3150",630.0,3,2,2,Apartment / Unit / Flat
-"47 Cape Street, 
-HEIDELBERG VIC 3084",630.0,3,2,1,Townhouse
 "81 Southern Road, 
 HEIDELBERG HEIGHTS VIC 3081",630.0,3,3,2,House
 "2/39 Marie Avenue, 
 HEIDELBERG HEIGHTS VIC 3081",630.0,3,2,2,Townhouse
 "120A Edwin Street, 
 HEIDELBERG HEIGHTS VIC 3081",630.0,3,2,3,Townhouse
-"83 Dryden Way, 
-HIGHTON VIC 3216",,4,2,2,House
 "1907/483 Swanston Street, 
 MELBOURNE VIC 3000",700.0,2,2,1,Apartment / Unit / Flat
 "4410/442 Elizabeth Street, 
@@ -4850,14 +4650,10 @@ WERRIBEE VIC 3030",320.0,2,1,1,Apartment / Unit / Flat
 WERRIBEE VIC 3030",320.0, ,1, ,Studio
 "23/132 Rupert Street, 
 WEST FOOTSCRAY VIC 3012",320.0,1,1,1,Apartment / Unit / Flat
-"11/43-45 Church Street, 
-WEST FOOTSCRAY VIC 3012",,1,1,1,House
 "2/85 Henry Street, 
 WINDSOR VIC 3181",320.0,1,1,1,Apartment / Unit / Flat
 "702/59 Paisley Street, 
 FOOTSCRAY VIC 3011",323.0,2,2,1,Apartment / Unit / Flat
-"50 Avalon Road, 
-AVALON VIC 3212",,1,1,1,Vacant land
 "2/204 High Street, 
 BELMONT VIC 3216",325.0,1,1,1,Apartment / Unit / Flat
 "4/548 Moreland Road, 
@@ -4906,8 +4702,6 @@ CARLTON NORTH VIC 3054",360.0,1,1,1,Apartment / Unit / Flat
 CAULFIELD VIC 3162",360.0,1,1,1,Apartment / Unit / Flat
 "Rm 1/10 - 12 Florence Ave, 
 CLAYTON VIC 3168",360.0,1,1,1,Apartment / Unit / Flat
-"4/6 King Street, 
-COBURG VIC 3058",,1,1,1,Apartment / Unit / Flat
 "405M/60 Stanley Street, 
 COLLINGWOOD VIC 3066",360.0, ,1, ,Studio
 "8/45 Lygon Drive, 
@@ -4945,8 +4739,6 @@ CARLTON VIC 3053",350.0,1,1, ,Apartment / Unit / Flat
 CARLTON VIC 3053",349.0,1,1, ,Studio
 "9/373 Neerim Road, 
 CARNEGIE VIC 3163",350.0,1,1,1,Apartment / Unit / Flat
-"14/41 Northcote Avenue, 
-CAULFIELD NORTH VIC 3161",,1,1,1,Apartment / Unit / Flat
 "58/167 Hawthorn Road, 
 CAULFIELD NORTH VIC 3161",350.0,1,1, ,Retirement Living
 "5/55 Filbert Street, 
@@ -4983,8 +4775,6 @@ BRUNSWICK VIC 3056",510.0,2,1,1,Apartment / Unit / Flat
 BRUNSWICK EAST VIC 3057",510.0,2,2,1,Apartment / Unit / Flat
 "1/999 Rathdowne Street, 
 CARLTON NORTH VIC 3054",510.0,1,1,1,Apartment / Unit / Flat
-"19 Stannis Street, 
-CHARLEMONT VIC 3217",,4,2,2,House
 "3/48 Woodbine Grove, 
 CHELSEA VIC 3196",510.0,2,2,1,Townhouse
 "27 Pasadena Boulevard, 
@@ -5003,8 +4793,6 @@ SPRINGVALE VIC 3171",620.0,3,2,2,Townhouse
 ST KILDA VIC 3182",620.0,2,2,1,Apartment / Unit / Flat
 "3/28 Roland Avenue, 
 STRATHMORE VIC 3041",620.0,2,2,1,Townhouse
-"11 Band Street, 
-SUNBURY VIC 3429",,6,3,4,House
 "1205/33-43 Batman Street, 
 WEST MELBOURNE VIC 3003",620.0,2,1,1,Apartment / Unit / Flat
 "1/20 Pascoe Street, 
@@ -5013,8 +4801,6 @@ WESTMEADOWS VIC 3049",620.0,4,3,4,Townhouse
 WHEELERS HILL VIC 3150",620.0,4,2,4,House
 "14 Wimmera Crescent, 
 WOLLERT VIC 3750",620.0,4,2,2,House
-"27a Regal Avenue, 
-HALLAM VIC 3803",2694.0,4,2,2,Apartment / Unit / Flat
 "307/254 Hampshire Road, 
 SUNSHINE VIC 3020",2700.0,2,2,1,Apartment / Unit / Flat
 "1/147 Curzon Street, 
@@ -5062,7 +4848,6 @@ TARNEIT VIC 3029",240.0,1,1,1,House
 TARNEIT VIC 3029",240.0,1,1,1,House
 "5/7 Parker Street, 
 WERRIBEE VIC 3030",240.0,1,1, ,House
-CHELSEA VIC 3196,,2,1,1,Apartment / Unit / Flat
 "386 Burwood Highway, 
 BURWOOD VIC 3125",245.0,1,1, ,Apartment / Unit / Flat
 "6/28 Sydney Street, 
@@ -5077,13 +4862,10 @@ CLAYTON VIC 3168",250.0,6,3, ,Apartment / Unit / Flat
 FOOTSCRAY VIC 3011",250.0,1,1, ,Apartment / Unit / Flat
 "Room 3/39A Culcairn Drive, 
 FRANKSTON SOUTH VIC 3199",250.0,1,1, ,Studio
-"4/18 Petkell Parade, 
-GROVEDALE VIC 3216",,1,1, ,House
 "35 Dunne Street, 
 KINGSBURY VIC 3083",250.0,1,3,2,House
 "60 Waverley Road, 
 MALVERN EAST VIC 3145",250.0,1,1, ,Apartment / Unit / Flat
-NOBLE PARK VIC 3174,,2,1,1,Apartment / Unit / Flat
 "6 High Street, 
 NORTH MELBOURNE VIC 3051",250.0,1,1, ,Apartment / Unit / Flat
 "226 Normanby Road, 
@@ -5154,16 +4936,10 @@ BRUNSWICK WEST VIC 3055",600.0,2,2,1,Apartment / Unit / Flat
 BUNDOORA VIC 3083",600.0,2,1,1,Apartment / Unit / Flat
 "3/28 Fairway Court, 
 BUNDOORA VIC 3083",600.0,4,3,2,Townhouse
-"9 Clanbrae Avenue, 
-BURWOOD VIC 3125",,3,1,2,House
 "10 Barnes Avenue, 
 BURWOOD VIC 3125",600.0,2,1,2,House
-"484 Eastbourne Road, 
-CAPEL SOUND VIC 3940",,3,2,4,House
 "3019/551 Swanston Street, 
 CARLTON VIC 3053",600.0,2,1, ,Apartment / Unit / Flat
-"3801/160 Victoria Street, 
-CARLTON VIC 3053",,1,1, ,Apartment / Unit / Flat
 "104/545 Rathdowne Street, 
 CARLTON VIC 3053",600.0,2,2,1,Apartment / Unit / Flat
 "50 Andrew Street, 
@@ -5184,8 +4960,6 @@ PASCOE VALE VIC 3044",650.0,3,1,1,House
 PASCOE VALE SOUTH VIC 3044",650.0,3,2,1,House
 "13 Erinka Crescent, 
 PATTERSON LAKES VIC 3197",650.0,3,2,2,House
-"17 Independence Avenue, 
-POINT COOK VIC 3030",,4,2,2,House
 "97 Festival Drive, 
 POINT COOK VIC 3030",650.0,5,3,2,House
 "160 Citybay Drive, 
@@ -5196,8 +4970,6 @@ POINT COOK VIC 3030",650.0,4,2,2,House
 POINT LONSDALE VIC 3225",650.0,4,2,2,House
 "5 Casablanca Street, 
 POINT LONSDALE VIC 3225",650.0,3,2,2,House
-"511/1 Dank Street, 
-PORT MELBOURNE VIC 3207",,2,1,1,Apartment / Unit / Flat
 "6 The Bend, 
 PORT MELBOURNE VIC 3207",650.0,2,1,1,House
 "58 Durcell Avenue, 
@@ -5214,8 +4986,6 @@ ST KILDA EAST VIC 3183",675.0,3,1,1,Apartment / Unit / Flat
 STRATHMORE VIC 3041",675.0,2,2,1,Townhouse
 "403/175 Rosslyn Street, 
 WEST MELBOURNE VIC 3003",675.0,2,2,1,Apartment / Unit / Flat
-"8 Union Street, 
-WINDSOR VIC 3181",,3,1,1,House
 "26 Aspire Place, 
 KEYSBOROUGH VIC 3173",679.0,3,2,1,Townhouse
 "5A Bright Avenue, 
@@ -5226,8 +4996,6 @@ ARMADALE VIC 3143",680.0,3,1,1,House
 ASCOT VALE VIC 3032",680.0,3,1,1,House
 "1A Sydney Street, 
 ASCOT VALE VIC 3032",680.0,3,1, ,House
-"14 Ozone Rd, 
-BARWON HEADS VIC 3227",,4,2,1,House
 "60 Brisbane Street, 
 BERWICK VIC 3806",680.0,5,3,2,House
 "67 Tinning St, 
@@ -5252,8 +5020,6 @@ WERRIBEE VIC 3030",380.0,3,1,4,House
 WERRIBEE VIC 3030",400.0,3,2,1,House
 "2/24 Riverside Avenue, 
 WERRIBEE VIC 3030",380.0,3,2,2,House
-"129 Parramatta Road, 
-WERRIBEE VIC 3030",,4,1,2,House
 "103 Duncans Road, 
 WERRIBEE VIC 3030",380.0,3,1,1,House
 "8/62 Anzac Drive, 
@@ -5264,8 +5030,6 @@ WYNDHAM VALE VIC 3024",380.0,3,1,2,House
 WYNDHAM VALE VIC 3024",380.0,2,1,1,House
 "6/3 Coles Court, 
 BEAUMARIS VIC 3193",400.0,1,1, ,Apartment / Unit / Flat
-"25 Buffalo Avenue, 
-CORIO VIC 3214",,3,1,2,House
 "6 Mokhtar Drive, 
 HOPPERS CROSSING VIC 3029",400.0,4,2,1,House
 "7/8 Clyde Street, 
@@ -5310,8 +5074,6 @@ BENTLEIGH EAST VIC 3165",850.0,5,2,2,House
 BENTLEIGH EAST VIC 3165",850.0,4,2,2,House
 "15 Hector Close, 
 BITTERN VIC 3918",850.0,4,2,2,House
-"3 Blyth St, 
-BREAMLEA VIC 3227",,4,2,3,House
 "39 Comer Street, 
 BRIGHTON EAST VIC 3187",850.0,4,2,2,House
 "31 Rose Street, 
@@ -5326,8 +5088,6 @@ BURWOOD VIC 3125",845.0,2,3,1,Townhouse
 MARIBYRNONG VIC 3032",550.0,2,2,1,Apartment / Unit / Flat
 "7 Covent Gardens, 
 POINT COOK VIC 3030",500.0,3,2,2,House
-"4607/80 A'Beckett Street, 
-MELBOURNE VIC 3000",,2,1, ,Apartment / Unit / Flat
 "31 Hood Crescent, 
 SUNBURY VIC 3429",550.0,3,1,2,House
 "10 Durant Circuit, 
@@ -5380,8 +5140,6 @@ MELBOURNE VIC 3000",500.0,1,1, ,Apartment / Unit / Flat
 MELBOURNE VIC 3004",500.0,1,1,1,Apartment / Unit / Flat
 "1201/9-23 Mackenzie Street, 
 MELBOURNE VIC 3000",500.0,1,1, ,Apartment / Unit / Flat
-"1307B/639 Little Lonsdale Street, 
-MELBOURNE VIC 3000",,1,1, ,Apartment / Unit / Flat
 "2205/80 Abeckett, 
 MELBOURNE VIC 3000",500.0,1,1, ,Apartment / Unit / Flat
 "113/360 St Kilda Road, 
@@ -5390,8 +5148,6 @@ MELBOURNE VIC 3000",500.0,1,1,1,Apartment / Unit / Flat
 MELBOURNE VIC 3004",500.0,1,1,1,Apartment / Unit / Flat
 "20 Shoalhaven Boulevard, 
 MOUNT DUNEED VIC 3217",575.0,4,2,2,House
-"43 Avonbury Drive, 
-ARMSTRONG CREEK VIC 3217",,4,2,2,House
 "313/330 Lygon Street, 
 BRUNSWICK EAST VIC 3057",555.0,2,2,1,Apartment / Unit / Flat
 "16C Banksia Street, 
@@ -5548,10 +5304,6 @@ SEABROOK VIC 3028",530.0,3,2,2,House
 SEAFORD VIC 3198",530.0,3,1,1,Apartment / Unit / Flat
 "25 Elisdon Drive, 
 SEAFORD VIC 3198",530.0,3,1,1,House
-"15 Billow Walk, 
-SOUTH MORANG VIC 3752",530.0,4,2,3,Townhouse
-"25 Billow Walk, 
-SOUTH MORANG VIC 3752",530.0,3,2,4,Townhouse
 "18 Monet Place, 
 SOUTH MORANG VIC 3752",530.0,3,2,2,House
 "2/23 St Leonards Court, 
@@ -5592,8 +5344,6 @@ MILL PARK VIC 3082",520.0,4,2,2,House
 MILL PARK VIC 3082",520.0,3,2,1,House
 "2 Truscott Court, 
 MILL PARK VIC 3082",520.0,4,2,2,House
-"23 Whiteley Street, 
-MOUNT DUNEED VIC 3217",,3,2,2,House
 "18 Pemberton Street, 
 MOUNT DUNEED VIC 3217",520.0,4,2,2,House
 "482 Highbury Road, 
@@ -5620,8 +5370,6 @@ NORTH MELBOURNE VIC 3051",520.0,2,1,1,House
 OAKLEIGH SOUTH VIC 3167",520.0,2,1,1,Apartment / Unit / Flat
 "17a Arlington Crescent, 
 OCEAN GROVE VIC 3226",520.0,3,2,1,House
-"2/46 Warrenwood Place, 
-LANGWARRIN VIC 3910",,3,2,2,Apartment / Unit / Flat
 "40 SYCAMORE STREET, 
 LANGWARRIN VIC 3910",520.0,3,1,3,House
 "40 Sycamore St, 
@@ -5640,10 +5388,6 @@ MELBOURNE VIC 3000",520.0,1,1, ,Apartment / Unit / Flat
 MELBOURNE VIC 3004",520.0,1,1,1,Apartment / Unit / Flat
 "2203/38 Rose Lane, 
 MELBOURNE VIC 3000",520.0,1,1, ,Apartment / Unit / Flat
-"1707b/250 Spencer street, 
-MELBOURNE VIC 3000",520.0,1,1, ,Apartment / Unit / Flat
-"2906a/250 Spencer Street, 
-MELBOURNE VIC 3000",520.0,1,1, ,Apartment / Unit / Flat
 "6010/568 Collins Street, 
 MELBOURNE VIC 3000",520.0,1,1, ,Apartment / Unit / Flat
 "3107/639 Little Lonsdale Street, 
@@ -5651,8 +5395,6 @@ MELBOURNE VIC 3000",520.0,1,1, ,Apartment / Unit / Flat
 "808/483 Swanston Street, 
 MELBOURNE VIC 3000",520.0,1,1, ,Apartment / Unit / Flat
 "1003/260 Spencer Street, 
-MELBOURNE VIC 3000",520.0,1,1, ,Apartment / Unit / Flat
-"1106/33 Mackenzie Street, 
 MELBOURNE VIC 3000",520.0,1,1, ,Apartment / Unit / Flat
 "1403/11 Rose Lane, 
 MELBOURNE VIC 3000",520.0,1,1, ,Apartment / Unit / Flat
@@ -5702,8 +5444,6 @@ POINT COOK VIC 3030",530.0,4,2,2,House
 POINT LONSDALE VIC 3225",530.0,4,2,2,House
 "3BR/241 Glen Huntly Road, 
 ELSTERNWICK VIC 3185",1.0,3,3,2,Apartment / Unit / Flat
-BRIGHTON VIC 3186,,3,2,2,Apartment / Unit / Flat
-BRIGHTON VIC 3186,,3,2,2,Townhouse
 "121 Charles Street, 
 ASCOT VALE VIC 3032",1400.0,5,3,2,House
 "1 Cosham St, 
@@ -5902,8 +5642,6 @@ MARIBYRNONG VIC 3032",550.0,2,2,1,Apartment / Unit / Flat
 MELBOURNE VIC 3004",550.0,1,1,1,Apartment / Unit / Flat
 "3003/618 Lonsdale St, 
 MELBOURNE VIC 3000",550.0,2,2,1,Apartment / Unit / Flat
-"801/299 King Street, 
-MELBOURNE VIC 3000",550.0,1,1, ,Apartment / Unit / Flat
 "14b/20 Commercial Road, 
 MELBOURNE VIC 3004",550.0,1,1,1,House
 "6309/568 Collins Street, 
@@ -5964,8 +5702,6 @@ SOUTH MELBOURNE VIC 3205",840.0,2,2,1,Apartment / Unit / Flat
 SOUTH YARRA VIC 3141",840.0,3,2,1,Apartment / Unit / Flat
 "1108/8 Kavanagh Street, 
 SOUTHBANK VIC 3006",840.0,2,1,1,Apartment / Unit / Flat
-"39/1A St Kilda Road, 
-ST KILDA VIC 3182",,1,1,1,Apartment / Unit / Flat
 "172 Ogilvie Street, 
 ESSENDON VIC 3040",845.0,5,2,4,House
 "5 Amara Circuit, 
@@ -6051,8 +5787,6 @@ SAFETY BEACH VIC 3936",675.0,2,2,2,Apartment / Unit / Flat
 SOUTHBANK VIC 3006",675.0,2,2,1,Apartment / Unit / Flat
 "4 Aimee Court, 
 MORNINGTON VIC 3931",650.0,3,2,2,House
-"27A Yewers Avenue, 
-MOUNT ELIZA VIC 3930",,3,2,2,House
 "11 Dale Court, 
 MOUNT MARTHA VIC 3934",650.0,4,2,4,House
 "3/8 Edna Street, 
@@ -6111,8 +5845,6 @@ CARRUM VIC 3197",600.0,3,2,1,Townhouse
 CAULFIELD VIC 3162",595.0,2,2,1,Apartment / Unit / Flat
 "4/41 Kooyong Road, 
 CAULFIELD NORTH VIC 3161",595.0,3,1,1,House
-"202/56 Kambrook Road, 
-CAULFIELD NORTH VIC 3161",600.0,2,1,1,Apartment / Unit / Flat
 "208/402 Dandenong Road, 
 CAULFIELD NORTH VIC 3161",600.0,2,1,2,Apartment / Unit / Flat
 "17 Glenora Street, 
@@ -6137,8 +5869,6 @@ ROSANNA VIC 3084",595.0,3,1,2,House
 ROSEBUD VIC 3939",600.0,4,2,2,Townhouse
 "3 Hinter Way, 
 ROXBURGH PARK VIC 3064",600.0,4,3,2,House
-"17 Tarawill Street, 
-RYE VIC 3941",,4,2,2,House
 "15 Sara Street, 
 RYE VIC 3941",595.0,3,2, ,House
 "33 Pardoner Road, 
@@ -6167,8 +5897,6 @@ SOUTH MORANG VIC 3752",600.0,4,2,2,House
 GEELONG VIC 3220",220.0,1,2, ,House
 "62 Bushlark Crs, 
 WILLIAMS LANDING VIC 3027",225.0,1,1, ,House
-"3006/81 Abeckett St, 
-MELBOURNE VIC 3000",,2,1,1,Apartment / Unit / Flat
 "216 Burwood Highway, 
 BURWOOD VIC 3125",230.0,1,1,4,Apartment / Unit / Flat
 "68/390 Burwood Highway, 
@@ -6238,8 +5966,6 @@ ELSTERNWICK VIC 3185",595.0,1,1,1,Apartment / Unit / Flat
 ELWOOD VIC 3184",600.0,2,1,1,Apartment / Unit / Flat
 "2/7 Vautier St, 
 ELWOOD VIC 3184",600.0,2,1,1,Apartment / Unit / Flat
-"18 Regnans Avenue, 
-ENDEAVOUR HILLS VIC 3802",,4,2,1,House
 "1401/33 Coventry Street, 
 SOUTHBANK VIC 3006",600.0,2,2, ,Apartment / Unit / Flat
 "3004/58 Clarke Street, 
@@ -6276,8 +6002,6 @@ ST KILDA VIC 3182",600.0,2,1,1,Apartment / Unit / Flat
 ST KILDA VIC 3182",600.0,2,1,1,Apartment / Unit / Flat
 "306/109 Inkerman St, 
 ST KILDA VIC 3182",600.0,2,2,1,Apartment / Unit / Flat
-"G05/27 Herbert Street, 
-ST KILDA VIC 3182",600.0,2,1,1,Apartment / Unit / Flat
 "G02/132 Hotham Street, 
 ST KILDA EAST VIC 3183",600.0,1,1,1,Apartment / Unit / Flat
 "48a Jack Road, 
@@ -6447,8 +6171,6 @@ CARLTON VIC 3053",850.0,2,2, ,Apartment / Unit / Flat
 CARLTON VIC 3053",850.0,2,1,1,Apartment / Unit / Flat
 "338 Station Street, 
 CARLTON NORTH VIC 3054",845.0,3,1, ,House
-"20 Frogmore Rd, 
-CARNEGIE VIC 3163",850.0,3,2,1,House
 "604/14-22 Woorayl Street, 
 CARNEGIE VIC 3163",950.0,3,2,2,Apartment / Unit / Flat
 "2/177 Neerim Road, 
@@ -6519,8 +6241,6 @@ FITZROY NORTH VIC 3068",450.0,1,1, ,Apartment / Unit / Flat
 FITZROY NORTH VIC 3068",450.0,1,1,1,Apartment / Unit / Flat
 "1306E/6 Tannery Walk, 
 FOOTSCRAY VIC 3011",450.0,1,1,1,Apartment / Unit / Flat
-"829/38 Mt Alexander Road, 
-TRAVANCORE VIC 3032",,2,1,1,Apartment / Unit / Flat
 "803/45 Dudley Street, 
 WEST MELBOURNE VIC 3003",550.0,1,1, ,Apartment / Unit / Flat
 "AP1.1/29 Browns Road, 
@@ -6541,10 +6261,6 @@ CARLTON VIC 3053",550.0,2,1, ,Apartment / Unit / Flat
 CLYDE VIC 3978",550.0,4,2,2,House
 "51 Moxham Drive, 
 CLYDE NORTH VIC 3978",550.0,4,2,2,House
-"7 Milka Avenue, 
-CLYDE NORTH VIC 3978",,4,2,2,House
-"34 Tartan Drive, 
-CLYDE NORTH VIC 3978",,4,2,1,House
 "75 Tangemere Way, 
 CRANBOURNE EAST VIC 3977",550.0,3,2,2,House
 "101/18 Malone Street, 
@@ -6566,8 +6282,6 @@ MELBOURNE VIC 3000",550.0,1,1, ,Apartment / Unit / Flat
 "1110/12 Queens Road, 
 MELBOURNE VIC 3004",550.0,2,1,1,Apartment / Unit / Flat
 "606/327 La Trobe Street, 
-MELBOURNE VIC 3000",550.0,1,1, ,Apartment / Unit / Flat
-"1507/33 Mackenzie Street, 
 MELBOURNE VIC 3000",550.0,1,1, ,Apartment / Unit / Flat
 "2804/327 La Trobe Street, 
 MELBOURNE VIC 3000",550.0,1,1, ,Apartment / Unit / Flat
@@ -6609,8 +6323,6 @@ FRASER RISE VIC 3336",500.0,4,2,2,House
 GEELONG VIC 3220",500.0,4,2, ,House
 "78 Shannon Avenue, 
 GEELONG WEST VIC 3218",500.0,3,2,1,House
-"44 Burnleigh Drive, 
-GLADSTONE PARK VIC 3043",,4,1,1,House
 "4/147 Neerim Road, 
 GLEN HUNTLY VIC 3163",500.0,2,2,1,Apartment / Unit / Flat
 "1/112 Cardinal Street, 
@@ -6625,8 +6337,6 @@ GOWANBRAE VIC 3043",500.0,3,2,1,House
 GREENSBOROUGH VIC 3088",500.0,2,2,1,Apartment / Unit / Flat
 "53 Davies Street, 
 HADFIELD VIC 3046",500.0,3,1,1,House
-"18 The Glade, 
-HAMPTON PARK VIC 3976",500.0,3,2,2,House
 "16 Redwood Avenue, 
 HAMPTON PARK VIC 3976",500.0,3,2,1,House
 "10/91 Marine Parade, 
@@ -6811,8 +6521,6 @@ RICHMOND VIC 3121",520.0,2,1, ,House
 ROCKBANK VIC 3335",520.0,4,2,2,House
 "20 Equity Street, 
 ROCKBANK VIC 3335",520.0,4,2,2,House
-"218 Eastbourne Road, 
-ROSEBUD VIC 3939",,4,1,2,House
 "51 Murray Anderson Road, 
 ROSEBUD VIC 3939",520.0,3,1,1,House
 "4 Higgins Street, 
@@ -6983,8 +6691,6 @@ MELBOURNE VIC 3000",550.0,1,1, ,House
 MELBOURNE VIC 3000",550.0,2,1, ,Apartment / Unit / Flat
 "1909/500 Elizabeth Street, 
 MELBOURNE VIC 3000",550.0,1,1, ,Apartment / Unit / Flat
-"513/33 Mackenzie Street, 
-MELBOURNE VIC 3000",550.0,1,1, ,House
 "2412/33 Mackenzie street, 
 MELBOURNE VIC 3000",550.0,1,1, ,Apartment / Unit / Flat
 "702/141-149 La Trobe Street, 
@@ -7031,7 +6737,6 @@ ARMSTRONG CREEK VIC 3217",550.0,4,2,2,House
 ARMSTRONG CREEK VIC 3217",545.0,4,2,2,House
 "30 McArthur Crescent, 
 ARMSTRONG CREEK VIC 3217",550.0,4,2,2,House
-DOREEN VIC 3754,2.0,4,2,2,House
 "139 DOVETON AVENUE, 
 DOVETON VIC 3177",450.0,3,1,2,House
 "2/16 Macedon Avenue, 
@@ -7062,9 +6767,6 @@ ELWOOD VIC 3184",450.0,1,1,1,Apartment / Unit / Flat
 ENDEAVOUR HILLS VIC 3802",450.0,2,1,1,Apartment / Unit / Flat
 "2 Reedy Lake Mews, 
 EPPING VIC 3076",450.0,3,2, ,Townhouse
-"Hayston Views, 
-EPPING VIC 3076",2.0,4,2,2,House
-EPPING VIC 3076,2.0,4,2,2,House
 "32 Bacchus Drive, 
 EPPING VIC 3076",450.0,3,2,2,House
 "22 Halter Crescent, 
@@ -7085,8 +6787,6 @@ FRANKSTON SOUTH VIC 3199",850.0,4,2,4,House
 GARDENVALE VIC 3185",850.0,4,1,2,House
 "13 Augusta Street, 
 GLEN HUNTLY VIC 3163",850.0,3,2,2,Townhouse
-"3 Inglis Ct, 
-GLEN WAVERLEY VIC 3150",,5,2,2,House
 "8A Martin Place, 
 GLEN WAVERLEY VIC 3150",850.0,4,2,1,Townhouse
 "8 Pentland Court, 
@@ -7105,8 +6805,6 @@ IVANHOE VIC 3079",850.0,3,2,2,House
 IVANHOE EAST VIC 3079",850.0,3,2,2,Apartment / Unit / Flat
 "G12/1 Wilfred Road, 
 IVANHOE EAST VIC 3079",850.0,3,2,2,Apartment / Unit / Flat
-"4a Woorite Place, 
-KEILOR EAST VIC 3033",,4,3,2,House
 "1609/31 Abeckett Street, 
 MELBOURNE VIC 3000",580.0,2,1,1,Apartment / Unit / Flat
 "6 Marks Avenue, 
@@ -7180,7 +6878,6 @@ SOUTH YARRA VIC 3141",650.0,2,1,1,Townhouse
 SOUTH YARRA VIC 3141",650.0,2,1,1,Apartment / Unit / Flat
 "915/32 Bray Street, 
 SOUTH YARRA VIC 3141",650.0,2,1,1,Apartment / Unit / Flat
-SOUTH YARRA VIC 3141,,1,1,1,Townhouse
 "51A Cromwell Road, 
 SOUTH YARRA VIC 3141",650.0,2,2,1,Townhouse
 "3 Moore Street, 
@@ -7630,8 +7327,6 @@ CLYDE NORTH VIC 3978",550.0,3,2,2,House
 MOONEE PONDS VIC 3039",500.0,1,1,1,Apartment / Unit / Flat
 "14/24 Bear Street, 
 MORDIALLOC VIC 3195",500.0,2,1, ,Apartment / Unit / Flat
-"10 Illowa Street, 
-MORNINGTON VIC 3931",,3,1, ,House
 "95 Grevillea Drive, 
 MOUNT DUNEED VIC 3217",500.0,4,2,2,House
 "47 Unico Circuit, 
@@ -7640,8 +7335,6 @@ MOUNT DUNEED VIC 3217",500.0,4,2,2,House
 MOUNT WAVERLEY VIC 3149",500.0,2,1,1,Apartment / Unit / Flat
 "12 Bradstreet Road, 
 MOUNT WAVERLEY VIC 3149",500.0,3,1, ,House
-"426 High St Rd, 
-MOUNT WAVERLEY VIC 3149",,4,2,4,House
 "4/28- 30 Forster Road, 
 MOUNT WAVERLEY VIC 3149",500.0,2,1,1,Apartment / Unit / Flat
 "14 Shiraz Crescent, 
@@ -7698,8 +7391,6 @@ BERWICK VIC 3806",410.0,3,1,2,Townhouse
 BROOKFIELD VIC 3338",410.0,4,2,2,House
 "19 Nantha Way, 
 BROOKFIELD VIC 3338",410.0,3,2,2,House
-"1/42 Garnet St, 
-BRUNSWICK VIC 3056",,2,1,2,Apartment / Unit / Flat
 "409/200 Lygon Street, 
 BRUNSWICK EAST VIC 3057",410.0,1,1,1,Apartment / Unit / Flat
 "6/11A Holmes Street, 
@@ -7807,8 +7498,6 @@ KENSINGTON VIC 3031",520.0,2,1,1,Apartment / Unit / Flat
 LALOR VIC 3075",520.0,2,2,1,Townhouse
 "35 Brighton Road, 
 ST KILDA VIC 3182",1.0,4,2,1,House
-"7 King Street, 
-ST KILDA EAST VIC 3183",,3,2, ,House
 "203/315 Beaconsfield Parade, 
 ST KILDA WEST VIC 3182",1.0,2,2,2,Apartment / Unit / Flat
 "3/2B ST Georges Road, 
@@ -7902,10 +7591,6 @@ EYNESBURY VIC 3338",520.0,4,2,2,House
 FAWKNER VIC 3060",520.0,3,1,1,House
 "5/166 Holden Street, 
 FITZROY NORTH VIC 3068",520.0,2,1,1,Apartment / Unit / Flat
-"1109/5 Joseph Road, 
-FOOTSCRAY VIC 3011",520.0,2,2, ,Apartment / Unit / Flat
-"102/8 Hallenstein Street, 
-FOOTSCRAY VIC 3011",520.0,2,2, ,Apartment / Unit / Flat
 "30 Creswick Street, 
 FOOTSCRAY VIC 3011",520.0,3,1,2,House
 "34 Chatham Street, 
@@ -7945,7 +7630,7 @@ MELBOURNE VIC 3000",800.0,1,1, ,Apartment / Unit / Flat
 "33 Allandale Road, 
 MENTONE VIC 3194",800.0,4,2,3,House
 "20 Blossom Park Drive, 
-MILL PARK VIC 3082",3.0,4,2,2,House
+MILL PARK VIC 3082",800.0,4,2,2,House
 "4/80 Airlie Road, 
 MONTMORENCY VIC 3094",800.0,3,2,2,Townhouse
 "4 Telford Close, 
@@ -8078,8 +7763,6 @@ ST KILDA VIC 3182",500.0,2,1,1,Apartment / Unit / Flat
 ST KILDA VIC 3182",500.0,2,1,1,Apartment / Unit / Flat
 "3/7 Ravens Grove, 
 ST KILDA EAST VIC 3183",500.0,1,1,1,Apartment / Unit / Flat
-"12 Westbourne Street, 
-STRATHTULLOH VIC 3338",500.0,4,2,2,House
 "4 Ipswich Street, 
 STRATHTULLOH VIC 3338",500.0,4,2,2,House
 "106 Phillip Drive, 
@@ -8110,8 +7793,6 @@ TARNEIT VIC 3029",500.0,4,2,2,House
 THOMASTOWN VIC 3074",500.0,4,2, ,House
 "114A/399 Burwood Highway, 
 BURWOOD VIC 3125",550.0,2,2,1,Apartment / Unit / Flat
-"27 Pawleena Circuit, 
-CAIRNLEA VIC 3023",,4,2,2,House
 "2 Greenhood Crescent, 
 CAPEL SOUND VIC 3940",550.0,4,1,3,House
 "6 Park Avenue, 
@@ -8250,8 +7931,6 @@ WHEELERS HILL VIC 3150",670.0,4,2,2,House
 AIRPORT WEST VIC 3042",675.0,3,2,2,Townhouse
 "40 Thomson Dr, 
 BARWON HEADS VIC 3227",675.0,3,1,2,House
-"23 Wattle Drive, 
-DOVETON VIC 3177",390.0,3,1,1,House
 "73/100 Keilor Rd, 
 ESSENDON NORTH VIC 3041",390.0,1,1,1,Apartment / Unit / Flat
 "3.2/277-283 Barkly Street, 
@@ -8264,8 +7943,6 @@ GEELONG VIC 3220",390.0,2,1,1,Apartment / Unit / Flat
 GLENROY VIC 3046",390.0,2,1,1,Townhouse
 "20 Kingston Street, 
 GROVEDALE VIC 3216",390.0,3,1,1,House
-"1/4 Wingarra Drive, 
-GROVEDALE VIC 3216",,2,1,1,Apartment / Unit / Flat
 "4/19 New Street, 
 HAMPTON VIC 3188",390.0,1,1, ,Apartment / Unit / Flat
 "2/37 Somerville Road, 
@@ -8318,15 +7995,11 @@ PASCOE VALE VIC 3044",600.0,3,2,1,Townhouse
 PASCOE VALE VIC 3044",595.0,2,1,1,Townhouse
 "14B Vaux Street, 
 PASCOE VALE SOUTH VIC 3044",595.0,3,2,2,House
-"9 Gilmore Grove, 
-POINT COOK VIC 3030",,4,2,2,House
 "16 Wattle Tree Drive, 
 POINT COOK VIC 3030",600.0,4,2,2,House
 "26 Devoe Road, 
 POINT COOK VIC 3030",600.0,4,2,2,House
 "62 Lennon Boulevard, 
-POINT COOK VIC 3030",600.0,4,3,2,House
-"11 Goolwa Road, 
 POINT COOK VIC 3030",600.0,4,3,2,House
 "15 Trapani Avenue, 
 POINT COOK VIC 3030",600.0,4,2,4,House
@@ -8362,8 +8035,6 @@ MARIBYRNONG VIC 3032",600.0,3,2,2,House
 MARIBYRNONG VIC 3032",595.0,2,2,1,House
 "53 Kellaway Street, 
 MARIBYRNONG VIC 3032",600.0,3,1,2,Townhouse
-"98 Flinders Street, 
-MCCRAE VIC 3938",,4,2,4,House
 "5/270B McKinnon Road, 
 MCKINNON VIC 3204",600.0,2,2,1,Apartment / Unit / Flat
 "4809/398 Elizabeth Street, 
@@ -8419,8 +8090,6 @@ ARMSTRONG CREEK VIC 3217",600.0,4,2,4,House
 ASCOT VALE VIC 3032",600.0,2,1,1,Townhouse
 "45 Walter Street, 
 ASCOT VALE VIC 3032",600.0,2,1, ,House
-"18 Sovereign Way, 
-AVONDALE HEIGHTS VIC 3034",,4,2,2,House
 "28 Seascape Avenue, 
 BALNARRING VIC 3926",600.0,3,2,1,House
 "2/27 Noble St, 
@@ -8493,8 +8162,6 @@ MOUNT MARTHA VIC 3934",600.0,3,1,1,House
 GEELONG VIC 3220",600.0,2,2,1,Apartment / Unit / Flat
 "229 Bellerine St, 
 GEELONG VIC 3220",600.0,3,2,2,House
-"205 Autumn Street, 
-GEELONG WEST VIC 3218",,3,2,1,House
 "98 South Circular Road, 
 GLADSTONE PARK VIC 3043",600.0,4,1,1,House
 "1/48 Lincoln Avenue, 
@@ -8553,8 +8220,6 @@ WEST FOOTSCRAY VIC 3012",390.0,3,1,1,House
 WHITTINGTON VIC 3219",390.0,3,1,2,House
 "39 Smith Street, 
 YEA VIC 3717",390.0,2,2, ,House
-"SC/22 Protea Street, 
-CARRUM DOWNS VIC 3201",,1,1, ,Retirement Living
 "48 Ellimatta Road, 
 MAMBOURIN VIC 3024",410.0,4,2,2,House
 "69A James Street, 
@@ -8607,8 +8272,6 @@ MELBOURNE VIC 3000",650.0,2,1,1,Apartment / Unit / Flat
 MELBOURNE VIC 3000",650.0,2,1,1,Apartment / Unit / Flat
 "507/610 St Kilda Road, 
 MELBOURNE VIC 3004",650.0,2,1,1,Apartment / Unit / Flat
-"1/109 Park Street, 
-SOUTH YARRA VIC 3141",,2,1,1,Apartment / Unit / Flat
 "3/16A MacFarlan Lane, 
 SOUTH YARRA VIC 3141",650.0,2,1,1,Townhouse
 "3/275 Domain Road, 
@@ -8729,8 +8392,6 @@ WOLLERT VIC 3750",570.0,4,2,3,House
 WOLLERT VIC 3750",570.0,4,2,2,House
 "119A Simpson Street, 
 YARRAVILLE VIC 3013",570.0,3,1,1,House
-"2909/33 Rose Ln, 
-MELBOURNE VIC 3000",600.0,2,1, ,House
 "5/25 Afton Street, 
 ABERFELDIE VIC 3040",575.0,3,2,2,Townhouse
 "2/50 Grange Road, 
@@ -8778,8 +8439,6 @@ OAKLEIGH VIC 3166",500.0,2,1,2,House
 OCEAN GROVE VIC 3226",500.0,4,2,2,House
 "2/3 Petras Place, 
 OCEAN GROVE VIC 3226",500.0,2,2,2,House
-"19 Ashwood Close, 
-OCEAN GROVE VIC 3226",,3,2,2,House
 "14/122 Beach Road, 
 PARKDALE VIC 3195",499.0,2,1,1,Apartment / Unit / Flat
 "21/212 The Avenue, 
@@ -9018,8 +8677,6 @@ TRUGANINA VIC 3029",540.0,4,2,2,House
 WYNDHAM VALE VIC 3024",540.0,4,2,2,House
 "1806/442 Elizabeth Street, 
 MELBOURNE VIC 3000",545.0,1,1, ,Apartment / Unit / Flat
-"10/35 Darling St, 
-SOUTH YARRA VIC 3141",,1,1, ,Apartment / Unit / Flat
 "128/135 Inkerman Street, 
 ST KILDA VIC 3182",545.0,2,1,1,Apartment / Unit / Flat
 "2/158 Dundas Street, 
@@ -9092,8 +8749,6 @@ CRANBOURNE EAST VIC 3977",520.0,4,2,1,House
 CRANBOURNE NORTH VIC 3977",520.0,4,2,2,House
 "4/48A Governors Road, 
 CRIB POINT VIC 3919",520.0,3,2,2,Apartment / Unit / Flat
-"6/16 MacPherson Street, 
-DANDENONG VIC 3175",,4,2,2,Apartment / Unit / Flat
 "22 Webster Street, 
 DANDENONG VIC 3175",520.0,3,2,2,Townhouse
 "55 Keneally Street, 
@@ -9156,8 +8811,6 @@ BELMONT VIC 3216",440.0,3,1,1,House
 BRUNSWICK VIC 3056",440.0,2,1, ,Apartment / Unit / Flat
 "202/6-8 Gamble Street, 
 BRUNSWICK EAST VIC 3057",440.0,1,1,1,Apartment / Unit / Flat
-"202/304 Lygon Street, 
-BRUNSWICK EAST VIC 3057",,1,1, ,Apartment / Unit / Flat
 "2/152 Victoria Drive, 
 THOMASTOWN VIC 3074",400.0,2,1,1,Apartment / Unit / Flat
 "15 Rex Drive, 
@@ -9210,8 +8863,6 @@ DONNYBROOK VIC 3064",550.0,4,2,2,House
 DOREEN VIC 3754",545.0,4,2,2,House
 "17/108 George Street, 
 EAST MELBOURNE VIC 3002",550.0,1,1, ,Apartment / Unit / Flat
-"Apt 704/9 Eades Street, 
-EAST MELBOURNE VIC 3002",,1,1,1,Apartment / Unit / Flat
 "538 Victoria Parade, 
 EAST MELBOURNE VIC 3002",550.0,2,1, ,House
 "3/9 Garden Avenue, 
@@ -9360,8 +9011,6 @@ BURNSIDE HEIGHTS VIC 3023",550.0,4,2,2,House
 BURWOOD VIC 3125",550.0,4,2,2,House
 "92 Grant Road, 
 SOMERVILLE VIC 3912",820.0,4,3,2,House
-"320 Plummer Street, 
-PORT MELBOURNE VIC 3207",,3,2,1,Apartment / Unit / Flat
 "10 Blackwood Close, 
 COBURG VIC 3058",800.0,4,2,2,Townhouse
 "1B Nola Street, 
@@ -9421,9 +9070,7 @@ MELBOURNE VIC 3000",670.0,2,2, ,Apartment / Unit / Flat
 "79/33 Latrobe Street, 
 MELBOURNE VIC 3000",670.0,2,1,1,Apartment / Unit / Flat
 "68 Riverdale Boulevard, 
-MERNDA VIC 3754",670.0,4,2,2,House
-"20 Vine Street, 
-MOONEE PONDS VIC 3039",,4,2,3,House
+MERNDA VIC 3754",2912.0,4,2,2,House
 "7/110 Bungower Road, 
 MORNINGTON VIC 3931",670.0,3,2,2,Townhouse
 "9 Greenham Crescent, 
@@ -9490,8 +9137,6 @@ MELBOURNE VIC 3000",650.0,2,1,1,Apartment / Unit / Flat
 MERNDA VIC 3754",650.0,5,3,2,House
 "366 Richardson Street, 
 MIDDLE PARK VIC 3206",650.0,2,2, ,House
-"14 Homestead Place, 
-MILL PARK VIC 3082",,4,2,2,House
 "1220/40 Hall Street, 
 MOONEE PONDS VIC 3039",650.0,2,2,1,Apartment / Unit / Flat
 "3/141 Park Street, 
@@ -9570,8 +9215,6 @@ FOOTSCRAY VIC 3011",600.0,2,2, ,Apartment / Unit / Flat
 FOOTSCRAY VIC 3011",600.0,3,2,2,Apartment / Unit / Flat
 "601/8 Joseph Road, 
 FOOTSCRAY VIC 3011",600.0,2,2,1,Apartment / Unit / Flat
-"103/12-18 Napier Street, 
-FOOTSCRAY VIC 3011",600.0,2,1,1,Apartment / Unit / Flat
 "25 Dudley Street, 
 FOOTSCRAY VIC 3011",595.0,3,1, ,House
 "224 Buckley Street, 
@@ -9595,8 +9238,6 @@ MELBOURNE VIC 3000",600.0,1,1, ,Apartment / Unit / Flat
 "2504/36 La Trobe Street, 
 MELBOURNE VIC 3000",600.0,2,1, ,Apartment / Unit / Flat
 "830/118 Franklin Street, 
-MELBOURNE VIC 3000",600.0,2,1,1,Apartment / Unit / Flat
-"702/33 MacKenzie Street, 
 MELBOURNE VIC 3000",600.0,2,1,1,Apartment / Unit / Flat
 "2001/318 Queen Street, 
 MELBOURNE VIC 3000",600.0,2,1, ,Apartment / Unit / Flat
@@ -9626,8 +9267,6 @@ MELBOURNE VIC 3000",600.0,2,1, ,Apartment / Unit / Flat
 MELBOURNE VIC 3000",600.0,1,1, ,Apartment / Unit / Flat
 "26 Dunvegan Crescent, 
 MACLEOD VIC 3085",595.0,3,2,2,House
-"14 Marino Court, 
-MORNINGTON VIC 3931",,3,2,1,House
 "4/30 West Fyans Street, 
 NEWTOWN VIC 3220",595.0,3,2,2,House
 "93 Buckingham Road, 
@@ -9642,8 +9281,6 @@ PARKVILLE VIC 3052",595.0,2,2,1,Apartment / Unit / Flat
 PASCOE VALE SOUTH VIC 3044",595.0,3,1, ,House
 "1/26-28 Boldrewood Parade, 
 RESERVOIR VIC 3073",595.0,3,2,2,House
-"15 Seabrook Avenue, 
-ROSEBUD VIC 3939",,3,1,2,House
 "109 Brights Drive, 
 RYE VIC 3941",595.0,4,3,2,House
 "4/256 Dromana Parade, 
@@ -9728,8 +9365,6 @@ ARMSTRONG CREEK VIC 3217",500.0,4,2,2,House
 ARMSTRONG CREEK VIC 3217",500.0,4,2, ,House
 "8 Spoonbill Drive, 
 ARMSTRONG CREEK VIC 3217",480.0,4,2,2,House
-"15 Sampford Street, 
-ARMSTRONG CREEK VIC 3217",,4,2,2,House
 "12 Amiable Parade, 
 ARMSTRONG CREEK VIC 3217",500.0,4,2,2,House
 "94 Naturaliste Way, 
@@ -9746,8 +9381,6 @@ ST LEONARDS VIC 3223",470.0,3,2,2,House
 ST LEONARDS VIC 3223",470.0,4,2,2,House
 "4 Wimbledon Boulevard, 
 STRATHTULLOH VIC 3338",470.0,4,2,2,House
-"2 Casey Avenue, 
-SUNBURY VIC 3429",,3,1,1,House
 "1/188 O'Shanassy Street, 
 SUNBURY VIC 3429",470.0,3,3,1,House
 "1/44 Barkly Street, 
@@ -9860,8 +9493,6 @@ MELBOURNE VIC 3000",600.0,2,2, ,House
 ELWOOD VIC 3184",650.0,2,1,1,Apartment / Unit / Flat
 "2/7 Ormond Esplanade, 
 ELWOOD VIC 3184",650.0,2,1,1,Apartment / Unit / Flat
-"1 Flame Robin Place, 
-ENDEAVOUR HILLS VIC 3802",650.0,4,2,1,Townhouse
 "352 Buckley Street, 
 ESSENDON VIC 3040",650.0,3,2,2,House
 "78 Kerferd Street, 
@@ -9980,7 +9611,6 @@ SOUTH MELBOURNE VIC 3205",660.0,1,1, ,Apartment / Unit / Flat
 ALBION VIC 3020",450.0,2,1,1,Townhouse
 "86A Myers Parade, 
 ALTONA MEADOWS VIC 3028",450.0,2,1,2,Apartment / Unit / Flat
-ARMSTRONG CREEK VIC 3217,2.0,4,2,2,House
 "4 Reid Street, 
 ASHWOOD VIC 3147",450.0,1,1, ,Duplex
 "178 Military Rd, 
@@ -10000,14 +9630,10 @@ BELMONT VIC 3216,450.0,3,2,1,Apartment / Unit / Flat
 BENTLEIGH VIC 3204",450.0,2,1,1,Apartment / Unit / Flat
 "7/54 Ebden Avenue, 
 BLACK ROCK VIC 3193",450.0,1,1,1,Apartment / Unit / Flat
-"2/42A York Street, 
-BONBEACH VIC 3196",450.0,2,1,1,Apartment / Unit / Flat
 "1/462 Station Street, 
 BONBEACH VIC 3196",450.0,2,1,1,Apartment / Unit / Flat
 "180 Bonnie Brook Road, 
 BONNIE BROOK VIC 3335",450.0,3,2,2,House
-"34 Crothers Street, 
-BRAYBROOK VIC 3019",,3,1,1,House
 "3/31 Vine Street, 
 BRAYBROOK VIC 3019",450.0,2,1,1,Townhouse
 BROADMEADOWS VIC 3047,450.0,3,1, ,House
@@ -10118,8 +9744,6 @@ CRANBOURNE NORTH VIC 3977",570.0,4,2,2,House
 CRANBOURNE SOUTH VIC 3977",570.0,4,2,2,House
 "10 Crowe Avenue, 
 CRANBOURNE WEST VIC 3977",570.0,4,2,2,House
-"18/68 Cheltenham Road, 
-DANDENONG VIC 3175",,3,3,2,Townhouse
 "2/5 Edithvale Road, 
 EDITHVALE VIC 3196",570.0,2,1,1,Apartment / Unit / Flat
 "9/45a Ormond Esplanade, 
@@ -10190,8 +9814,6 @@ FOOTSCRAY VIC 3011",420.0,1,1,1,Apartment / Unit / Flat
 FOOTSCRAY VIC 3011",420.0,2,1,2,Apartment / Unit / Flat
 "7/11 Clarendon Street, 
 FRANKSTON VIC 3199",420.0,1,1,1,Apartment / Unit / Flat
-"1/33 Dandenong rd East, 
-FRANKSTON VIC 3199",420.0,2,1,1,Apartment / Unit / Flat
 "9 Gardenia Crescent, 
 FRANKSTON NORTH VIC 3200",420.0,3,1,2,House
 "18 Norfolk Crescent, 
@@ -10268,8 +9890,6 @@ BERWICK VIC 3806",520.0,3,2,2,House
 BONNIE BROOK VIC 3335",525.0,4,2,2,House
 "3/75 Dawson Street, 
 BRUNSWICK VIC 3056",525.0,2,1,2,Apartment / Unit / Flat
-"903/551 Swanston Street, 
-CARLTON VIC 3053",525.0,1,1, ,Apartment / Unit / Flat
 "Rear/919 Rathdowne Street, 
 CARLTON NORTH VIC 3054",525.0,1,1, ,Apartment / Unit / Flat
 "6/33 Coorigil Road, 
@@ -10366,8 +9986,6 @@ MULGRAVE VIC 3170",540.0,3,1,5,House
 MULGRAVE VIC 3170",540.0,3,1,2,House
 "34 Filmer Crescent, 
 NARRE WARREN SOUTH VIC 3805",540.0,3,2,2,House
-"4 Bonnell Grove, 
-CRANBOURNE EAST VIC 3977",525.0,4,2,2,House
 "27 Brittle Gum Road, 
 CRANBOURNE EAST VIC 3977",525.0,3,2,2,House
 "21 Jagger Circuit, 
@@ -10406,8 +10024,6 @@ MELBOURNE VIC 3000",525.0,2,1, ,Apartment / Unit / Flat
 MELBOURNE VIC 3000",525.0,1,1, ,Apartment / Unit / Flat
 "2209/285 La Trobe Street, 
 MELBOURNE VIC 3000",525.0,1,1, ,Apartment / Unit / Flat
-"17 Melanie Place, 
-OCEAN GROVE VIC 3226",,3,1,2,House
 "3/51 Surrey Street, 
 PASCOE VALE VIC 3044",430.0,2,1,1,Townhouse
 "1/58 View Street, 
@@ -10450,8 +10066,6 @@ ST KILDA VIC 3182",430.0,1,1,1,Apartment / Unit / Flat
 ESSENDON VIC 3040",800.0,3,1,2,House
 "14 Faulkner Street, 
 HAMPTON VIC 3188",795.0,4,1,2,House
-"16 Meehan Court, 
-KEILOR VIC 3036",800.0,5,3,2,House
 "2/4 Riverside Avenue, 
 KEILOR VIC 3036",800.0,4,2,2,House
 "6B Snow Street, 
@@ -10464,8 +10078,6 @@ MALVERN EAST VIC 3145",800.0,3,1,1,House
 MELBOURNE VIC 3000",800.0,2,2, ,Apartment / Unit / Flat
 "4004/639 Lonsdale St, 
 MELBOURNE VIC 3000",800.0,1,1, ,Apartment / Unit / Flat
-"3611/157 A'Beckett St, 
-MELBOURNE VIC 3000",,2,2, ,Apartment / Unit / Flat
 "35/300 King St, 
 MELBOURNE VIC 3000",800.0,1,2,1,Apartment / Unit / Flat
 "3213D/624 Lonsdale Street, 
@@ -10524,8 +10136,6 @@ KURUNJANG VIC 3337",420.0,4,2,2,House
 KURUNJANG VIC 3337",420.0,4,2,4,House
 "19 Hurtle Street, 
 LALOR VIC 3075",420.0,3,1,2,House
-"52/210 Cranbourne-Frankston Road Langwarrin VIC 3910, 
-LANGWARRIN VIC 3910",420.0,2,1,1,Apartment / Unit / Flat
 "3104/141 La Trobe Street, 
 MELBOURNE VIC 3000",565.0,1,1, ,Apartment / Unit / Flat
 "5 Dunblane Road, 
@@ -10534,8 +10144,6 @@ NOBLE PARK VIC 3174",565.0,5,1,2,House
 ST KILDA VIC 3182",565.0,2,1,1,Apartment / Unit / Flat
 "71 Stagecoach Crescent, 
 SYDENHAM VIC 3037",565.0,4,2,2,House
-"305/33 Batman Street, 
-WEST MELBOURNE VIC 3003",565.0,2,1, ,Apartment / Unit / Flat
 "17 The Avenue, 
 MALVERN EAST VIC 3145",569.0,3,1,3,Apartment / Unit / Flat
 "3/50a Wattletree Road, 
@@ -10616,8 +10224,6 @@ CRANBOURNE NORTH VIC 3977",550.0,4,2,2,House
 CRANBOURNE WEST VIC 3977",550.0,4,2,2,House
 "11 Eminence Drive, 
 CRANBOURNE WEST VIC 3977",550.0,3,2,2,House
-"2/11 Burrows Avenue, 
-DANDENONG VIC 3175",550.0,3,2,2,Townhouse
 "Thomas Street, 
 DANDENONG VIC 3175",550.0,1,1, ,Studio
 "162 Sinclairs Road, 
@@ -10732,16 +10338,12 @@ MOUNT DUNEED VIC 3217",600.0,4,2,2,House
 NIDDRIE VIC 3042",600.0,2,2,1,Townhouse
 "15/14-16 Grover St, 
 PASCOE VALE VIC 3044",600.0,3,2,2,Townhouse
-"253-273 Normanby Road, 
-SOUTH MELBOURNE VIC 3205",,1,1, ,Apartment / Unit / Flat
 "9/77 River Street, 
 SOUTH YARRA VIC 3141",600.0,2,2,1,Apartment / Unit / Flat
 "39 Jetty Road, 
 WERRIBEE SOUTH VIC 3030",600.0,4,3,2,House
 "413/9 Dryburgh Street, 
 WEST MELBOURNE VIC 3003",600.0,1,1,1,Apartment / Unit / Flat
-"102/20 Shamrock Street, 
-ABBOTSFORD VIC 3067",580.0,2,1,1,Apartment / Unit / Flat
 "22 Goldstone Grove, 
 AINTREE VIC 3336",580.0,4,2,2,House
 "6 Volant Drive, 
@@ -10794,8 +10396,6 @@ MELBOURNE VIC 3000",600.0,1,1,1,Apartment / Unit / Flat
 MELBOURNE VIC 3000",600.0,1,1, ,Apartment / Unit / Flat
 "1021/1 Queens Road, 
 MELBOURNE VIC 3004",600.0, ,1, ,Studio
-"4307/81 A'Beckett, 
-MELBOURNE VIC 3000",,2,1, ,Apartment / Unit / Flat
 "4809/398 Elizabeth Street, 
 MELBOURNE VIC 3000",600.0,1,1, ,Apartment / Unit / Flat
 "904/81 A Beckett St, 
@@ -10836,8 +10436,6 @@ CRANBOURNE VIC 3977",590.0,4,2,2,House
 CRANBOURNE NORTH VIC 3977",590.0,4,2,2,House
 "1/13 Orgill Street, 
 DANDENONG VIC 3175",590.0,4,1,2,Townhouse
-"53 Hemsley Drive, 
-DEER PARK VIC 3023",,4,2,2,House
 "3406/628 Flinders Street, 
 DOCKLANDS VIC 3008",590.0,1,1, ,Apartment / Unit / Flat
 "1510/15 Doepel Way, 
@@ -10928,14 +10526,10 @@ ARMSTRONG CREEK VIC 3217",475.0,3,2,2,House
 ARMSTRONG CREEK VIC 3217",475.0,3,2,2,House
 "5 Avocet Way, 
 ARMSTRONG CREEK VIC 3217",475.0,4,2,2,House
-"8 Greenlaw Crescent, 
-BERWICK VIC 3806",,3,2,2,House
 "21 Scott Street, 
 BLAIRGOWRIE VIC 3942",475.0,3,1,1,House
 "205/201 Albert Street, 
 BRUNSWICK VIC 3056",475.0,1,1,1,Apartment / Unit / Flat
-"127 Torbay Street, 
-MACLEOD VIC 3085",,4,1,4,House
 "1/6 Ferguson Street, 
 MACLEOD VIC 3085",475.0,3,2, ,House
 "G05/1131 Dandenong Road, 
@@ -11002,8 +10596,6 @@ MELBOURNE VIC 3000",65.0,1,1,1,House
 MELBOURNE VIC 3004",65.0, ,1,1,Studio
 "Carpark/112 A'beckett Street, 
 MELBOURNE VIC 3000",65.0, ,1,1,Apartment / Unit / Flat
-"11 Aonach St, 
-CLAYTON SOUTH VIC 3169",,9,8,2,House
 "Carpark224/23 Blackwood Street, 
 NORTH MELBOURNE VIC 3051",69.0, , ,1,House
 "Carpark402/135 A'Beckett Street, 
@@ -11026,8 +10618,6 @@ NORTH MELBOURNE VIC 3051",590.0,1,1, ,Apartment / Unit / Flat
 OAK PARK VIC 3046",590.0,2,1,1,Apartment / Unit / Flat
 "154 Thacker Street, 
 OCEAN GROVE VIC 3226",590.0,4,2,3,House
-"707/91 Galada Avenue, 
-PARKVILLE VIC 3052",590.0,2,2,1,Apartment / Unit / Flat
 "36 Brownlow Drive, 
 POINT COOK VIC 3030",590.0,4,2,2,House
 "71 Lincolnheath Boulevard, 
@@ -11118,8 +10708,6 @@ NORTHCOTE VIC 3070",395.0,1,1,1,Apartment / Unit / Flat
 OCEAN GROVE VIC 3226",395.0,1,1,1,Apartment / Unit / Flat
 "13/231A Point Lonsdale Road, 
 POINT LONSDALE VIC 3225",395.0,2,1,1,Apartment / Unit / Flat
-"39 Ocean Street, 
-ROSEBUD VIC 3939",,3,1,1,House
 "204/51 Garden Street, 
 SOUTH YARRA VIC 3141",395.0,1,1, ,Apartment / Unit / Flat
 "4/11 Park St, 
@@ -11384,8 +10972,6 @@ ST KILDA VIC 3182",525.0,2,1, ,Apartment / Unit / Flat
 ST KILDA EAST VIC 3183",525.0,2,1,1,Apartment / Unit / Flat
 "2/58 Gourlay St, 
 ST KILDA EAST VIC 3183",525.0,2,1,1,Apartment / Unit / Flat
-"15 Cliff St, 
-ST LEONARDS VIC 3223",,3,2,2,House
 "143 Thames Boulevard, 
 TARNEIT VIC 3029",525.0,4,2,2,House
 "44 Plain Street, 
@@ -11440,8 +11026,6 @@ RESERVOIR VIC 3073",525.0,4,2,2,House
 NORTH MELBOURNE VIC 3051",540.0,2,1, ,House
 "29a The Pararde, 
 OCEAN GROVE VIC 3226",540.0,3,1,2,House
-"11 Abalone Court, 
-OCEAN GROVE VIC 3226",,3,2,2,House
 "8/102 Railway Parade, 
 PASCOE VALE VIC 3044",540.0,2,2,1,Townhouse
 "7 Cantala Street, 
@@ -11516,11 +11100,8 @@ MELBOURNE VIC 3000",420.0,1,1, ,Apartment / Unit / Flat
 MELBOURNE VIC 3000",420.0,1,1, ,Apartment / Unit / Flat
 "719/555 Flinders Street, 
 MELBOURNE VIC 3000",420.0,1,1,1,Apartment / Unit / Flat
-BRIGHTON VIC 3186,,2,2,1,Apartment / Unit / Flat
-MALVERN VIC 3144,,2,2,1,Apartment / Unit / Flat
 "617/14 David Street, 
 RICHMOND VIC 3121",799.0,2,1,1,Apartment / Unit / Flat
-TOORAK VIC 3142,,2,2,1,Apartment / Unit / Flat
 "2/8 Grange Road, 
 ALPHINGTON VIC 3078",800.0,3,2,2,Townhouse
 "33 Flanagan Close, 
@@ -11539,8 +11120,6 @@ AVONDALE HEIGHTS VIC 3034",800.0,4,2,1,House
 AVONDALE HEIGHTS VIC 3034",800.0,4,3,1,Townhouse
 "16 Albert Crescent, 
 BALNARRING VIC 3926",800.0,3,2, ,House
-"38 Grove Road, 
-BARWON HEADS VIC 3227",,4,2, ,House
 "31 Church Street, 
 BEAUMARIS VIC 3193",800.0,4,2,2,House
 "144 Patterson Road, 
@@ -11577,8 +11156,6 @@ SOUTH YARRA VIC 3141",800.0,2,1,1,Townhouse
 SOUTH YARRA VIC 3141",800.0,2,2,1,Apartment / Unit / Flat
 "4701/70 Southbank Bvd, 
 SOUTHBANK VIC 3006",800.0,1,1, ,Apartment / Unit / Flat
-"4003/18 Hoff Bvd., 
-SOUTHBANK VIC 3006",,2,2, ,Apartment / Unit / Flat
 "2910/241 City Road, 
 SOUTHBANK VIC 3006",800.0,2,2,1,Apartment / Unit / Flat
 "1908/118 Kavanagh Street, 
@@ -11599,8 +11176,6 @@ STRATHTULLOH VIC 3338",430.0,3,2,1,House
 SUNBURY VIC 3429",430.0,3,1,1,House
 "14 Aldridge Dr, 
 SUNBURY VIC 3429",430.0,3,1,2,House
-"32 Notre Dame Drive, 
-SUNBURY VIC 3429",,3,1,3,House
 "2 Roussac Court, 
 SUNSHINE NORTH VIC 3020",430.0,3,1,3,House
 "79A Warwick Road, 
@@ -11687,8 +11262,6 @@ ROSEBUD VIC 3939",500.0,3,1,2,House
 ROSEBUD VIC 3939",500.0,3,1,3,House
 "21 Gordon Street, 
 RYE VIC 3941",500.0,3,1,4,House
-"76 Dunham Street, 
-RYE VIC 3941",,3,1,2,House
 "1/194 Dromana Parade, 
 SAFETY BEACH VIC 3936",500.0,3,1,1,Townhouse
 "32 The Esplanade, 
@@ -11747,12 +11320,6 @@ PORT MELBOURNE VIC 3207",570.0,2,1, ,House
 PRAHRAN VIC 3181",570.0,2,1,1,Apartment / Unit / Flat
 "201/15 Clifton Street, 
 PRAHRAN VIC 3181",570.0,2,1,1,Apartment / Unit / Flat
-"3/435 Flemington Road, 
-NORTH MELBOURNE VIC 3051",,2,1, ,Apartment / Unit / Flat
-"11/12 Cedar Grove, 
-HIGHTON VIC 3216",,2,1,1,Apartment / Unit / Flat
-"16/44 Eucalyptus Drive, 
-MAIDSTONE VIC 3012",,2,1,1,Apartment / Unit / Flat
 "2/122 Suffolk Street, 
 MAIDSTONE VIC 3012",500.0,3,1,1,Apartment / Unit / Flat
 "5 Coleman Court, 
@@ -11787,8 +11354,6 @@ WILLIAMSTOWN VIC 3016",395.0,1,1,1,Apartment / Unit / Flat
 MELBOURNE VIC 3000",399.0,1,1, ,Studio
 "1010D/480 Elizabeth Street, 
 MELBOURNE VIC 3000",399.0,1,1, ,Apartment / Unit / Flat
-"2/11 St Kinnord Street, 
-ABERFELDIE VIC 3040",,2,1,1,Apartment / Unit / Flat
 "23A Balaclava Avenue, 
 ALTONA MEADOWS VIC 3028",400.0,3,1,1,Apartment / Unit / Flat
 "6/8-12 Epsom Road, 
@@ -11807,8 +11372,6 @@ BELMONT VIC 3216",400.0,2,1,1,House
 BELMONT VIC 3216",400.0,3,1,1,House
 "9 Heywood Crescent, 
 BROADMEADOWS VIC 3047",400.0,3,1,2,House
-"2/9 Outlook Drive, 
-BERWICK VIC 3806",,3,3,1,House
 "3/23 Norwood Street, 
 HERNE HILL VIC 3218",575.0,4,2,2,Townhouse
 "1 Windermere Street, 
@@ -11859,8 +11422,6 @@ TOORAK VIC 3142",590.0,2,2,1,Apartment / Unit / Flat
 TOOTGAROOK VIC 3941",590.0,3,2,6,House
 "13 Crosby Street, 
 TRUGANINA VIC 3029",590.0,4,2,2,House
-"2/99 Lyon Road, 
-VIEWBANK VIC 3084",590.0,3,2,2,Apartment / Unit / Flat
 "1304/45 Dudley Street, 
 WEST MELBOURNE VIC 3003",590.0,1,1, ,Apartment / Unit / Flat
 "604/140 Dudley Street, 
@@ -11940,22 +11501,14 @@ ELSTERNWICK VIC 3185",475.0,1,1,1,Apartment / Unit / Flat
 FRASER RISE VIC 3336",475.0,3,2,2,House
 "5/25 Clarence Street, 
 GEELONG WEST VIC 3218",475.0,2,1,2,Apartment / Unit / Flat
-"107 Pound Road, 
-HAMPTON PARK VIC 3976",,5,1,2,House
 "2/129 High Street, 
 HASTINGS VIC 3915",475.0,3,2,2,Apartment / Unit / Flat
 "65 Burton St, 
 LALOR VIC 3075",475.0,3,2,3,House
 "2 Braddon Way, 
 LYNBROOK VIC 3975",475.0,3,2,2,Townhouse
-"503/105 High St, 
-PRAHRAN VIC 3181",,1,1,1,Apartment / Unit / Flat
 "41 Iona Avenue, 
 BELMONT VIC 3216",190.0,3,1,3,House
-"4004/639 Lonsdale St, 
-MELBOURNE VIC 3000",,1,1, ,Apartment / Unit / Flat
-"4701/70 Southbank Bvd, 
-SOUTHBANK VIC 3006",,1,1, ,Apartment / Unit / Flat
 "Room 1, 93 Fogarty Avenue, 
 HIGHTON VIC 3216",185.0,5,1,1,House
 "1027 Plenty Road, 
@@ -11976,8 +11529,6 @@ HIGHTON VIC 3216",190.0,7,2,2,House
 WAURN PONDS VIC 3216",190.0,5,2,1,House
 "36 Coventry Crescent, 
 MILL PARK VIC 3082",195.0,1,2,4,House
-"75/10 Alvina St, 
-OAKLEIGH SOUTH VIC 3167",,4,3,1,Townhouse
 "11 Cortona Place, 
 WAURN PONDS VIC 3216",195.0,1,2,3,House
 "116-130 Main Drive, 
@@ -12019,8 +11570,6 @@ NORTH MELBOURNE VIC 3051",470.0,1,1,1,Apartment / Unit / Flat
 NORTHCOTE VIC 3070",470.0,2,1,1,Apartment / Unit / Flat
 "2/7 Winifred St, 
 OAK PARK VIC 3046",470.0,2,2,1,Townhouse
-"9 Garden Street, 
-OCEAN GROVE VIC 3226",,3,2,1,House
 "6 Thacker Street, 
 OCEAN GROVE VIC 3226",470.0,3,2,2,House
 "1010/283 City Road, 
@@ -12043,8 +11592,6 @@ ALBERT PARK VIC 3206",590.0,3,1,1,Apartment / Unit / Flat
 ALTONA NORTH VIC 3025",590.0,2,1,2,House
 "4 Sandown Road, 
 ASCOT VALE VIC 3032",590.0,4,2,1,House
-"18 Newbay Close, 
-BARWON HEADS VIC 3227",,3,1,2,House
 "14 Fairbrae Avenue, 
 BELMONT VIC 3216",590.0,2,2,1,House
 "304/15 Vickery Street, 
@@ -12113,8 +11660,6 @@ CRAIGIEBURN VIC 3064",580.0,4,2,2,House
 CRAIGIEBURN VIC 3064",580.0,4,2,2,House
 "5 Genevieve Circuit, 
 CRANBOURNE EAST VIC 3977",580.0,4,2,2,House
-"31 Brittle Gum Road, 
-CRANBOURNE EAST VIC 3977",580.0,4,2,2,House
 "27 Blackledge Drive, 
 CRANBOURNE EAST VIC 3977",580.0,4,3,2,House
 "27 Hammersmith Way, 
@@ -12129,8 +11674,6 @@ CRANBOURNE SOUTH VIC 3977",580.0,4,2,2,House
 CURLEWIS VIC 3222",580.0,4,2,2,House
 "12/27 Hornsby Street, 
 DANDENONG VIC 3175",580.0,3,3,2,Townhouse
-"9/109-111 Mc Fees Road, 
-DANDENONG NORTH VIC 3175",580.0,3,3,2,Townhouse
 "1303/8 Waterview Walk, 
 DOCKLANDS VIC 3008",580.0,1,1, ,Apartment / Unit / Flat
 "501/3 Aquitania Way, 
@@ -12159,9 +11702,6 @@ CHELTENHAM VIC 3192",450.0,2,1,1,Apartment / Unit / Flat
 CLAYTON VIC 3168",450.0,2,1,1,Apartment / Unit / Flat
 "3/1390 North Road, 
 CLAYTON VIC 3168",450.0,2,1,1,Apartment / Unit / Flat
-CLYDE NORTH VIC 3978,2.0,4,2,2,House
-"13 Fleuve Rise, 
-CLYDE NORTH VIC 3978",,3,2,1,House
 "12a/101 Alma Road, 
 ST KILDA VIC 3182",560.0,1,1,1,Apartment / Unit / Flat
 "1/19 Cardigan Street, 
@@ -12212,8 +11752,6 @@ WESTMEADOWS VIC 3049",550.0,3,2,2,Townhouse
 WESTMEADOWS VIC 3049",550.0,3,2,2,House
 "13 Ovens Circuit, 
 WHITTLESEA VIC 3757",550.0,4,2,2,House
-"36 Urban Drive, 
-WILLIAMS LANDING VIC 3027",,3,2,2,House
 "101/3 Victoria St, 
 WINDSOR VIC 3181",550.0,1,1,1,Apartment / Unit / Flat
 "16/40 Upton Road, 
@@ -12306,8 +11844,6 @@ ORMOND VIC 3204",780.0,3,2,2,House
 PASCOE VALE VIC 3044",780.0,3,2,2,Townhouse
 "19 Rainer Street, 
 PASCOE VALE SOUTH VIC 3044",780.0,4,3,2,House
-"12 Tasman Court, 
-PATTERSON LAKES VIC 3197",,4,2,2,House
 "503/105 High St, 
 PRAHRAN VIC 3181",780.0,1,1,1,Apartment / Unit / Flat
 "9/14 Macquarie Street, 
@@ -12346,8 +11882,6 @@ CRANBOURNE VIC 3977",425.0,3,1,1,House
 CRANBOURNE VIC 3977",425.0,3,1, ,House
 "23 Bruce Street, 
 CRANBOURNE VIC 3977",425.0,3,1,2,House
-"1/1187 Main Road, 
-ELTHAM VIC 3095",425.0,2,1,3,Apartment / Unit / Flat
 "503/40 Buckley Street, 
 FOOTSCRAY VIC 3011",425.0,1,1, ,Apartment / Unit / Flat
 "39 Journey Drive, 
@@ -12372,8 +11906,6 @@ BALACLAVA VIC 3183",1495.0,5,2,1,House
 BALACLAVA VIC 3183",1.0,4,2,2,House
 "425A Beach Rd, 
 BEAUMARIS VIC 3193",1.0,3,2,2,House
-"18 Huntley St, 
-BRIGHTON VIC 3186",,3,1, ,House
 "108 South Road, 
 BRIGHTON VIC 3186",1.0,4,2,2,House
 "11 Arnold Road, 
@@ -12386,8 +11918,6 @@ BRIGHTON EAST VIC 3187",1.0,4,2,2,House
 BRIGHTON EAST VIC 3187",1.0,4,3,2,Townhouse
 "1 Margaret Street, 
 BRIGHTON EAST VIC 3187",1.0,4,3,2,House
-"34 David Street, 
-BRUNSWICK VIC 3056",,3,1, ,House
 "38 Carlton Street, 
 CARLTON VIC 3053",1.0,3,1, ,House
 "870 Swanston St, 
@@ -12411,8 +11941,6 @@ SOUTH YARRA VIC 3141",535.0,2,1,1,Apartment / Unit / Flat
 TARNEIT VIC 3029",535.0,4,2,2,House
 "3/17 Hazel Grove, 
 PASCOE VALE VIC 3044",2153.0,2,2,1,Townhouse
-"34/2 fastline rd, 
-TRUGANINA VIC 3029",477796377.0,1,1, ,House
 "29 Highlands Avenue, 
 AIRPORT WEST VIC 3042",540.0,3,1,1,House
 "3/56 Walter Street, 
@@ -12431,8 +11959,6 @@ BRUNSWICK VIC 3056",540.0,2,1,1,House
 BRUNSWICK EAST VIC 3057",540.0,2,1,1,Apartment / Unit / Flat
 "7/5 Barkly Street, 
 BRUNSWICK EAST VIC 3057",540.0,2,1,1,Apartment / Unit / Flat
-"82 Nickson Street, 
-BUNDOORA VIC 3083",540.0,3,2,1,Townhouse
 "16/169 Newry Street, 
 CARLTON NORTH VIC 3054",540.0,2,1,1,Apartment / Unit / Flat
 "21 Northumbria Street, 
@@ -12503,8 +12029,6 @@ LAVERTON VIC 3028",530.0,3,2, ,Apartment / Unit / Flat
 LEOPOLD VIC 3224",530.0,4,2,2,House
 "65 Shannon Avenue, 
 MANIFOLD HEIGHTS VIC 3218",530.0,3,2,4,House
-"4/95 Raleigh Road, 
-MARIBYRNONG VIC 3032",,3,1,1,Townhouse
 "3/48 Armstrong Street, 
 MCCRAE VIC 3938",530.0,3,2,2,Apartment / Unit / Flat
 "304/238 Flinders Lane, 
@@ -12739,8 +12263,6 @@ WATSONIA VIC 3087",550.0,3,1, ,House
 WEIR VIEWS VIC 3338",550.0,5,2,2,House
 "7 Nelse Way, 
 WERRIBEE VIC 3030",550.0,4,2,2,House
-"8 Malven Close, 
-WERRIBEE VIC 3030",,4,2,2,House
 WERRIBEE SOUTH VIC 3030,550.0,2,2,2,Apartment / Unit / Flat
 "6 Jetty Road, 
 WERRIBEE SOUTH VIC 3030",550.0,4,2,2,House
@@ -12754,8 +12276,6 @@ OAKLEIGH VIC 3166",560.0,2,1,1,Apartment / Unit / Flat
 OAKLEIGH SOUTH VIC 3167",560.0,2,2,1,Apartment / Unit / Flat
 "45 Heathwood Way, 
 OCEAN GROVE VIC 3226",560.0,3,2,2,House
-"615/91 Galada Avenue, 
-PARKVILLE VIC 3052",560.0,2,1,1,Apartment / Unit / Flat
 "808/61 Galada Avenue, 
 PARKVILLE VIC 3052",560.0,2,2,1,Apartment / Unit / Flat
 "3/13 McCracken Avenue, 
@@ -12776,8 +12296,6 @@ ROSEBUD VIC 3939",560.0,3,1,1,House
 RYE VIC 3941",560.0,3,2,4,House
 "5 Emanuel Drive, 
 SEAFORD VIC 3198",560.0,3,2,4,House
-"113 The Great Eastern Way, 
-SOUTH MORANG VIC 3752",,4,2,1,House
 "3214/81 City Road, 
 SOUTHBANK VIC 3006",560.0,1,1, ,Apartment / Unit / Flat
 "3109/241 City Road, 
@@ -12818,8 +12336,6 @@ CHELTENHAM VIC 3192",580.0,2,1,1,Apartment / Unit / Flat
 CLAYTON VIC 3168",580.0,2,2,1,Townhouse
 "113/2 Clarkson Court, 
 CLAYTON VIC 3168",580.0,2,2,1,Apartment / Unit / Flat
-"201/130 Wellington Road, 
-CLAYTON VIC 3168",,2,2,1,Apartment / Unit / Flat
 "38 Jackson Green Boulevard, 
 CLAYTON SOUTH VIC 3169",580.0,2,2,1,House
 "3 Jordan St, 
@@ -12850,8 +12366,6 @@ DOCKLANDS VIC 3008",650.0,1,1,1,Apartment / Unit / Flat
 DOCKLANDS VIC 3008",650.0,2,1, ,Apartment / Unit / Flat
 "2406N/883 Collins Street, 
 DOCKLANDS VIC 3008",650.0,2,1,1,Apartment / Unit / Flat
-"1b1b/8 Pearl River Road, 
-DOCKLANDS VIC 3008",,1,1, ,Apartment / Unit / Flat
 "1008/8 McCrae Street, 
 DOCKLANDS VIC 3008",650.0,2,1,1,Apartment / Unit / Flat
 "1103/8 Marmion Place, 
@@ -12952,8 +12466,6 @@ SEAFORD VIC 3198",470.0,3,1,2,House
 SOUTH KINGSVILLE VIC 3015",470.0,2,1,1,Apartment / Unit / Flat
 "3/70 Hawksburn Road, 
 SOUTH YARRA VIC 3141",470.0,2,1,1,Apartment / Unit / Flat
-"9/47 Marne Street, 
-SOUTH YARRA VIC 3141",,1,1, ,Apartment / Unit / Flat
 "159 William Street, 
 ST ALBANS VIC 3021",470.0,3,2,2,House
 "G02/76 Barkly Street, 
@@ -12980,18 +12492,12 @@ NOBLE PARK VIC 3174",205.0,1,1, ,Studio
 BURWOOD VIC 3125",210.0,1,1,20,Apartment / Unit / Flat
 "14 Leeside Street, 
 DANDENONG NORTH VIC 3175",210.0,1,2,2,Studio
-"3908/639 Lonsdale St, 
-MELBOURNE VIC 3000",,2,1, ,Apartment / Unit / Flat
-"1707/620 Collins St, 
-MELBOURNE VIC 3000",,2,1,1,Apartment / Unit / Flat
 "2/111 Kildare Street, 
 NORTH GEELONG VIC 3215",230.0,1,1, ,House
 "1/12 Sinnott Street, 
 BURWOOD VIC 3125",220.0,5,2, ,House
 "1 Delany Avenue, 
 BURWOOD VIC 3125",220.0, ,1,8,Studio
-"58 Station Street, 
-BURWOOD VIC 3125",,1,1, ,Apartment / Unit / Flat
 "1 Florence Avenue, 
 CLAYTON VIC 3168",220.0,8,3,4,House
 "53 Beddoe Avenue, 
@@ -13006,8 +12512,6 @@ NOBLE PARK VIC 3174",160.0,1,1, ,Studio
 ST LEONARDS VIC 3223",1000.0,3,1, ,House
 "Room 4/70 Fogarty Avenue, 
 HIGHTON VIC 3216",165.0,1,2,2,House
-"38 Bowman Dr, 
-MORNINGTON VIC 3931",,4,2,2,House
 "37 Buldah Street, 
 DANDENONG NORTH VIC 3175",170.0,5,1, ,House
 "16 Waranga Street, 
@@ -13058,8 +12562,6 @@ LYNBROOK VIC 3975",470.0,2,2,1,Townhouse
 MAIDSTONE VIC 3012",470.0,2,2,1,Apartment / Unit / Flat
 "304/36 Shaftesbury Avenue, 
 MALVERN VIC 3144",470.0,1,1,1,Apartment / Unit / Flat
-"8 Palette Street, 
-MAMBOURIN VIC 3024",,4,2,2,House
 "15 Glover Street, 
 MAMBOURIN VIC 3024",470.0,4,2,2,House
 "22 Rosewater Street, 
@@ -13110,8 +12612,6 @@ WEST FOOTSCRAY VIC 3012",600.0,4,2,2,Townhouse
 WEST FOOTSCRAY VIC 3012",600.0,3,1,3,House
 "4 Banksia Court, 
 WEST FOOTSCRAY VIC 3012",600.0,2,2,1,Townhouse
-"202/107 Hawke Street, 
-WEST MELBOURNE VIC 3003",2023.0,2,1,1,Apartment / Unit / Flat
 "406/130 Dudley Street, 
 WEST MELBOURNE VIC 3003",595.0,2,1,1,Apartment / Unit / Flat
 "301/112 Ireland Street, 
@@ -13234,8 +12734,6 @@ CHADSTONE VIC 3148",650.0,4,1,2,House
 CHELTENHAM VIC 3192",650.0,3,1,2,House
 "104 Wilson Street, 
 CHELTENHAM VIC 3192",650.0,3,1,4,House
-"21106/864 Blackburn Road, 
-CLAYTON VIC 3168",650.0,2,2, ,Apartment / Unit / Flat
 "4/74-76 Browns Road, 
 CLAYTON VIC 3168",650.0,3,2,1,Apartment / Unit / Flat
 "3/51 Arthur Street, 
@@ -13272,16 +12770,12 @@ GEELONG WEST VIC 3218",580.0,3,2,1,House
 GLADSTONE PARK VIC 3043",580.0,5,1,1,House
 "2/14 Mackay Avenue, 
 GLEN HUNTLY VIC 3163",580.0,3,1,1,Villa
-"5 Ashton St, 
-GLEN WAVERLEY VIC 3150",,4,1,2,House
 "2/23 Barbara Avenue, 
 GLEN WAVERLEY VIC 3150",580.0,2,1,1,House
 "1/62 Melbourne Avenue, 
 GLENROY VIC 3046",580.0,3,2,1,Townhouse
 "2B Latrobe Street, 
 MOONEE PONDS VIC 3039",850.0,3,2,1,Townhouse
-"29 Dactyl Road, 
-MOORABBIN VIC 3189",,4,2,2,House
 "19A Genoa Street, 
 MOORABBIN VIC 3189",850.0,4,3,2,Townhouse
 "1 Stream Way, 
@@ -13328,8 +12822,6 @@ CRAIGIEBURN VIC 3064",450.0,3,1,1,House
 CRANBOURNE VIC 3977",450.0,3,1,2,Apartment / Unit / Flat
 "14 Alamanda Way, 
 CRANBOURNE VIC 3977",450.0,3,2,2,House
-"139 Narre Warren Road, 
-CRANBOURNE VIC 3977",450.0,2,1,2,House
 "24 Clarendon Street, 
 CRANBOURNE VIC 3977",450.0,3,1,2,House
 "16 McComb Lane, 
@@ -13526,8 +13018,6 @@ MELBOURNE VIC 3000",795.0,2,2, ,Apartment / Unit / Flat
 MURRUMBEENA VIC 3163",795.0,3,2,2,Townhouse
 "212/83 Queensbridge Street, 
 SOUTHBANK VIC 3006",795.0,3,2,1,House
-ARMADALE VIC 3143,,2,2,2,Apartment / Unit / Flat
-BRIGHTON VIC 3186,,2,2,2,Apartment / Unit / Flat
 "116/195-197 Station Street, 
 EDITHVALE VIC 3196",430.0,2,1,1,Apartment / Unit / Flat
 "6/251 Brighton Road, 
@@ -13598,8 +13088,6 @@ DEER PARK VIC 3023",420.0,3,1,3,House
 DOVETON VIC 3177",420.0,2,2,1,House
 "27 Corey Avenue, 
 DROMANA VIC 3936",420.0,3,1,1,House
-"17 Paterson Street, 
-EAST GEELONG VIC 3219",,2,1,2,House
 "1/55 Bayside Avenue, 
 EDITHVALE VIC 3196",420.0,2,1,1,Apartment / Unit / Flat
 "11/32 Gardenia Road, 
@@ -13650,8 +13138,6 @@ TRUGANINA VIC 3029",530.0,4,2,2,House
 TRUGANINA VIC 3029",530.0,4,2,2,House
 "9 Seed Ave, 
 TRUGANINA VIC 3029",530.0,4,2,4,House
-"4 Larissa Avenue, 
-TULLAMARINE VIC 3043",,3,2,1,House
 "8/1 Queens Court, 
 WERRIBEE VIC 3030",530.0,3,2,1,Townhouse
 "111/162 Rosslyn Street, 
@@ -13664,8 +13150,6 @@ WOLLERT VIC 3750",530.0,4,2,2,House
 WOLLERT VIC 3750",530.0,3,2,2,House
 "A&B/8 Alder Crescent, 
 BELL PARK VIC 3215",535.0,3,2,1,Apartment / Unit / Flat
-"11 Boronia Avenue, 
-CAPEL SOUND VIC 3940",,3,2,1,Townhouse
 "3/191 Carinish Road, 
 CLAYTON VIC 3168",535.0,2,1,1,Apartment / Unit / Flat
 "5/60 Fenwick Street, 
@@ -13706,8 +13190,6 @@ WERRIBEE VIC 3030",520.0,4,2,2,House
 WEST FOOTSCRAY VIC 3012",520.0,2,1,2,Apartment / Unit / Flat
 "205/55 Jeffcott Street, 
 WEST MELBOURNE VIC 3003",520.0,1,1, ,Apartment / Unit / Flat
-"301/82-84 Ireland Street, 
-WEST MELBOURNE VIC 3003",,2,1, ,Apartment / Unit / Flat
 "511/45 Dudley Street, 
 WEST MELBOURNE VIC 3003",520.0,1,1, ,Apartment / Unit / Flat
 "707/130 Dudley Street, 
@@ -13916,8 +13398,6 @@ RYE VIC 3941",420.0,2,1,1,Apartment / Unit / Flat
 SOUTH MORANG VIC 3752",420.0,2,1,1,Apartment / Unit / Flat
 "2 Nivea Terrace, 
 SOUTH MORANG VIC 3752",420.0,3,1,2,House
-"3/126 Power Street, 
-ST ALBANS VIC 3021",420.0,2,2,1,Townhouse
 "4 Watford Street, 
 ST ALBANS VIC 3021",420.0,3,2,2,House
 "21 Skipton Street, 
@@ -14018,8 +13498,6 @@ TARNEIT VIC 3029",550.0,4,2,2,House
 TARNEIT VIC 3029",550.0,4,2,2,House
 "16 Nyman Circuit, 
 TARNEIT VIC 3029",550.0,4,2,2,House
-"10 ICARUS STREET, 
-TARNEIT VIC 3029",550.0,5,2,4,House
 "18 Gianni Court, 
 TARNEIT VIC 3029",550.0,4,2,2,House
 "17 Wickford Road, 
@@ -14084,8 +13562,6 @@ OCEAN GROVE VIC 3226",550.0,4,2,2,House
 OCEAN GROVE VIC 3226",550.0,3,1,2,House
 "52 Kingston Downs Drive, 
 OCEAN GROVE VIC 3226",550.0,4,2,2,House
-"50 The Avenue, 
-OCEAN GROVE VIC 3226",,3,2, ,House
 "19 Amicus Street, 
 OCEAN GROVE VIC 3226",545.0,4,2,2,House
 "13 Bonnyvale Rd, 
@@ -14096,7 +13572,6 @@ CRIB POINT VIC 3919",450.0,2,1,1,Apartment / Unit / Flat
 DANDENONG VIC 3175",450.0,3,1,1,House
 "2/6 Holly Avenue, 
 DANDENONG NORTH VIC 3175",450.0,2,2,1,Apartment / Unit / Flat
-DEANSIDE VIC 3336,2.0,4,2,2,House
 "30 Greaves Avenue, 
 DEANSIDE VIC 3336",450.0,3,2,2,Townhouse
 "21 Basten Avenue, 
@@ -14117,15 +13592,10 @@ DEER PARK VIC 3023",450.0,3,2,1,House
 DERRIMUT VIC 3026",450.0,3,2,2,House
 "2408B/100 Harbour Esplanade, 
 DOCKLANDS VIC 3008",450.0, ,1, ,Studio
-"709/838 Bourke Street, 
-DOCKLANDS VIC 3008",,1,1, ,Apartment / Unit / Flat
-DONNYBROOK VIC 3064,2.0,4,2,2,House
-DONNYBROOK VIC 3064,2.0,4,2,2,House
 "26 Hawkesbury Drive, 
 DONNYBROOK VIC 3064",450.0,4,2,2,House
 "20 Daintree Entrance, 
 DONNYBROOK VIC 3064",450.0,4,2,2,House
-DOREEN VIC 3754,,4,2,2,House
 "59 Keylana Drive, 
 KEYSBOROUGH VIC 3173",850.0,4,2,3,House
 "10 Eucalyptus Drive, 
@@ -14148,8 +13618,6 @@ MELBOURNE VIC 3000",850.0,2,2, ,Apartment / Unit / Flat
 MELBOURNE VIC 3000",850.0,2,2,1,Apartment / Unit / Flat
 "1110D/648 Lonsdale Street, 
 MELBOURNE VIC 3000",850.0,2,2, ,Apartment / Unit / Flat
-"5308/568 Little Collins St., 
-MELBOURNE VIC 3000",,2,2, ,Apartment / Unit / Flat
 "4009/228 La Trobe Street, 
 MELBOURNE VIC 3000",850.0,2,1, ,Apartment / Unit / Flat
 "303/543 Elizabeth Street, 
@@ -14200,12 +13668,8 @@ MELBOURNE VIC 3000",580.0,1,1, ,Apartment / Unit / Flat
 MELBOURNE VIC 3000",580.0,1,1, ,Apartment / Unit / Flat
 "803/483 Swanston Street, 
 MELBOURNE VIC 3000",580.0,1,1, ,Apartment / Unit / Flat
-"1506/648 Lonsdale Street, 
-MELBOURNE VIC 3000",580.0,1,1, ,Apartment / Unit / Flat
 "1/61 Marlborough Street, 
 BENTLEIGH EAST VIC 3165",650.0,2,1,1,Apartment / Unit / Flat
-"2 Denison Court, 
-BERWICK VIC 3806",,5,2,2,House
 "2 Sherriff Lane, 
 BERWICK VIC 3806",650.0,4,3,2,Townhouse
 "125 Soldiers Road, 
@@ -14224,16 +13688,12 @@ BRUNSWICK VIC 3056",650.0,2,1,2,House
 BRUNSWICK VIC 3056",650.0,2,1, ,Townhouse
 "8 Lygon Street, 
 BRUNSWICK EAST VIC 3057",650.0,2,2,1,Apartment / Unit / Flat
-"6/117 Albion Street, 
-BRUNSWICK EAST VIC 3057",,2,1,1,Townhouse
 "5 Manchester Crescent, 
 BUNDOORA VIC 3083",650.0,3,2,2,House
 "33 Weir Loop, 
 BUNDOORA VIC 3083",650.0,3,3,2,House
 "25/2 Ambrose Treacy Drive, 
 BUNDOORA VIC 3083",650.0,4,2,2,Townhouse
-"1A Inverness Ave, 
-BURWOOD VIC 3125",,3,2,1,House
 "104/326-328 Burwood Hwy, 
 BURWOOD VIC 3125",650.0,3,1,2,Apartment / Unit / Flat
 "2/19 Cromwell Street, 
@@ -14388,8 +13848,6 @@ HARKNESS VIC 3337",470.0,4,2,2,House
 HASTINGS VIC 3915",470.0,3,2,4,House
 "8 Ash Court, 
 HASTINGS VIC 3915",470.0,3,1,1,House
-"2/44 Cara Road, 
-HIGHTON VIC 3216",,3,2,1,House
 "39 North Valley Road, 
 HIGHTON VIC 3216",470.0,4,2,2,House
 "1 Bugay Court, 
@@ -14406,30 +13864,12 @@ MELBOURNE VIC 3000",70.0, , ,1,House
 MELBOURNE VIC 3000",70.0, , ,1,House
 "2658/181 Exhibition Street, 
 MELBOURNE VIC 3000",85.0,1,1, ,Apartment / Unit / Flat
-"2/93 The Avenue, 
-OCEAN GROVE VIC 3226",,2,1,1,Apartment / Unit / Flat
-"405/488 Swanston St, 
-CARLTON VIC 3053",,2,1, ,Apartment / Unit / Flat
-"7/93 Dandenong Rd, 
-FRANKSTON VIC 3199",,2,1, ,Apartment / Unit / Flat
-"307/99 A'Beckett St, 
-MELBOURNE VIC 3000",,1,1, ,Apartment / Unit / Flat
-"13/8 Sydney St, 
-PRAHRAN VIC 3181",,1,1,1,Apartment / Unit / Flat
 "30 Daly Boulevard, 
 HIGHTON VIC 3216",130.0,9,2,2,House
-"214/278 Charman Rd, 
-CHELTENHAM VIC 3192",,1,1, ,Apartment / Unit / Flat
 "18 Cedarville Close, 
 HIGHTON VIC 3216",140.0,1,2,6,House
 "Berth 5274 Martha Cove Waterway, 
 SAFETY BEACH VIC 3936",140.0,1,1, ,House
-"1102/35 Albert, 
-MELBOURNE VIC 3004",,2,2,1,Apartment / Unit / Flat
-"2209/668 Bourke St, 
-MELBOURNE VIC 3000",,2,1,1,Apartment / Unit / Flat
-"3004/141 La Trobe St, 
-MELBOURNE VIC 3000",,1,1, ,Apartment / Unit / Flat
 "905/435 Nepean Highway, 
 FRANKSTON VIC 3199",150.0, ,1, ,Apartment / Unit / Flat
 "123 Thornhill Road, 
@@ -14454,8 +13894,6 @@ RICHMOND VIC 3121",460.0,1,1, ,Apartment / Unit / Flat
 RICHMOND VIC 3121",460.0,2,1,1,Apartment / Unit / Flat
 "2/6 Coorabong Avenue, 
 ROSEBUD VIC 3939",460.0,3,1,1,House
-"56/72 Jetty Road, 
-ROSEBUD VIC 3939",,2,1,1,Apartment / Unit / Flat
 "11 Tinapher Drive, 
 RYE VIC 3941",460.0,3,1,2,House
 "6/18-22 Abbott Street, 
@@ -14598,8 +14036,6 @@ CARLTON VIC 3053",520.0,2,1, ,Apartment / Unit / Flat
 CAROLINE SPRINGS VIC 3023",520.0,3,2,2,House
 "9 Athenium Court, 
 CARRUM DOWNS VIC 3201",520.0,3,1,2,House
-"12/29 Jane Street, 
-BERWICK VIC 3806",,1,1, ,Studio
 "787 Park St, 
 BRUNSWICK VIC 3056",300.0,1,1, ,Apartment / Unit / Flat
 "77 Elgar Road, 
@@ -14724,8 +14160,6 @@ TRUGANINA VIC 3029",480.0,4,2,2,House
 TRUGANINA VIC 3029",480.0,3,3,2,House
 "16 Rio Way, 
 TRUGANINA VIC 3029",480.0,4,2,2,House
-"12 Chablis Court, 
-WAURN PONDS VIC 3216",,4,2,2,House
 "48 Woodbury Street, 
 WILLIAMS LANDING VIC 3027",720.0,5,3,2,House
 "72 Kororoit Creek Road, 
@@ -14734,8 +14168,6 @@ WILLIAMSTOWN VIC 3016",720.0,3,2,1,Townhouse
 YARRAVILLE VIC 3013",720.0,3,2,2,Townhouse
 "6 Gareth Avenue, 
 BEAUMARIS VIC 3193",725.0,4,2,2,House
-"186 Barkly Street, 
-BRUNSWICK VIC 3056",,2,1,1,House
 "2/357 Lygon Street, 
 BRUNSWICK VIC 3056",725.0,3,1,1,Townhouse
 "1C Cumming Street, 
@@ -14764,8 +14196,6 @@ IVANHOE VIC 3079",725.0,3,2,2,House
 NORTH MELBOURNE VIC 3051",440.0,1,1,1,Apartment / Unit / Flat
 "1/1 Sylvester Street, 
 OAK PARK VIC 3046",1.0,3,1,1,Apartment / Unit / Flat
-"2/4 Karri Close, 
-OCEAN GROVE VIC 3226",,2,1,1,Apartment / Unit / Flat
 "2/10 Cooper Street, 
 PRESTON VIC 3072",440.0,2,1,2,Villa
 "26 Kirby St, 
@@ -14822,10 +14252,6 @@ BENTLEIGH VIC 3204",750.0,3,2,2,House
 BENTLEIGH VIC 3204",750.0,3,2,2,Townhouse
 "2/36 Whitmuir Rd, 
 BENTLEIGH VIC 3204",750.0,3,2,2,Apartment / Unit / Flat
-"156 Homestead Rd, 
-BERWICK VIC 3806",,5,3,2,House
-"70 Macfarlan Avenue, 
-BLAIRGOWRIE VIC 3942",,4,2, ,House
 "9 Dunoon Court, 
 BRIGHTON EAST VIC 3187",750.0,3,2,2,House
 "10 Locke Street, 
@@ -14854,8 +14280,6 @@ LALOR VIC 3075",400.0,2,1,1,Apartment / Unit / Flat
 LARA VIC 3212",400.0,3,1,1,House
 "32A Ash Road, 
 LEOPOLD VIC 3224",400.0,2,1,1,Apartment / Unit / Flat
-"1/195 Waverley Road, 
-MALVERN EAST VIC 3145",,1,1, ,Apartment / Unit / Flat
 "20 Herne Street, 
 MANIFOLD HEIGHTS VIC 3218",400.0,3,1,1,House
 "9 Huntly Court, 
@@ -14887,8 +14311,6 @@ MELBOURNE VIC 3000",750.0,2,2,1,Apartment / Unit / Flat
 MELBOURNE VIC 3000",750.0,2,2, ,Apartment / Unit / Flat
 "G07/95 Buckley Street, 
 MOONEE PONDS VIC 3039",750.0,2,2,2,Apartment / Unit / Flat
-"104 Chapel Road, 
-MOORABBIN VIC 3189",,3,1,2,House
 "1/68 Barkly Street, 
 MORDIALLOC VIC 3195",750.0,3,2,2,Townhouse
 "22 Botany Walk, 
@@ -14941,12 +14363,8 @@ CARLTON VIC 3053",860.0,2,2,1,Apartment / Unit / Flat
 CAULFIELD NORTH VIC 3161",860.0,3,2,3,Townhouse
 "22 Cottongum Avenue, 
 KEYSBOROUGH VIC 3173",860.0,4,3,2,House
-"2601/318 Russell Street, 
-MELBOURNE VIC 3000",860.0,2,2, ,Apartment / Unit / Flat
 "11.07/69-73 Flemington Road, 
 NORTH MELBOURNE VIC 3051",860.0,3,2,1,Apartment / Unit / Flat
-"60 Donald Street, 
-PRAHRAN VIC 3181",,2,1,1,House
 "206/246 Church St, 
 RICHMOND VIC 3121",860.0,2,2,1,Apartment / Unit / Flat
 "206/228 Church St, 
@@ -15075,8 +14493,6 @@ SOUTH YARRA VIC 3141",850.0,2,2,2,Apartment / Unit / Flat
 SOUTHBANK VIC 3006",850.0,2,2,1,Apartment / Unit / Flat
 "609/102 Wells Street, 
 SOUTHBANK VIC 3006",850.0,3,2,1,Apartment / Unit / Flat
-"2205/63 Haig St, 
-SOUTHBANK VIC 3006",,2,1,1,Apartment / Unit / Flat
 "7/4 Lucian Avenue, 
 SPRINGVALE VIC 3171",850.0,4,2,1,Townhouse
 "2307/14-16 The Esplanade, 
@@ -15179,8 +14595,6 @@ MELTON WEST VIC 3337",400.0,3,2,2,House
 MELTON WEST VIC 3337",400.0,3,2,1,House
 "3/14 Schotters Road, 
 MERNDA VIC 3754",400.0,2,1,1,Apartment / Unit / Flat
-"1/13 Essue Court, 
-MILL PARK VIC 3082",400.0,3,1,1,Apartment / Unit / Flat
 "2/2 Corbin Place, 
 MILL PARK VIC 3082",400.0,2,1,1,House
 "7/5 Park Street, 
@@ -15215,8 +14629,6 @@ FRANKSTON VIC 3199",745.0,4,3,2,House
 KOOYONG VIC 3144",745.0,3,2,2,Apartment / Unit / Flat
 "1510A/260 Spencer Street, 
 MELBOURNE VIC 3000",745.0,2,2, ,Apartment / Unit / Flat
-"590 Warrigal Road, 
-OAKLEIGH SOUTH VIC 3167",,4,2,2,House
 "2/5 Murray Anderson Road, 
 ROSEBUD VIC 3939",745.0,5,3,2,House
 "25 James St, 
@@ -15349,8 +14761,6 @@ ELSTERNWICK VIC 3185",495.0,2,1,1,Apartment / Unit / Flat
 ELSTERNWICK VIC 3185",495.0,1,1,1,Townhouse
 "14 Alma Rd, 
 ST KILDA VIC 3182",450.0,1,1,1,Apartment / Unit / Flat
-"11 Halyard Terrace, 
-ST LEONARDS VIC 3223",,2,1,2,House
 "32 Macorna Street, 
 WATSONIA NORTH VIC 3087",480.0,3,1,3,House
 "16 Albany Way, 
@@ -15444,8 +14854,6 @@ PRESTON VIC 3072",350.0,1,1,1,Apartment / Unit / Flat
 QUEENSCLIFF VIC 3225",350.0,1,1,1,Apartment / Unit / Flat
 "1/32 Drysdale Street, 
 RESERVOIR VIC 3073",350.0,1,1,1,Apartment / Unit / Flat
-"97 Howard Street, 
-RESERVOIR VIC 3073",,3,1,2,House
 "4/67 King William Street, 
 RESERVOIR VIC 3073",350.0,1,1,1,Apartment / Unit / Flat
 "22/160 Coppin St, 
@@ -15476,8 +14884,6 @@ ST KILDA EAST VIC 3183",350.0,1,1,1,Apartment / Unit / Flat
 SUNBURY VIC 3429",350.0,2,1,1,Townhouse
 "15 Omega Street, 
 SUNSHINE VIC 3020",350.0,1,1, ,Studio
-"9 Glengala Road, 
-SUNSHINE WEST VIC 3020",,3,1,2,House
 "7 Stump Jump Lane, 
 ARMSTRONG CREEK VIC 3217",460.0,3,2,2,House
 "18 Flanagan Close, 
@@ -15550,16 +14956,12 @@ NORTH SHORE VIC 3214",460.0,2,1,2,House
 OCEAN GROVE VIC 3226",460.0,3,1,1,House
 "4/22 Ulupna Road, 
 ORMOND VIC 3204",460.0,2,1,1,Apartment / Unit / Flat
-"101 WATERHAVEN BVD, 
-POINT COOK VIC 3030",460.0,3,2,2,Townhouse
 "6 Buckley Street, 
 POINT COOK VIC 3030",460.0,3,2,2,House
 "2/83 Dunnings Road, 
 POINT COOK VIC 3030",460.0,3,2,1,House
 "126/388 Murray Road, 
 PRESTON VIC 3072",460.0,2,1,1,Apartment / Unit / Flat
-"210/162 Rosslyn Street, 
-WEST MELBOURNE VIC 3003",450.0,1,1, ,Apartment / Unit / Flat
 "G07/35 Dryburgh Street, 
 WEST MELBOURNE VIC 3003",450.0,1,1,1,Apartment / Unit / Flat
 "503/392 Spencer Street, 
@@ -15580,13 +14982,10 @@ WILLIAMSTOWN NORTH VIC 3016",450.0,2,1,1,Apartment / Unit / Flat
 WINDSOR VIC 3181",450.0,1,1,1,Apartment / Unit / Flat
 "6/162a High Street, 
 WINDSOR VIC 3181",450.0,1,1, ,Apartment / Unit / Flat
-WOLLERT VIC 3750,2.0,4,2,2,House
-WOLLERT VIC 3750,2.0,4,2,2,House
 "5c Kanangra Terrace, 
 WOLLERT VIC 3750",450.0,2,2,1,Townhouse
 "20 Fatham Dr, 
 WYNDHAM VALE VIC 3024",450.0,4,2,2,House
-WYNDHAM VALE VIC 3024,2.0,3,2,2,House
 "6 Kirsten Street, 
 WYNDHAM VALE VIC 3024",450.0,4,2,2,House
 "10 Tyalla Street, 
@@ -15615,8 +15014,6 @@ HASTINGS VIC 3915",460.0,2,1,1,Apartment / Unit / Flat
 HASTINGS VIC 3915",460.0,2,1,2,Apartment / Unit / Flat
 "1 Dunsmore Road, 
 HIGHTON VIC 3216",460.0,3,2,1,House
-"2/1 ELLA COURT, 
-HOPPERS CROSSING VIC 3029",460.0,3,2,3,Apartment / Unit / Flat
 "1/246 Hogans road, 
 HOPPERS CROSSING VIC 3029",460.0,3,2,6,House
 "43/156-158 Bethany Road, 
@@ -15651,7 +15048,6 @@ RICHMOND VIC 3121",450.0,1,1, ,Apartment / Unit / Flat
 RICHMOND VIC 3121",450.0,1,1,1,Apartment / Unit / Flat
 "112 Fuchsia Drive, 
 ROCKBANK VIC 3335",450.0,3,2,2,House
-ROCKBANK VIC 3335,2.0,4,2,2,House
 "8 Milliri Way, 
 ROCKBANK VIC 3335",450.0,3,2,2,House
 "10 Milliri Way, 
@@ -15733,8 +15129,6 @@ BUNDOORA VIC 3083",320.0,1,1, ,House
 "131 Pelham Street, 
 CARLTON VIC 3053",320.0,1,1, ,Apartment / Unit / Flat
 CARNEGIE VIC 3163,320.0,1,1,1,Apartment / Unit / Flat
-"3/1359 Nepean Highway, 
-CHELTENHAM VIC 3192",,2,1,1,Apartment / Unit / Flat
 "504/45 Victoria Pde, 
 COLLINGWOOD VIC 3066",320.0, ,1, ,Apartment / Unit / Flat
 "212/80 Cheltenham Road, 
@@ -15747,8 +15141,6 @@ ESSENDON VIC 3040",320.0,1,1,1,Apartment / Unit / Flat
 FITZROY VIC 3065",320.0, ,1,1,Studio
 "8/61 Flemington St, 
 FLEMINGTON VIC 3031",320.0,1,1,1,Apartment / Unit / Flat
-"111/133 Droop Street, 
-FOOTSCRAY VIC 3011",320.0,1,1, ,Studio
 "7/64 Cross Street, 
 FOOTSCRAY VIC 3011",320.0,1,1,1,Apartment / Unit / Flat
 "8 Felicia Street, 
@@ -15797,8 +15189,6 @@ WEST FOOTSCRAY VIC 3012",480.0,3,2, ,House
 WYNDHAM VALE VIC 3024",480.0,4,2,2,House
 "4/147 Grimshaw Street, 
 GREENSBOROUGH VIC 3088",495.0,2,2,3,Townhouse
-"8 The Glade, 
-HAMPTON PARK VIC 3976",,3,2,2,House
 "16 Tulipwood Avenue, 
 AINTREE VIC 3336",480.0,4,2,2,House
 "1/14 Chesley Street, 
@@ -15813,8 +15203,6 @@ ARMSTRONG CREEK VIC 3217",480.0,3,2,2,House
 ARMSTRONG CREEK VIC 3217",480.0,4,2,2,House
 "109 Wickham Road, 
 MOORABBIN VIC 3189",575.0,3,1,1,House
-"17 Sevenhill Drive, 
-MOUNT DUNEED VIC 3217",575.0,4,2,2,House
 "1/1 Como Court, 
 MOUNT WAVERLEY VIC 3149",575.0,4,2,1,Apartment / Unit / Flat
 "310/436-442 Huntingdale Road, 
@@ -15935,10 +15323,6 @@ BURWOOD VIC 3125",750.0,3,2,2,Apartment / Unit / Flat
 BURWOOD VIC 3125",750.0,3,1,1,House
 "2/13 Greenwood Street, 
 BURWOOD VIC 3125",750.0,3,2,2,Townhouse
-"1017/555 Swanston St., 
-CARLTON VIC 3053",,2,2, ,Apartment / Unit / Flat
-"3111/555 Swanston Street, 
-CARLTON VIC 3053",,2,2, ,Apartment / Unit / Flat
 "201/145 Queensberry Street, 
 CARLTON VIC 3053",750.0,2,2, ,Apartment / Unit / Flat
 "1815/555 Swanston Street, 
@@ -15987,8 +15371,6 @@ GLENROY VIC 3046",400.0,2,1,1,Apartment / Unit / Flat
 GLENROY VIC 3046",400.0,2,2,2,Townhouse
 "4/905 Pascoe Vale Road, 
 GLENROY VIC 3046",400.0,2,2,1,Townhouse
-"51/3 Church Street, 
-GROVEDALE VIC 3216",,3,2,1,Retirement Living
 "203B/19 South Street, 
 HADFIELD VIC 3046",400.0,2,1,1,Apartment / Unit / Flat
 "311/2 Willis Lane, 
@@ -16028,10 +15410,6 @@ CRAIGIEBURN VIC 3064",440.0,3,2,2,House
 CRANBOURNE EAST VIC 3977",540.0,4,2,2,House
 "6 Naila Court, 
 CRANBOURNE NORTH VIC 3977",440.0,4,2,2,House
-"6/39 MacPherson Street, 
-DANDENONG VIC 3175",440.0,2,1,1,Townhouse
-"50 Benga Avenue, 
-DANDENONG VIC 3175",440.0,2,1,1,House
 "101/6 Podmore Street, 
 DANDENONG VIC 3175",440.0,2,1,1,Apartment / Unit / Flat
 "1/24 Hughes Crescent, 
@@ -16060,8 +15438,6 @@ ESSENDON NORTH VIC 3041",870.0,3,2,2,Apartment / Unit / Flat
 FLEMINGTON VIC 3031",870.0,3,2,2,Apartment / Unit / Flat
 "50 Kyeema Avenue, 
 HIGHTON VIC 3216",870.0,5,3,2,House
-"17 Waterfront Way, 
-KEYSBOROUGH VIC 3173",870.0,5,3,2,House
 "13 Windermere Street, 
 KEYSBOROUGH VIC 3173",870.0,4,2,2,House
 "3918/228 Latrobe Street, 
@@ -16074,8 +15450,6 @@ MELBOURNE VIC 3000",870.0,3,2, ,Apartment / Unit / Flat
 MELBOURNE VIC 3000",870.0,2,2, ,Apartment / Unit / Flat
 "15 Redbourne Avenue, 
 MOUNT ELIZA VIC 3930",870.0,4,2,2,House
-"556 Drummond Street, 
-CARLTON NORTH VIC 3054",875.0,3,1, ,House
 "466 Dandenong Road, 
 CAULFIELD NORTH VIC 3161",875.0,2,1,1,Apartment / Unit / Flat
 "1286 Nepean Highway, 
@@ -16098,8 +15472,6 @@ BURNSIDE HEIGHTS VIC 3023",550.0,3,2,2,House
 BURNSIDE HEIGHTS VIC 3023",550.0,4,2,2,House
 "43 Gillard Street, 
 BURWOOD VIC 3125",550.0,4,2,2,House
-"1763 Point Nepean Road, 
-CAPEL SOUND VIC 3940",,3,1, ,House
 "3/307-311 Eastbourne Road, 
 CAPEL SOUND VIC 3940",550.0,3,2,2,House
 "29 Clementson Drive, 
@@ -16149,8 +15521,6 @@ RICHMOND VIC 3121",880.0,2,2, ,Apartment / Unit / Flat
 DANDENONG VIC 3175",400.0,2,1,1,Apartment / Unit / Flat
 "2811B/100 Harbour Esplanade, 
 DOCKLANDS VIC 3008",400.0, ,1, ,Studio
-"5 Camelia Court, 
-DOVETON VIC 3177",400.0,3,1,1,House
 "8/22 Walter Street, 
 EAST GEELONG VIC 3219",400.0,2,1,1,Apartment / Unit / Flat
 "5/56 Byron Street, 
@@ -16253,8 +15623,6 @@ GLENROY VIC 3046",440.0,3,1,1,Apartment / Unit / Flat
 GLENROY VIC 3046",440.0,3,1,2,House
 "41A Isla Avenue, 
 GLENROY VIC 3046",440.0,3,2,2,Apartment / Unit / Flat
-"1B-1/1 Church Street, 
-GROVEDALE VIC 3216",,1,1, ,Retirement Living
 "136 Claret Ash Boulevard, 
 HARKNESS VIC 3337",440.0,4,2,2,House
 "4/7 Lorraine Court, 
@@ -16317,10 +15685,6 @@ AIRPORT WEST VIC 3042",485.0,2,2,1,Townhouse
 ALTONA VIC 3018",485.0,2,1,1,Apartment / Unit / Flat
 "204/151-153 Huntingdale Road, 
 ASHWOOD VIC 3147",485.0,2,2,1,Apartment / Unit / Flat
-"91 Carr Street, 
-BARWON HEADS VIC 3227",,4,2,2,House
-"11 Elsvern Avenue, 
-BELMONT VIC 3216",,3,1,3,House
 "4/40-42 Clyde Road, 
 BERWICK VIC 3806",485.0,2,1,1,Apartment / Unit / Flat
 "730A Sydney Road, 
@@ -16417,8 +15781,6 @@ ALPHINGTON VIC 3078",310.0,1,1,1,Apartment / Unit / Flat
 BRUNSWICK EAST VIC 3057",310.0,1,1, ,Apartment / Unit / Flat
 "8/46 Princes Highway, 
 DANDENONG VIC 3175",310.0,2,1,1,Apartment / Unit / Flat
-"1/145 Princes Highway, 
-DANDENONG VIC 3175",310.0,2,1, ,Apartment / Unit / Flat
 "65/949 Dandenong Road, 
 MALVERN EAST VIC 3145",310.0,1,1, ,Apartment / Unit / Flat
 "6/39 Wickham Street, 
@@ -16439,8 +15801,6 @@ WILLIAMS LANDING VIC 3027",310.0,1,1, ,Studio
 WERRIBEE VIC 3030",325.0,2,1,1,House
 "1/109 Lygon Street, 
 CARLTON VIC 3053",315.0,1,1, ,Apartment / Unit / Flat
-"2/24 Anderson Street, 
-EAST GEELONG VIC 3219",,2,1,1,Apartment / Unit / Flat
 "L34/452 Elizabeth St, 
 MELBOURNE VIC 3000",700.0,2,1, ,Apartment / Unit / Flat
 "L37/452 Elizabeth St, 
@@ -16522,7 +15882,6 @@ ELWOOD VIC 3184,625.0,2,1,1,Apartment / Unit / Flat
 ELWOOD VIC 3184",625.0,2,1,1,Apartment / Unit / Flat
 "3 East Road, 
 SEAFORD VIC 3198",450.0,3,1,4,House
-SOUTH GEELONG VIC 3220,2.0,4,2,2,House
 "20 Lonsdale Street, 
 SOUTH GEELONG VIC 3220",450.0,3,1,1,House
 "705/69-71 Stead Street, 
@@ -16639,8 +15998,6 @@ SUNSHINE VIC 3020",450.0,3,1,2,House
 SUNSHINE NORTH VIC 3020",450.0,2,2,1,Apartment / Unit / Flat
 "25 Sherwood Street, 
 TARNEIT VIC 3029",450.0,4,2,2,House
-TARNEIT VIC 3029,,4,2,2,House
-TARNEIT VIC 3029,2.0,4,2,2,House
 "12 Juliet Avenue, 
 TARNEIT VIC 3029",450.0,4,2,4,House
 "30 Celestial Circuit, 
@@ -16655,8 +16012,6 @@ THOMSON VIC 3219",450.0,4,2,6,House
 THORNBURY VIC 3071",450.0,2,1,1,Apartment / Unit / Flat
 "3/2 Dundas Street, 
 THORNBURY VIC 3071",450.0,2,1,1,Apartment / Unit / Flat
-"1/7 GASCOYNE WAY, 
-TRUGANINA VIC 3029",460.0,3,2,2,Apartment / Unit / Flat
 "5 Swinburne Court, 
 TRUGANINA VIC 3029",460.0,3,2,1,House
 "6 Arion Road, 
@@ -16744,8 +16099,6 @@ CRAIGIEBURN VIC 3064",480.0,3,2,2,House
 CRANBOURNE VIC 3977",480.0,3,1, ,Apartment / Unit / Flat
 "25 Normanby Street, 
 CRANBOURNE VIC 3977",480.0,3,1,6,House
-"9 Rowen Court, 
-CRANBOURNE NORTH VIC 3977",,3,1,2,House
 "11 Mickleham Drive, 
 CRANBOURNE NORTH VIC 3977",480.0,3,2,2,House
 "145 Outlook Drive, 
@@ -16798,8 +16151,6 @@ SOUTH YARRA VIC 3141",645.0,2,1,1,Apartment / Unit / Flat
 SOUTHBANK VIC 3006",645.0,2,2, ,Apartment / Unit / Flat
 "11 Dorothy Street, 
 PASCOE VALE VIC 3044",480.0,3,1,3,House
-"51 Waverley Parade, 
-PASCOE VALE SOUTH VIC 3044",,3,1,2,House
 "40 Tom Roberts Parade, 
 POINT COOK VIC 3030",480.0,4,2,2,House
 "24 Pankhurst Promenade, 
@@ -16886,7 +16237,7 @@ WYNDHAM VALE VIC 3024",440.0,4,2,2,House
 "22 Narung Way, 
 WYNDHAM VALE VIC 3024",440.0,4,2,2,House
 "224 Burwood Highway, 
-BURWOOD VIC 3125",2.0,1,1,12,Apartment / Unit / Flat
+BURWOOD VIC 3125",445.0,1,1,12,Apartment / Unit / Flat
 "4/3 Rathmines Street, 
 FAIRFIELD VIC 3078",445.0,2,1,1,Apartment / Unit / Flat
 "306/9B Remington Drive, 
@@ -16977,8 +16328,6 @@ RIPPLESIDE VIC 3215",895.0,5,2,1,House
 RYE VIC 3941",900.0,4,2,2,House
 "87/63 Dorcas Street, 
 SOUTH MELBOURNE VIC 3205",900.0,3,2,2,Apartment / Unit / Flat
-"31-35 Malcolm Street, 
-SOUTH YARRA VIC 3141",,2,1, ,Apartment / Unit / Flat
 "1502/42-48 Claremont St, 
 SOUTH YARRA VIC 3141",900.0,2,1, ,Apartment / Unit / Flat
 "26/2-4 Shipley Street, 
@@ -17075,8 +16424,6 @@ THORNHILL PARK VIC 3335",440.0,3,2,2,House
 WATSONIA NORTH VIC 3087",440.0,3,1,2,House
 "38 Vermont Parade, 
 GREENSBOROUGH VIC 3088",400.0,2,1,2,House
-"2/947 Ballarat Road, 
-DEER PARK VIC 3023",400.0,3,1,1,Apartment / Unit / Flat
 "217/32 Bray Street, 
 SOUTH YARRA VIC 3141",420.0,1,1, ,Studio
 "3101/464 Collins st, 
@@ -17163,7 +16510,6 @@ CRIB POINT VIC 3919",450.0,2,1,1,Apartment / Unit / Flat
 DANDENONG VIC 3175",450.0,3,1,1,House
 "2/6 Holly Avenue, 
 DANDENONG NORTH VIC 3175",450.0,2,2,1,Apartment / Unit / Flat
-DEANSIDE VIC 3336,2.0,4,2,2,House
 "30 Greaves Avenue, 
 DEANSIDE VIC 3336",450.0,3,2,2,Townhouse
 "21 Basten Avenue, 
@@ -17204,8 +16550,6 @@ OCEAN GROVE VIC 3226",480.0,3,2,2,House
 OCEAN GROVE VIC 3226",480.0,3,1,1,House
 "7 Mermaid Ave, 
 OCEAN GROVE VIC 3226",480.0,3,1,1,House
-"2/50 Fraser Crescent, 
-OCEAN GROVE VIC 3226",,2,2,1,Townhouse
 "8/26 Lillimur Road, 
 ORMOND VIC 3204",480.0,2,1,1,Apartment / Unit / Flat
 "221 109 Manningham St, 
@@ -17230,14 +16574,10 @@ AIRPORT WEST VIC 3042",650.0,3,3,1,Townhouse
 ASCOT VALE VIC 3032",650.0,3,2,2,House
 "40 Epsom Road, 
 ASCOT VALE VIC 3032",650.0,3,1, ,House
-"6 Pacific Drive, 
-ASPENDALE GARDENS VIC 3195",,3,2,2,House
 "2/77 Hitchcock Ave, 
 BARWON HEADS VIC 3227",650.0,2,2,1,Apartment / Unit / Flat
 "Golflinks Road, 
 BARWON HEADS VIC 3227",650.0,2,1,1,House
-"1/18 Bridge Road, 
-BARWON HEADS VIC 3227",,3,2,1,Townhouse
 "100 Settlement Road, 
 BELMONT VIC 3216",650.0,2,1,1,Apartment / Unit / Flat
 "4/138 Tucker Road, 
@@ -17254,8 +16594,6 @@ BENTLEIGH VIC 3204",650.0,2,2,1,Apartment / Unit / Flat
 DEER PARK VIC 3023",480.0,3,2,1,House
 "23 Glitter Road, 
 DIGGERS REST VIC 3427",480.0,3,1,1,House
-"1007/815 Bourke St, 
-DOCKLANDS VIC 3008",,1,1, ,Apartment / Unit / Flat
 "1914/8 Pearl River Road, 
 DOCKLANDS VIC 3008",480.0,1,1, ,Apartment / Unit / Flat
 "12 Brotus Way, 
@@ -17272,14 +16610,10 @@ DROMANA VIC 3936",480.0,3,1,2,House
 DROMANA VIC 3936",480.0,3,1,4,House
 "33 Dahlia Street, 
 DROMANA VIC 3936",480.0,3,2,2,House
-"3/526 Ryrie Street, 
-EAST GEELONG VIC 3219",,3,2,2,Townhouse
 "6/45a Ormond Esplanade, 
 ELWOOD VIC 3184",480.0,1,1,1,Apartment / Unit / Flat
 "2/67 Ormond Road, 
 ELWOOD VIC 3184",480.0,2,1,1,Apartment / Unit / Flat
-"1/48 Arthur Phillip Drive, 
-ENDEAVOUR HILLS VIC 3802",480.0,3,1,1,Apartment / Unit / Flat
 "1/29 Rufus Street, 
 EPPING VIC 3076",480.0,2,2,1,Apartment / Unit / Flat
 "53 McEwan Road, 
@@ -17338,8 +16672,6 @@ ST KILDA VIC 3182",460.0,1,1,1,Apartment / Unit / Flat
 ST KILDA EAST VIC 3183",460.0,2,1,1,Apartment / Unit / Flat
 "19 King George Street, 
 ST LEONARDS VIC 3223",460.0,4,2,2,House
-"3 Kathleen Court, 
-SUNSHINE VIC 3020",,3,2, ,House
 "24 Vernon Crescent, 
 SUNSHINE WEST VIC 3020",460.0,3,1,1,House
 "1 Huntsman Cl, 
@@ -17412,8 +16744,6 @@ EAST MELBOURNE VIC 3002",465.0,2,1,1,Apartment / Unit / Flat
 FRANKSTON VIC 3199",465.0,3,2,2,House
 "4/147 Grimshaw Street, 
 GREENSBOROUGH VIC 3088",495.0,2,2,3,Townhouse
-"8 The Glade, 
-HAMPTON PARK VIC 3976",,3,2,2,House
 "3/81 Lower Heidelberg Road, 
 IVANHOE VIC 3079",465.0,2,1,1,Apartment / Unit / Flat
 "206/102 Rankins Road, 
@@ -17438,10 +16768,6 @@ SPRINGVALE VIC 3171",465.0,3,1,1,House
 THORNHILL PARK VIC 3335",450.0,4,2,1,House
 "16 Houston Drive, 
 THORNHILL PARK VIC 3335",450.0,4,2,2,House
-THORNHILL PARK VIC 3335,2.0,3,2,1,House
-THORNHILL PARK VIC 3335,2.0,3,2,2,House
-THORNHILL PARK VIC 3335,2.0,4,2,2,House
-THORNHILL PARK VIC 3335,2.0,4,2,2,House
 "9 Houston Drive, 
 THORNHILL PARK VIC 3335",450.0,4,2,2,House
 "3/38 Verdant Avenue, 
@@ -17454,7 +16780,6 @@ TRAVANCORE VIC 3032",450.0,2,1,1,Apartment / Unit / Flat
 TRUGANINA VIC 3029",450.0,2,1,1,Townhouse
 "9 Kangas Walk, 
 TRUGANINA VIC 3029",450.0,3,2,2,House
-TRUGANINA VIC 3029,2.0,4,2,2,House
 "13 Schiller Street, 
 TRUGANINA VIC 3029",450.0,4,2,1,House
 "6 Denali Road, 
@@ -17479,8 +16804,6 @@ COLLINGWOOD VIC 3066",275.0,1,1, ,Studio
 PRESTON VIC 3072",275.0,1,1, ,Apartment / Unit / Flat
 "5/31 Chapel Street, 
 ST KILDA EAST VIC 3183",275.0,1,1, ,Apartment / Unit / Flat
-"202/4-18 Ferguson Street, 
-WILLIAMSTOWN VIC 3016",,1,1, ,Studio
 "11 Mansfield Court, 
 BUNDOORA VIC 3083",280.0,1,1,4,House
 "G10/386 Burwood Highway, 
@@ -17497,16 +16820,10 @@ CAULFIELD EAST VIC 3145",280.0,1,1, ,Apartment / Unit / Flat
 CLAYTON VIC 3168",280.0, ,1, ,Studio
 "Rooms/35 Savannah Crescent, 
 EPPING VIC 3076",280.0,1,1, ,Apartment / Unit / Flat
-"5/5 Petrie Street, 
-FRANKSTON VIC 3199",280.0,2,1,1,Apartment / Unit / Flat
 "1/1 Elizabeth Street, 
 FRANKSTON VIC 3199",280.0,1,1, ,Apartment / Unit / Flat
-"2/358 Nepean Highway, 
-FRANKSTON VIC 3199",280.0, ,1, ,Studio
 "Room 4/139 Frankston Flinders Road, 
 FRANKSTON VIC 3199",280.0,1,1, ,Studio
-"2/10 Day Street, 
-DANDENONG VIC 3175",380.0,2,1,1,Townhouse
 "32 Welwyn Parade, 
 DEER PARK VIC 3023",380.0,3,1, ,House
 "25 Ferris Avenue, 
@@ -17571,12 +16888,8 @@ CARLTON VIC 3053",480.0,1,1, ,Apartment / Unit / Flat
 CARNEGIE VIC 3163",480.0,1,1,1,Apartment / Unit / Flat
 "2/1271 Glenhuntly Road, 
 CARNEGIE VIC 3163",480.0,2,1,1,Villa
-"44 Greyjoy Road, 
-CHARLEMONT VIC 3217",,4,2,2,House
 "3/10 Dennis Street, 
 CLAYTON VIC 3168",480.0,2,1,1,Apartment / Unit / Flat
-"2/70 Wellington Road, 
-CLAYTON VIC 3168",480.0,3,1,1,Townhouse
 "303/60 Autumn Terrace, 
 CLAYTON SOUTH VIC 3169",480.0,2,2,1,Apartment / Unit / Flat
 "35 Mossman Crescent, 
@@ -17599,16 +16912,12 @@ MAMBOURIN VIC 3024",480.0,4,2,2,House
 MAMBOURIN VIC 3024",480.0,5,2,2,House
 "58 Merula Drive, 
 MAMBOURIN VIC 3024",480.0,4,2,2,House
-"4 Yarrambat Street, 
-MANOR LAKES VIC 3024",480.0,4,2,2,House
 "100 Spearmint Boulevard, 
 MANOR LAKES VIC 3024",480.0,4,2,2,House
 "7/32 La Scala Avenue, 
 MARIBYRNONG VIC 3032",480.0,2,1,1,Apartment / Unit / Flat
 "113/603 St Kilda Road, 
 MELBOURNE VIC 3000",480.0,1,1, ,Apartment / Unit / Flat
-"327 La Trobe Street, 
-MELBOURNE VIC 3000",,1,1, ,Apartment / Unit / Flat
 "478/139 Lonsdale Street, 
 MELBOURNE VIC 3000",480.0,2,1, ,Apartment / Unit / Flat
 "312/155 Bourke Street, 
@@ -17633,8 +16942,6 @@ DOREEN VIC 3754",500.0,4,2,2,House
 DOREEN VIC 3754",500.0,3,2,2,House
 "10 Merlin View, 
 DOREEN VIC 3754",500.0,4,2,2,House
-"102/277 Point Nepean Road, 
-DROMANA VIC 3936",,2,2,1,House
 "71B Rainier Avenue, 
 DROMANA VIC 3936",500.0,3,2,1,House
 "18-20 Heritage Mews, 
@@ -17645,16 +16952,12 @@ EDITHVALE VIC 3196",500.0,2,1,1,Townhouse
 ELTHAM VIC 3095",500.0,3,1,1,House
 "3/19 Avoca Avenue, 
 ELWOOD VIC 3184",500.0,2,1,1,Apartment / Unit / Flat
-"7 Daniel Solander Drive, 
-ENDEAVOUR HILLS VIC 3802",500.0,3,2,2,House
 "4 Eddington Place, 
 ENDEAVOUR HILLS VIC 3802",500.0,3,2,2,House
 "95 James Cook Drive, 
 ENDEAVOUR HILLS VIC 3802",500.0,3,2,2,House
 "29 Amalfi Drive, 
 ENDEAVOUR HILLS VIC 3802",500.0,3,2,2,House
-"34 Gottloh Street, 
-EPPING VIC 3076",,3,2,2,Townhouse
 "17 Shaftesbury Drive, 
 EPPING VIC 3076",500.0,3,2,2,House
 "114/24 Leake Street, 
@@ -17734,8 +17037,6 @@ CORIO VIC 3214",400.0,3,1,2,House
 CORIO VIC 3214",400.0,3,1,3,House
 "103/2 Fortitude Drive, 
 CRAIGIEBURN VIC 3064",399.0,2,1,1,Apartment / Unit / Flat
-"26 Damian Court, 
-CRANBOURNE VIC 3977",400.0,3,1, ,House
 "214 Evans Road, 
 CRANBOURNE WEST VIC 3977",400.0,3,2,2,House
 "66 Geach Street, 
@@ -17816,8 +17117,6 @@ BRIGHTON EAST VIC 3187",1.0,3,2,2,Townhouse
 BRUNSWICK VIC 3056",1.0,4,3,2,Townhouse
 "103/2B Mitchell Street, 
 BRUNSWICK VIC 3056",1.0,4,3,2,Townhouse
-"18 Drummond Street, 
-CARLTON VIC 3053",1000.0,4,2,1,Apartment / Unit / Flat
 "10 Kay Street, 
 CARLTON VIC 3053",1.0,4,2,2,Townhouse
 "67 Elliott Avenue, 
@@ -17858,8 +17157,6 @@ MCKINNON VIC 3204",890.0,3,2,1,House
 ST KILDA VIC 3182",890.0,1,1,1,Semi-detached
 "6 Benbow Street, 
 YARRAVILLE VIC 3013",890.0,4,3,2,House
-"107 Danks St, 
-ALBERT PARK VIC 3206",,3,2,1,House
 BENTLEIGH VIC 3204,895.0,3,2,1,Apartment / Unit / Flat
 "40 Canning Street, 
 CARLTON VIC 3053",895.0,4,3,1,House
@@ -17867,8 +17164,6 @@ CARLTON VIC 3053",895.0,4,3,1,House
 GLEN WAVERLEY VIC 3150",895.0,2,1, ,House
 "177 Farrell Street, 
 PORT MELBOURNE VIC 3207",895.0,4,2,2,House
-"9 Shalimar Court, 
-SORRENTO VIC 3943",,4,1, ,House
 "123 Chapel Street, 
 ST KILDA VIC 3182",895.0,4,2,3,House
 "4 Attunga Street, 
@@ -18107,10 +17402,6 @@ FRANKSTON VIC 3199",500.0,3,2,2,Apartment / Unit / Flat
 FRANKSTON VIC 3199",500.0,3,2,1,House
 "13 Towerhill Road, 
 FRANKSTON SOUTH VIC 3199",500.0,3,1,2,House
-"923/555 Flinders Street, 
-MELBOURNE VIC 3000",,1,1,1,Apartment / Unit / Flat
-"2005/288 Spencer Street, 
-MELBOURNE VIC 3000",480.0,1,1, ,Apartment / Unit / Flat
 "1502/594 St Kilda Road, 
 MELBOURNE VIC 3004",480.0,1,1,1,Apartment / Unit / Flat
 "2703/288 Spencer Street, 
@@ -18224,16 +17515,12 @@ CORIO VIC 3214",380.0,2,1,1,House
 CRANBOURNE VIC 3977",380.0,2,1,1,Apartment / Unit / Flat
 "1/60 James Street, 
 DANDENONG VIC 3175",380.0,3,1,1,Apartment / Unit / Flat
-"3/3 Louis Avenue, 
-DANDENONG VIC 3175",380.0,2,1,1,Apartment / Unit / Flat
 "51 Garden Street, 
 SOUTH YARRA VIC 3141",250.0,1,1, ,Apartment / Unit / Flat
 "9/1 Arthur Street, 
 SOUTH YARRA VIC 3141",250.0,1,1,1,Apartment / Unit / Flat
 "38A High Street, 
 YEA VIC 3717",250.0, , ,1,Studio
-"3813/70 Southbank Bvd, 
-SOUTHBANK VIC 3006",,2,2,1,Apartment / Unit / Flat
 "2/221 Esplanade, 
 ALTONA VIC 3018",260.0,1,1, ,Apartment / Unit / Flat
 "24 Barkly Place, 
@@ -18248,8 +17535,6 @@ BRUNSWICK EAST VIC 3057",265.0,1,1, ,Apartment / Unit / Flat
 CARLTON VIC 3053",265.0,1,1, ,Studio
 "50 Barry Street, 
 CARLTON VIC 3053",265.0,1,1, ,Studio
-"5 Dingle Avenue, 
-FRANKSTON VIC 3199",,1,1, ,Apartment / Unit / Flat
 "8 Vale Street, 
 NORTH MELBOURNE VIC 3051",265.0,1,1, ,Apartment / Unit / Flat
 "102/5 Stawell Street, 
