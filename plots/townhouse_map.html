@@ -1,0 +1,1440 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_4040ca201645de549c3ee45556d33815 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+     <div style="position: fixed; 
+                 bottom: 50px; left: 50px; width: 200px; height: 200px; 
+                 border:2px solid grey; z-index:9999; background-color:white;
+                 font-size:14px;">
+     &nbsp; Price Legend <br>
+     &nbsp; $404 to $549 &nbsp; <i class="fa fa-circle fa-1x" style="color:purple"></i><br>
+     &nbsp; $549 to $694 &nbsp; <i class="fa fa-circle fa-1x" style="color:blue"></i><br>
+     &nbsp; $694 to $839 &nbsp; <i class="fa fa-circle fa-1x" style="color:green"></i><br>
+     &nbsp; $839 to $984 &nbsp; <i class="fa fa-circle fa-1x" style="color:orange"></i><br>
+     &nbsp; $1,130 to $1,275 &nbsp; <i class="fa fa-circle fa-1x" style="color:red"></i>
+      </div>
+     
+    
+            <div class="folium-map" id="map_4040ca201645de549c3ee45556d33815" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_4040ca201645de549c3ee45556d33815 = L.map(
+                "map_4040ca201645de549c3ee45556d33815",
+                {
+                    center: [-37.8136, 144.9631],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 9.3,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_c173c8d3ff3e72d7183a20b3e943eff2 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            var circle_marker_f7f703cc31dbb8cef028de8e9ca3443a = L.circleMarker(
+                [-37.80210950000001, 145.0019064],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_f7f703cc31dbb8cef028de8e9ca3443a.bindTooltip(
+                `<div>
+                     ABBOTSFORD, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_209841315847f67040cef897cedf9c8f = L.circleMarker(
+                [-37.8438609, 144.9514536],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_209841315847f67040cef897cedf9c8f.bindTooltip(
+                `<div>
+                     ALBERT PARK, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_942626cb313276bf2e13ea74a98e6244 = L.circleMarker(
+                [-37.864571, 144.8311028],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_942626cb313276bf2e13ea74a98e6244.bindTooltip(
+                `<div>
+                     ALTONA, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_680227537cd3407a6d33787c7ebb1055 = L.circleMarker(
+                [-37.8715626, 144.7775818],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_680227537cd3407a6d33787c7ebb1055.bindTooltip(
+                `<div>
+                     ALTONA MEADOWS, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_6f7e038f89b572b4e8718fc049ef587e = L.circleMarker(
+                [-37.8554995, 145.0206967],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_6f7e038f89b572b4e8718fc049ef587e.bindTooltip(
+                `<div>
+                     ARMADALE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_8d2da03cd18c682b06e8992427d37a74 = L.circleMarker(
+                [-37.7745085, 144.9278026],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_8d2da03cd18c682b06e8992427d37a74.bindTooltip(
+                `<div>
+                     ASCOT VALE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_7c40619eba0a926b0c82558c153f2407 = L.circleMarker(
+                [-37.9188435, 145.0417166],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_7c40619eba0a926b0c82558c153f2407.bindTooltip(
+                `<div>
+                     BENTLEIGH, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_2af9d11955e494d924f6358c1d740769 = L.circleMarker(
+                [-38.0309443, 145.3437469],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_2af9d11955e494d924f6358c1d740769.bindTooltip(
+                `<div>
+                     BERWICK, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_de40da468c736eb339fcf9811c5b92fc = L.circleMarker(
+                [-37.7859028, 144.8587417],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_de40da468c736eb339fcf9811c5b92fc.bindTooltip(
+                `<div>
+                     BRAYBROOK, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_b60de505b47266aab4cffd78fee4a44d = L.circleMarker(
+                [-37.9128827, 144.9915515],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_b60de505b47266aab4cffd78fee4a44d.bindTooltip(
+                `<div>
+                     BRIGHTON, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_29cc644ca70664e7a71927791ae796dc = L.circleMarker(
+                [-37.6858788, 144.9246674],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_29cc644ca70664e7a71927791ae796dc.bindTooltip(
+                `<div>
+                     BROADMEADOWS, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_77e431ab8f59ed92c86162395b369c8e = L.circleMarker(
+                [-37.7670374, 144.9621035],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_77e431ab8f59ed92c86162395b369c8e.bindTooltip(
+                `<div>
+                     BRUNSWICK, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_849ffb861c9009a51ea9d8774e3a80f6 = L.circleMarker(
+                [-37.6948854, 145.0622727],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_849ffb861c9009a51ea9d8774e3a80f6.bindTooltip(
+                `<div>
+                     BUNDOORA, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_95e4a3ec688aa41da3ee23d5d015e98f = L.circleMarker(
+                [-37.7573769, 144.784452],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_95e4a3ec688aa41da3ee23d5d015e98f.bindTooltip(
+                `<div>
+                     CAIRNLEA, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_b00e77917a9555e57d20792c532deac0 = L.circleMarker(
+                [-37.8891994, 145.0570577],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_b00e77917a9555e57d20792c532deac0.bindTooltip(
+                `<div>
+                     CARNEGIE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_6acfba107866f3bbe4f27512b483e8fb = L.circleMarker(
+                [-37.7431281, 144.7356782],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_6acfba107866f3bbe4f27512b483e8fb.bindTooltip(
+                `<div>
+                     CAROLINE SPRINGS, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_e2d5537586ca04c3e58c66154edd89f2 = L.circleMarker(
+                [-38.0994897, 145.1726257],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_e2d5537586ca04c3e58c66154edd89f2.bindTooltip(
+                `<div>
+                     CARRUM DOWNS, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5df67c58d260183c47d4878d9be74240 = L.circleMarker(
+                [-37.9145479, 145.127492],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_5df67c58d260183c47d4878d9be74240.bindTooltip(
+                `<div>
+                     CLAYTON, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_880f9c1fe24de5137de63239d7489891 = L.circleMarker(
+                [-38.1284823, 145.3217471],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_880f9c1fe24de5137de63239d7489891.bindTooltip(
+                `<div>
+                     CLYDE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_0cc8fd2fc4b8a1fcf026019f01a7f452 = L.circleMarker(
+                [-37.7412988, 144.9666108],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_0cc8fd2fc4b8a1fcf026019f01a7f452.bindTooltip(
+                `<div>
+                     COBURG, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_56e03570a23c02cf53cd91c85f6d891b = L.circleMarker(
+                [-37.799283, 144.9873447],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_56e03570a23c02cf53cd91c85f6d891b.bindTooltip(
+                `<div>
+                     COLLINGWOOD, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9a3013b8b3174d2100668434dcf537c6 = L.circleMarker(
+                [-37.5939825, 144.9100319],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_9a3013b8b3174d2100668434dcf537c6.bindTooltip(
+                `<div>
+                     CRAIGIEBURN, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_884f3536d9c54a6c206f22ab3572c89f = L.circleMarker(
+                [-38.1054204, 145.2818338],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_884f3536d9c54a6c206f22ab3572c89f.bindTooltip(
+                `<div>
+                     CRANBOURNE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_456fe43ef560b33749326ef35d9e329a = L.circleMarker(
+                [-37.9847811, 145.2139907],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_456fe43ef560b33749326ef35d9e329a.bindTooltip(
+                `<div>
+                     DANDENONG, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_18b90b695a0818234874b22d5b52efb8 = L.circleMarker(
+                [-37.7702749, 144.7747728],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_18b90b695a0818234874b22d5b52efb8.bindTooltip(
+                `<div>
+                     DEER PARK, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_a7ac0115426fddc67853f023d8fa3190 = L.circleMarker(
+                [-37.7927082, 144.7715559],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_a7ac0115426fddc67853f023d8fa3190.bindTooltip(
+                `<div>
+                     DERRIMUT, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_c4506dfa5a3f8cd9ab3e7efd7701c266 = L.circleMarker(
+                [-37.9876769, 145.2394075],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_c4506dfa5a3f8cd9ab3e7efd7701c266.bindTooltip(
+                `<div>
+                     DOVETON, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_17ec2bf4ab18a45308ea5ed0c0b17152 = L.circleMarker(
+                [-38.3361633, 144.9740524],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_17ec2bf4ab18a45308ea5ed0c0b17152.bindTooltip(
+                `<div>
+                     DROMANA, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_df84ee9a2e9f0a0c80e1ef51a061e5c1 = L.circleMarker(
+                [-37.8849536, 145.0059691],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_df84ee9a2e9f0a0c80e1ef51a061e5c1.bindTooltip(
+                `<div>
+                     ELSTERNWICK, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_63b7a629ac59cdcef429d9de3d6787b8 = L.circleMarker(
+                [-37.718984, 145.1460687],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_63b7a629ac59cdcef429d9de3d6787b8.bindTooltip(
+                `<div>
+                     ELTHAM, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_e8b6d679af77a65a32b3ff65bc6aaffd = L.circleMarker(
+                [-37.8822486, 144.9825759],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_e8b6d679af77a65a32b3ff65bc6aaffd.bindTooltip(
+                `<div>
+                     ELWOOD, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_39a351fc49833e40fb710d0f978bda81 = L.circleMarker(
+                [-37.9749174, 145.2581884],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_39a351fc49833e40fb710d0f978bda81.bindTooltip(
+                `<div>
+                     ENDEAVOUR HILLS, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_04d4551117420898c05031ea6dc9fd73 = L.circleMarker(
+                [-37.6376635, 145.0264991],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_04d4551117420898c05031ea6dc9fd73.bindTooltip(
+                `<div>
+                     EPPING, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f3c7d006ac96976638971810be65378d = L.circleMarker(
+                [-37.7527648, 144.9160333],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_f3c7d006ac96976638971810be65378d.bindTooltip(
+                `<div>
+                     ESSENDON, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_a3cee48754bcbb80364c87c1ec64100c = L.circleMarker(
+                [-37.7072243, 144.9669297],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_a3cee48754bcbb80364c87c1ec64100c.bindTooltip(
+                `<div>
+                     FAWKNER, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_4855a4ffa59bde2bf90adf9cf6161c9c = L.circleMarker(
+                [-37.7983606, 144.9784894],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_4855a4ffa59bde2bf90adf9cf6161c9c.bindTooltip(
+                `<div>
+                     FITZROY, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5ff52220a9931d230988b49055e07696 = L.circleMarker(
+                [-37.7853038, 144.9217957],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_5ff52220a9931d230988b49055e07696.bindTooltip(
+                `<div>
+                     FLEMINGTON, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_b9708c84a7d1cad80dd0b8ea918fdbac = L.circleMarker(
+                [-37.7988987, 144.892357],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_b9708c84a7d1cad80dd0b8ea918fdbac.bindTooltip(
+                `<div>
+                     FOOTSCRAY, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_3c448a8c99642f6ff1b59996e63d36c6 = L.circleMarker(
+                [-38.1466246, 145.135722],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_3c448a8c99642f6ff1b59996e63d36c6.bindTooltip(
+                `<div>
+                     FRANKSTON, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_acaae626675384b2824a08c728c0a83c = L.circleMarker(
+                [-37.87435019999999, 145.1668205],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_acaae626675384b2824a08c728c0a83c.bindTooltip(
+                `<div>
+                     GLEN WAVERLEY, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f51f285dd0647e486e55c744b193873c = L.circleMarker(
+                [-37.7062465, 144.9161373],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_f51f285dd0647e486e55c744b193873c.bindTooltip(
+                `<div>
+                     GLENROY, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_a66307562ade66f8debc992af552665f = L.circleMarker(
+                [-37.7062908, 144.8948907],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_a66307562ade66f8debc992af552665f.bindTooltip(
+                `<div>
+                     GOWANBRAE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_51b20d11f1b47c37e99c5bb14176f490 = L.circleMarker(
+                [-37.70436979999999, 145.1006438],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_51b20d11f1b47c37e99c5bb14176f490.bindTooltip(
+                `<div>
+                     GREENSBOROUGH, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f1afb1665a57875c03d5fc4db11e0ad5 = L.circleMarker(
+                [-37.7105356, 144.9501406],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_f1afb1665a57875c03d5fc4db11e0ad5.bindTooltip(
+                `<div>
+                     HADFIELD, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_4f9a839666665ab5cce2510771e6df8f = L.circleMarker(
+                [-38.0063441, 145.273282],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_4f9a839666665ab5cce2510771e6df8f.bindTooltip(
+                `<div>
+                     HALLAM, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_2001ef5dd7c6500bfd3d4b4ad7c7f91a = L.circleMarker(
+                [-37.9338333, 145.0031893],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_2001ef5dd7c6500bfd3d4b4ad7c7f91a.bindTooltip(
+                `<div>
+                     HAMPTON, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_3bf121f18cf3c9f6c445678467c01127 = L.circleMarker(
+                [-38.032286, 145.2678469],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_3bf121f18cf3c9f6c445678467c01127.bindTooltip(
+                `<div>
+                     HAMPTON PARK, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_94e7c9f90aedce74f7e0d8194f3091c0 = L.circleMarker(
+                [-37.7566014, 145.0696116],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_94e7c9f90aedce74f7e0d8194f3091c0.bindTooltip(
+                `<div>
+                     HEIDELBERG, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_feb4c2d13ff70984af8a787ab34446bd = L.circleMarker(
+                [-37.6920638, 144.7442073],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_feb4c2d13ff70984af8a787ab34446bd.bindTooltip(
+                `<div>
+                     HILLSIDE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ea0e912572d6c8755d71c7c1ccfeb4b5 = L.circleMarker(
+                [-37.8629027, 144.6854533],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_ea0e912572d6c8755d71c7c1ccfeb4b5.bindTooltip(
+                `<div>
+                     HOPPERS CROSSING, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9bf7b2af3cb41e89f6c7ba832b8df107 = L.circleMarker(
+                [-37.8947609, 145.0848814],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_9bf7b2af3cb41e89f6c7ba832b8df107.bindTooltip(
+                `<div>
+                     HUGHESDALE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_bb0d34915fac599414d8997a629e2bb9 = L.circleMarker(
+                [-37.7683771, 145.0429223],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_bb0d34915fac599414d8997a629e2bb9.bindTooltip(
+                `<div>
+                     IVANHOE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_0fe1e6de873d87c3c72dcdba73373573 = L.circleMarker(
+                [-37.7941207, 144.9276659],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_0fe1e6de873d87c3c72dcdba73373573.bindTooltip(
+                `<div>
+                     KENSINGTON, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_7d419195d0989b02961fa65782d4bae9 = L.circleMarker(
+                [-37.9989202, 145.1743519],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_7d419195d0989b02961fa65782d4bae9.bindTooltip(
+                `<div>
+                     KEYSBOROUGH, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_01edba5f5d3ef80d09d9ba4426f59a46 = L.circleMarker(
+                [-37.6655588, 145.0165638],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_01edba5f5d3ef80d09d9ba4426f59a46.bindTooltip(
+                `<div>
+                     LALOR, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_63e7f2a01a6bc5f51cca6ad22c4696b1 = L.circleMarker(
+                [-37.852403, 145.0357348],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_63e7f2a01a6bc5f51cca6ad22c4696b1.bindTooltip(
+                `<div>
+                     MALVERN, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_c7b8a17233b4bb0cc9d0ad4cab3acbc1 = L.circleMarker(
+                [-37.7837482, 144.8908713],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_c7b8a17233b4bb0cc9d0ad4cab3acbc1.bindTooltip(
+                `<div>
+                     MARIBYRNONG, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_78b1e4f0716955c526daec1aa3603daf = L.circleMarker(
+                [-37.5996872, 145.0886978],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_78b1e4f0716955c526daec1aa3603daf.bindTooltip(
+                `<div>
+                     MERNDA, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5773e226cd87f8a538cfc212ac7c0cc7 = L.circleMarker(
+                [-37.6703725, 145.071113],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_5773e226cd87f8a538cfc212ac7c0cc7.bindTooltip(
+                `<div>
+                     MILL PARK, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_a8140b73cc9a0a9ef06803e8c272cbfd = L.circleMarker(
+                [-37.767131, 144.9248074],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_a8140b73cc9a0a9ef06803e8c272cbfd.bindTooltip(
+                `<div>
+                     MOONEE PONDS, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_061fb8ad5b85d26f658506b33d178bac = L.circleMarker(
+                [-38.22882, 145.0600448],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_061fb8ad5b85d26f658506b33d178bac.bindTooltip(
+                `<div>
+                     MORNINGTON, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_e97a58cba34b3628e191a1b96c964d1b = L.circleMarker(
+                [-37.8749614, 145.1291077],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_e97a58cba34b3628e191a1b96c964d1b.bindTooltip(
+                `<div>
+                     MOUNT WAVERLEY, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ab8e6dcc15e060978caf31182fdb078d = L.circleMarker(
+                [-37.9187107, 145.158814],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_ab8e6dcc15e060978caf31182fdb078d.bindTooltip(
+                `<div>
+                     MULGRAVE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d90961e616d3fa6927ac6cbf027accce = L.circleMarker(
+                [-37.8978307, 145.070895],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_d90961e616d3fa6927ac6cbf027accce.bindTooltip(
+                `<div>
+                     MURRUMBEENA, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_40d554ae54939c54a5f0d83a30989655 = L.circleMarker(
+                [-37.8424548, 144.8830489],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_40d554ae54939c54a5f0d83a30989655.bindTooltip(
+                `<div>
+                     NEWPORT, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_3190213fc5220eccec35306180e24b71 = L.circleMarker(
+                [-37.9650097, 145.1733926],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_3190213fc5220eccec35306180e24b71.bindTooltip(
+                `<div>
+                     NOBLE PARK, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d1dcda3c4105aba5901de60d7b76b81a = L.circleMarker(
+                [-37.8008004, 144.9485049],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_d1dcda3c4105aba5901de60d7b76b81a.bindTooltip(
+                `<div>
+                     NORTH MELBOURNE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_a9f2e748e6fa8ddcb0ba1864ceb91864 = L.circleMarker(
+                [-37.7692917, 144.9990291],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_a9f2e748e6fa8ddcb0ba1864ceb91864.bindTooltip(
+                `<div>
+                     NORTHCOTE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_0676e899a66f9508035157bba1e95eab = L.circleMarker(
+                [-37.7165119, 144.91903],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_0676e899a66f9508035157bba1e95eab.bindTooltip(
+                `<div>
+                     OAK PARK, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_7001dc6dc0223c15b8f12bb97948394b = L.circleMarker(
+                [-37.7787036, 144.9426083],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_7001dc6dc0223c15b8f12bb97948394b.bindTooltip(
+                `<div>
+                     PARKVILLE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_036a3bf12cac860c05a450cef7a343a7 = L.circleMarker(
+                [-37.7315238, 144.9384853],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_036a3bf12cac860c05a450cef7a343a7.bindTooltip(
+                `<div>
+                     PASCOE VALE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_55cb988c578c8a15c545c7acd16d0371 = L.circleMarker(
+                [-37.9002829, 144.7535412],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_55cb988c578c8a15c545c7acd16d0371.bindTooltip(
+                `<div>
+                     POINT COOK, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_b8c2f0d2d151786b66ac3cbffd6cfc6a = L.circleMarker(
+                [-37.8369312, 144.9284179],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_b8c2f0d2d151786b66ac3cbffd6cfc6a.bindTooltip(
+                `<div>
+                     PORT MELBOURNE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_915a57102e80ca8b7670e7a7d4864f65 = L.circleMarker(
+                [-37.7450963, 145.0028571],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_915a57102e80ca8b7670e7a7d4864f65.bindTooltip(
+                `<div>
+                     PRESTON, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9fca0e560327075483ec439fd0613076 = L.circleMarker(
+                [-37.7166681, 145.0077608],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_9fca0e560327075483ec439fd0613076.bindTooltip(
+                `<div>
+                     RESERVOIR, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5fbd98e2defaa80e273cc7723ac4c671 = L.circleMarker(
+                [-37.8238936, 144.9982667],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_5fbd98e2defaa80e273cc7723ac4c671.bindTooltip(
+                `<div>
+                     RICHMOND, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_50d6fabb846f561b2a6f0f9a1a2570a5 = L.circleMarker(
+                [-38.110582, 145.1310544],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_50d6fabb846f561b2a6f0f9a1a2570a5.bindTooltip(
+                `<div>
+                     SEAFORD, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_16a16430c99888a791ee3a7efbf81f6c = L.circleMarker(
+                [-37.6372475, 145.0935493],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_16a16430c99888a791ee3a7efbf81f6c.bindTooltip(
+                `<div>
+                     SOUTH MORANG, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_2e9d9ae01b0e6b9f9957817a4a41df24 = L.circleMarker(
+                [-37.8395181, 144.9955966],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_2e9d9ae01b0e6b9f9957817a4a41df24.bindTooltip(
+                `<div>
+                     SOUTH YARRA, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ed2e1efb9dd568f213c6890f8169c1e1 = L.circleMarker(
+                [-37.9487211, 145.1529433],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_ed2e1efb9dd568f213c6890f8169c1e1.bindTooltip(
+                `<div>
+                     SPRINGVALE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_a83eba7d228b1be1435fb8ab62d688ad = L.circleMarker(
+                [-37.7442306, 144.7999941],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_a83eba7d228b1be1435fb8ab62d688ad.bindTooltip(
+                `<div>
+                     ST ALBANS, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_cba6839ebed8be49da7d19b78f72d50b = L.circleMarker(
+                [-37.864, 144.982],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_cba6839ebed8be49da7d19b78f72d50b.bindTooltip(
+                `<div>
+                     ST KILDA, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_469185abf6e822acdc1ff11e0f1e41b3 = L.circleMarker(
+                [-37.5787769, 144.7116286],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_469185abf6e822acdc1ff11e0f1e41b3.bindTooltip(
+                `<div>
+                     SUNBURY, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d2c235b3edca32be90c8aacb73625846 = L.circleMarker(
+                [-37.7812629, 144.8327296],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_d2c235b3edca32be90c8aacb73625846.bindTooltip(
+                `<div>
+                     SUNSHINE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d0e8c81282b1f4ae5b1d4adb06be6e4f = L.circleMarker(
+                [-37.7014845, 144.7644401],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_d0e8c81282b1f4ae5b1d4adb06be6e4f.bindTooltip(
+                `<div>
+                     SYDENHAM, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5d81f612648895026dfd81f8e84bd750 = L.circleMarker(
+                [-37.8362006, 144.6722205],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_5d81f612648895026dfd81f8e84bd750.bindTooltip(
+                `<div>
+                     TARNEIT, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f91b70765bf0b279611a83d4fce0807a = L.circleMarker(
+                [-37.7134968, 144.7555173],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_f91b70765bf0b279611a83d4fce0807a.bindTooltip(
+                `<div>
+                     TAYLORS HILL, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_e1635576dd991101ec6fcdfd61c85892 = L.circleMarker(
+                [-37.6973477, 144.7811982],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_e1635576dd991101ec6fcdfd61c85892.bindTooltip(
+                `<div>
+                     TAYLORS LAKES, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_8eb9bcecc4239fa61f8be722245e1af3 = L.circleMarker(
+                [-37.6787568, 144.999386],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_8eb9bcecc4239fa61f8be722245e1af3.bindTooltip(
+                `<div>
+                     THOMASTOWN, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ea3092ff34044ca7bb686539990dfefb = L.circleMarker(
+                [-37.759569, 145.0004556],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_ea3092ff34044ca7bb686539990dfefb.bindTooltip(
+                `<div>
+                     THORNBURY, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_23a2510115e7a018f716b6cbac18e135 = L.circleMarker(
+                [-37.8248334, 144.7486991],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_23a2510115e7a018f716b6cbac18e135.bindTooltip(
+                `<div>
+                     TRUGANINA, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_59d5f545f5d89ca55605b4e6e183dadc = L.circleMarker(
+                [-37.6994841, 144.8803113],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_59d5f545f5d89ca55605b4e6e183dadc.bindTooltip(
+                `<div>
+                     TULLAMARINE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_34d135d558019e3d36b6347dd64cdac6 = L.circleMarker(
+                [-37.8997995, 144.6641401],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_34d135d558019e3d36b6347dd64cdac6.bindTooltip(
+                `<div>
+                     WERRIBEE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_2e99748a8049310fa3f06d78e590991b = L.circleMarker(
+                [-37.8583477, 144.8937637],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_2e99748a8049310fa3f06d78e590991b.bindTooltip(
+                `<div>
+                     WILLIAMSTOWN, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_fa3d6d0582c596bd202623e675546901 = L.circleMarker(
+                [-37.6085118, 145.0313459],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_fa3d6d0582c596bd202623e675546901.bindTooltip(
+                `<div>
+                     WOLLERT, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f2682ebb14fcb5f7571b996ff96c34b3 = L.circleMarker(
+                [-37.8892516, 144.6213448],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_f2682ebb14fcb5f7571b996ff96c34b3.bindTooltip(
+                `<div>
+                     WYNDHAM VALE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_a80cbf50ac149df3243b1e030a1f9ffa = L.circleMarker(
+                [-37.8202741, 144.8821697],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_4040ca201645de549c3ee45556d33815);
+        
+    
+            circle_marker_a80cbf50ac149df3243b1e030a1f9ffa.bindTooltip(
+                `<div>
+                     YARRAVILLE, VIC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>
