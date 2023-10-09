@@ -1,0 +1,195 @@
+Measure Code,Parent Description,Description,2011,2015,2016,2017,2018,2019,2020,2021,2022
+ERP_P_20,Estimated resident population - year ended 30 June,Estimated resident population (no.),,,,5,10,16,21,26,26
+ERP_21,Estimated resident population - year ended 30 June,Population density (persons/km2),,,,1.6,3.3,5.2,6.8,8.5,8.5
+ERP_M_20,Estimated resident population - year ended 30 June,Estimated resident population - males (no.),,,,4,8,12,16,20,
+ERP_F_20,Estimated resident population - year ended 30 June,Estimated resident population - females (no.),,,,1,2,4,5,6,
+ERP_19,Estimated resident population - year ended 30 June,Median age - males (years),,,,26,26.5,27,27.5,19.3,
+ERP_22,Estimated resident population - year ended 30 June,Median age - females (years),,,,57.5,44,30.5,31,24.5,
+ERP_23,Estimated resident population - year ended 30 June,Median age - persons (years),,,,32.3,32.9,35.7,35.8,22.9,
+ERP_18,Estimated resident population - year ended 30 June,Working age population (aged 15-64 years) (no.),,,,5,10,16,21,26,
+ERP_17,Estimated resident population - year ended 30 June,Working age population (aged 15-64 years) (%),,,,100,100,100,100,100,
+ERP_M_6,Estimated resident population - Males - year ended 30 June,Males - 20-24 years (no.),,,,,,,,19,
+ERP_M_12,Estimated resident population - Males - year ended 30 June,Males - 50-54 years (no.),,,,4,8,12,16,1,
+ERP_M_25,Estimated resident population - Males - year ended 30 June,Males - 20-24 years (%),,,,,,,,95,
+ERP_M_31,Estimated resident population - Males - year ended 30 June,Males - 50-54 years (%),,,,100,100,100,100,5,
+ERP_F_6,Estimated resident population - Females - year ended 30 June,Females - 20-24 years (no.),,,,,,,,2,
+ERP_F_7,Estimated resident population - Females - year ended 30 June,Females - 25-29 years (no.),,,,,,,,2,
+ERP_F_13,Estimated resident population - Females - year ended 30 June,Females - 55-59 years (no.),,,,1,2,4,,,
+ERP_F_14,Estimated resident population - Females - year ended 30 June,Females - 60-64 years (no.),,,,,,,5,2,
+ERP_F_25,Estimated resident population - Females - year ended 30 June,Females - 20-24 years (%),,,,,,,,33.3,
+ERP_F_26,Estimated resident population - Females - year ended 30 June,Females - 25-29 years (%),,,,,,,,33.3,
+ERP_F_32,Estimated resident population - Females - year ended 30 June,Females - 55-59 years (%),,,,100,100,100,,,
+ERP_F_33,Estimated resident population - Females - year ended 30 June,Females - 60-64 years (%),,,,,,,100,33.3,
+ERP_P_6,Estimated resident population - Persons - year ended 30 June,Persons - 20-24 years (no.),,,,,,,,21,
+ERP_P_7,Estimated resident population - Persons - year ended 30 June,Persons - 25-29 years (no.),,,,,,,,2,
+ERP_P_12,Estimated resident population - Persons - year ended 30 June,Persons - 50-54 years (no.),,,,4,8,12,16,1,
+ERP_P_13,Estimated resident population - Persons - year ended 30 June,Persons - 55-59 years (no.),,,,1,2,4,,,
+ERP_P_14,Estimated resident population - Persons - year ended 30 June,Persons - 60-64 years (no.),,,,,,,5,2,
+ERP_P_25,Estimated resident population - Persons - year ended 30 June,Persons - 20-24 years (%),,,,,,,,80.8,
+ERP_P_26,Estimated resident population - Persons - year ended 30 June,Persons - 25-29 years (%),,,,,,,,7.7,
+ERP_P_31,Estimated resident population - Persons - year ended 30 June,Persons - 50-54 years (%),,,,80,80,75,76.2,3.8,
+ERP_P_32,Estimated resident population - Persons - year ended 30 June,Persons - 55-59 years (%),,,,20,20,25,,,
+ERP_P_33,Estimated resident population - Persons - year ended 30 June,Persons - 60-64 years (%),,,,,,,23.8,7.7,
+CENSUS_9,Overseas born population - Census,Born in North-East Asia (%),,,,,,,,76.9,
+CENSUS_35,Overseas born population - Census,Total born overseas (no.),,,,,,,,20,
+CENSUS_13,Overseas born population - Census,Total born overseas (%),,,,,,,,76.9,
+CENSUS_16,Religious affiliation - Census,Christianity (%),,,,,,,,11.5,
+CENSUS_40,Religious affiliation - Census,"Secular beliefs, other spiritual beliefs or no religion (%)",,,,,,,,84.6,
+CENSUS_36,Australian citizenship - Census,Australian citizen (no.),,,,,,,,3,
+CENSUS_37,Australian citizenship - Census,Not an Australian citizen (no.),,,,,,,,20,
+CENSUS_29,Australian citizenship - Census,Australian citizen (%),,,,,,,,11.5,
+CENSUS_30,Australian citizenship - Census,Not an Australian citizen (%),,,,,,,,76.9,
+CENSUS_39,Speaks a language other than English at home - Census,Speaks a language other than English at home (no.),,,,,,,,20,
+CENSUS_33,Speaks a language other than English at home - Census,Speaks a language other than English at home (%),,,,,,,,76.9,
+ING_LANG1,Language - Census,Speakers of an Aboriginal or Torres Strait Islander language who identify as Aboriginal and/or Torres Strait Islander (%),0,,0,,,,,0,
+ING_LANG2,Language - Census,Speaks English at home (%),0,,0,,,,,0,
+ING_EETP1,"Engagement in employment, education or training - Census",Fully engaged (%),0,,0,,,,,,
+ING_EETP2,"Engagement in employment, education or training - Census",Partially or at least partially engaged (%),0,,0,,,,,,
+ING_EETP3,"Engagement in employment, education or training - Census",Not engaged (%),0,,0,,,,,,
+ING_YR12ATT,Education - Census,Attained year 12 or equivalent or Certificate III or above (aged 20-24 years) (%),0,,0,,,,,,
+ING_EMP1,Labour force status - Census,Employed (no.),0,,0,,,,,,
+ING_EMP2,Labour force status - Census,% of total labour force employed,0,,0,,,,,,
+ING_UNEMP1,Labour force status - Census,Unemployed (no.),0,,0,,,,,,
+ING_UNEMP2,Labour force status - Census,% of total labour force unemployed,0,,0,,,,,,
+ING_LABF,Labour force status - Census,In the labour force (no.),0,,0,,,,,,
+ING_LFPR,Labour force status - Census,Labour force participation rate (%),0,,0,,,,,,
+ING_NILF,Labour force status - Census,Not in the labour force (%),0,,0,,,,,,
+ING_1564,Labour force status - Census,Total responding population aged 15-64 years (no.),0,,0,,,,,,
+ING_EMP3,Labour force status - Census,% of total Census responding population employed,0,,0,,,,,,
+ING_UA1,Unpaid assistance to a person with a disability - Census,Provided unpaid assistance (no.),0,,0,,,,,0,
+ING_UA2,Unpaid assistance to a person with a disability - Census,Provided unpaid assistance (%),0,,0,,,,,0,
+ING_UPCC1,Unpaid child care - Census,Cared for own child/children (no.),0,,0,,,,,0,
+ING_UPCC2,Unpaid child care - Census,Cared for own child/children (%),0,,0,,,,,0,
+ING_UPCC3,Unpaid child care - Census,Cared for other child/children (no.),0,,0,,,,,0,
+ING_UPCC4,Unpaid child care - Census,Cared for other child/children (%),0,,0,,,,,0,
+ING_UPCC5,Unpaid child care - Census,Total provided unpaid child care (no.),0,,0,,,,,0,
+ING_UPCC6,Unpaid child care - Census,Total provided unpaid child care (%),0,,0,,,,,0,
+ING_UPCC7,Unpaid child care - Census,Did not provide unpaid child care (no.),0,,0,,,,,0,
+ING_UPCC8,Unpaid child care - Census,Did not provide unpaid child care (%),0,,0,,,,,0,
+ING_VOLWP1,Voluntary work for an organisation or group - Census,Volunteered for an organisation or group (no.),0,,0,,,,,0,
+ING_VOLWP2,Voluntary work for an organisation or group - Census,Volunteered for an organisation or group (%),0,,0,,,,,0,
+ING_ASHP,Appropriately sized housing - Census,Persons living in appropriately sized dwellings (Closing the Gap measure) (%),0,,0,,,,,0,
+ING_ONEBR,Appropriately sized housing - Census,Persons living in a dwelling requiring one additional bedroom (%),0,,0,,,,,0,
+ING_TWOBR,Appropriately sized housing - Census,Persons living in a dwelling requiring two additional bedrooms (%),0,,0,,,,,0,
+ING_THRBR,Appropriately sized housing - Census,Persons living in a dwelling requiring three additional bedrooms (%),0,,0,,,,,0,
+ING_FOUBR,Appropriately sized housing - Census,Persons living in a dwelling requiring four or more additional bedrooms (%),0,,0,,,,,0,
+ING_TTYPE1,Tenure type - Census,Owner with or without a mortgage (or being purchased under a shared equity scheme) (no.),0,,0,,,,,0,
+ING_TTYPE3,Tenure type - Census,Owner with or without a mortgage (or being purchased under a shared equity scheme) (%),0,,0,,,,,0,
+ING_TTYPE2,Tenure type - Census,Renter (no.),0,,0,,,,,0,
+ING_TTYPE4,Tenure type - Census,Renter (%),0,,0,,,,,0,
+CABEE_2,Number of businesses - at 30 June,Number of non-employing businesses,,,,,38,49,41,43,41
+CABEE_3,Number of businesses - at 30 June,Number of employing businesses: 1-4 employees,,,,,17,21,19,36,25
+CABEE_4,Number of businesses - at 30 June,Number of employing businesses: 5-19 employees,,,,,25,16,31,17,24
+CABEE_38,Number of businesses - at 30 June,Number of employing businesses: 20 or more employees,,,,,9,16,11,15,19
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,,,,,88,100,104,111,105
+CABEE_7,Business entries - year ended 30 June,Number of non employing business entries,,,,,,7,3,5,4
+CABEE_8,Business entries - year ended 30 June,Number of employing business entries: 1-4 employees,,,,,,3,5,3,
+CABEE_9,Business entries - year ended 30 June,Number of employing business entries: 5-19 employees,,,,,,3,3,,
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,,,,,,12,12,9,4
+CABEE_12,Business exits - year ended 30 June,Number of non employing business exits,,,,,,,6,4,4
+CABEE_13,Business exits - year ended 30 June,Number of employing business exits: 1-4 employees,,,,,,3,,3,3
+CABEE_14,Business exits - year ended 30 June,Number of employing business exits: 5-19 employees,,,,,,3,,3,3
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,,,,,,4,5,9,9
+CABEE_19,Number of businesses by industry - at 30 June,"Agriculture, forestry and fishing (no.)",,,,,,,,3,3
+CABEE_27,Number of businesses by industry - at 30 June,Manufacturing (no.),,,,,15,14,13,17,14
+CABEE_21,Number of businesses by industry - at 30 June,Construction (no.),,,,,,,,3,3
+CABEE_37,Number of businesses by industry - at 30 June,Wholesale trade (no.),,,,,15,16,13,11,7
+CABEE_34,Number of businesses by industry - at 30 June,Retail trade (no.),,,,,3,5,6,8,7
+CABEE_17,Number of businesses by industry - at 30 June,Accommodation and food services (no.),,,,,3,,3,6,8
+CABEE_36,Number of businesses by industry - at 30 June,"Transport, postal and warehousing (no.)",,,,,15,16,15,17,19
+CABEE_24,Number of businesses by industry - at 30 June,Financial and insurance services (no.),,,,,6,3,3,4,3
+CABEE_33,Number of businesses by industry - at 30 June,"Rental, hiring and real estate services (no.)",,,,,21,21,19,10,8
+CABEE_31,Number of businesses by industry - at 30 June,"Professional, scientific and technical services (no.)",,,,,4,5,5,5,5
+CABEE_18,Number of businesses by industry - at 30 June,Administrative and support services (no.),,,,,,3,3,3,5
+CABEE_22,Number of businesses by industry - at 30 June,Education and training (no.),,,,,11,14,14,11,11
+CABEE_20,Number of businesses by industry - at 30 June,Arts and recreation services (no.),,,,,,3,3,3,3
+CABEE_30,Number of businesses by industry - at 30 June,Other services (no.),,,,,,3,,,
+CABEE_42,Number of businesses by turnover - at 30 June,Number of businesses with turnover of zero to less than $50k,,,,,14,18,11,19,12
+CABEE_43,Number of businesses by turnover - at 30 June,Number of businesses with turnover of $50k to less than $200k,,,,,20,14,25,20,16
+CABEE_44,Number of businesses by turnover - at 30 June,Number of businesses with turnover of $200k to less than $2m,,,,,22,34,39,32,44
+CABEE_45,Number of businesses by turnover - at 30 June,Number of businesses with turnover of $2m to less than $5m,,,,,16,13,13,13,11
+CABEE_46,Number of businesses by turnover - at 30 June,Number of businesses with turnover of $5m to less than $10m,,,,,4,9,11,3,4
+CABEE_47,Number of businesses by turnover - at 30 June,Number of businesses with turnover of $10m or more,,,,,11,14,9,17,16
+CABEE_50,Business entries by turnover - year ended 30 June,Number of business entries with turnover of zero to less than $50k,,,,,,5,3,3,3
+CABEE_51,Business entries by turnover - year ended 30 June,Number of business entries with turnover of $50k to less than $200k,,,,,,3,5,3,3
+CABEE_52,Business entries by turnover - year ended 30 June,Number of business entries with turnover of $200k to less than $2m,,,,,,4,,3,
+CABEE_53,Business entries by turnover - year ended 30 June,Number of business entries with turnover of $2m to less than $5m,,,,,,3,,,
+CABEE_58,Business exits by turnover - year ended 30 June,Number of business exits with turnover of zero to less than $50k,,,,,,3,8,3,6
+CABEE_59,Business exits by turnover - year ended 30 June,Number of business exits with turnover of $50k to less than $200k,,,,,,,,3,
+CABEE_60,Business exits by turnover - year ended 30 June,Number of business exits with turnover of $200k to less than $2m,,,,,,3,,3,
+CABEE_61,Business exits by turnover - year ended 30 June,Number of business exits with turnover of $2m to less than $5m,,,,,,,,,3
+BUILDING_9,Building approvals - year ended 30 June,Value of non-residential building ($m),,,,24,62,28,28,61,27
+BUILDING_10,Building approvals - year ended 30 June,Value of total building ($m),,,,24,62,28,28,61,27
+EMP_IND_21,Industry of employment - Persons aged 15 years and over - Census,Total persons employed aged 15 years and over (no.),,,,,,,,3,
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),,,,3,8,9,,,
+INCOME_20,Personal income in Australia - year ended 30 June,Employee income earners - median age (years),,,,52,51,54,,,
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),,,,0.2,0.5,1.1,,,
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),,,,94665,55593,58315,,,
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),,,,78892,62926,119422,,,
+INCOME_22,Personal income in Australia - year ended 30 June,Employee income as main source of income (%),,,,83.3,85.7,100,,,
+INCOME_10,Personal income in Australia - year ended 30 June,Investment income earners (no.),,,,6,8,8,,,
+INCOME_26,Personal income in Australia - year ended 30 June,Investment income earners - median age (years),,,,53,53,47,,,
+INCOME_9,Personal income in Australia - year ended 30 June,Total investment income ($m),,,,,,0.1,,,
+INCOME_8,Personal income in Australia - year ended 30 June,Median investment income ($),,,,2,138,292,,,
+INCOME_27,Personal income in Australia - year ended 30 June,Mean investment income ($),,,,668,2190,6608,,,
+INCOME_28,Personal income in Australia - year ended 30 June,Investment income as main source of income (%),,,,16.7,14.3,,,,
+INCOME_19,Personal income in Australia - year ended 30 June,Total income earners (excl. Government pensions and allowances) (no.),,,,7,8,8,,,
+INCOME_35,Personal income in Australia - year ended 30 June,Total income earners (excl. Government pensions and allowances) - median age (years),,,,53,54,53,,,
+INCOME_18,Personal income in Australia - year ended 30 June,Total income (excl. Government pensions and allowances) ($m),,,,0.5,0.5,1,,,
+INCOME_17,Personal income in Australia - year ended 30 June,Median total income (excl. Government pensions and allowances) ($),,,,65632,50000,72075,,,
+INCOME_36,Personal income in Australia - year ended 30 June,Mean total income (excl. Government pensions and allowances) ($),,,,66862,60501,123925,,,
+PERSINC_3,Total personal income (weekly) - Persons aged 15 years and over - Census,$500-$999 per week (%),,,,,,,,11.5,
+PERSINC_7,Total personal income (weekly) - Persons aged 15 years and over - Census,Nil income (%),,,,,,,,76.9,
+LEED_2,Jobs in Australia - year ended 30 June,Number of jobs held by females,,,,,5,6,3,,
+LEED_3,Jobs in Australia - year ended 30 June,Number of jobs held by males,,,,6,7,10,3,,
+LEED_4,Jobs in Australia - year ended 30 June,Number of jobs,,,,5,7,10,12,,
+LEED_7,Jobs in Australia - year ended 30 June,Number of employee jobs - manufacturing,,,,6,,,,,
+LEED_20,Jobs in Australia - year ended 30 June,Number of employee jobs - education and training,,,,,3,3,4,,
+LEED_24,Jobs in Australia - year ended 30 June,Number of employee jobs - total,,,,9,7,10,12,,
+HIGH_2,Highest year of school completed - Persons aged 15 years and over who are no longer attending primary or secondary school - Census,Completed year 12 or equivalent (%),,,,,,,,96.2,
+SCHOOL_2,Non-school qualifications - Persons aged 15 years and over - Census,Total persons with non-school qualification(s) (%),,,,,,,,100,
+SCHOOL_5,Non-school qualifications - Persons aged 15 years and over - Census,Bachelor degree (%),,,,,,,,69.2,
+SCHOOL_6,Non-school qualifications - Persons aged 15 years and over - Census,Advanced diploma/diploma (%),,,,,,,,15.4,
+SCHOOL_9,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification inadequately described (%),,,,,,,,23.1,
+FIELD_4,Non-school qualifications - Field of study - Persons aged 15 years and over - Census,Engineering and related technologies (%),,,,,,,,76.9,
+LF_6,Labour force status - Persons aged 15 years and over - Census,Employed (no.),,,,,,,,3,
+LF_2,Labour force status - Persons aged 15 years and over - Census,In the Labour force (no.),,,,,,,,3,
+LF_5,Labour force status - Persons aged 15 years and over - Census,Participation rate (%),,,,,,,,11.5,
+LF_7,Labour force status - Persons aged 15 years and over - Census,Not in the labour force (%),,,,,,,,76.9,
+LF_9,Labour force status - Persons aged 15 years and over - Census,Total persons aged 15 years and over (no.),,,,,,,,26,
+EMP_OCC_6,Occupation of employed persons - Persons aged 15 years and over - Census,Clerical and administrative workers (%),,,,,,,,133.3,
+LTHLTH_13,Long-term health conditions - Census,No long-term health condition(s) (%),,,,,,,,87,
+WORK_TRAV_5,Method of travel to work - Employed persons aged 15 years and over - Census,Used one method - car (as driver) (no.),,,,,,,,6,
+WORK_TRAV_24,Method of travel to work - Employed persons aged 15 years and over - Census,Travelled to work by car (as a driver or passenger) as at least one method of travel (no.),,,,,,,,6,
+WORK_TRAV_17,Method of travel to work - Employed persons aged 15 years and over - Census,Total persons employed aged 15 years and over (no.),,,,,,,,3,
+HHTYPE_6,Household composition - Occupied private dwellings - Census,Average household size (no. of persons),,,,,,,,3,
+MARRIAGE_4,Social marital status - Persons aged 15 years and over - Census,Not married (no.),,,,,,,,3,
+MARRIAGE_6,Registered marital status - Persons aged 15 years and over - Census,Never married (%),,,,,,,,92.3,
+RENT_4,Rent and mortgage payments - Occupied private dwellings - Census,Median weekly household rental payment ($),,,,,,,,486,
+CHILDCAR_2,Unpaid child care - Persons aged 15 years and over - Census,Persons who did not provide child care (%),,,,,,,,100,
+TOTMIG_3,Number of persons born overseas - Census,Males born overseas (no.),,,,,,,,20,
+TOTMIG_4,Number of persons born overseas - Census,Persons born overseas (no.),,,,,,,,20,
+AGEMIG_6,Age of persons born overseas - Census,20-24 years (no.),,,,,,,,20,
+ARRMIG_2,Year of arrival of persons born overseas - Census,Arrived within 5 years (%),,,,,,,,100,
+CITMIG_3,Citizenship status of persons born overseas - Census,Not an Australian citizen (%),,,,,,,,100,
+RELMIG_11,Religious affiliation of persons born overseas - Census,"Secular beliefs, other spiritual beliefs, no religion (%)",,,,,,,,105,
+ENGMIG_2,English proficiency of persons born overseas - Census,Proficient in English (%),,,,,,,,75,
+QUALMIG_4,Level of highest educational attainment of persons born overseas - Census,Bachelor degree level (%),,,,,,,,90,
+LFMIG_11,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Not in the labour force (%),,,,,,,,100,
+LFMIG_7,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Overseas born population aged 15 years and over (no.),,,,,,,,20,
+INCMIG_7,Total personal income (weekly) of persons born overseas - Persons aged 15 years and over - Census,Nil income (%),,,,,,,,100,
+LAND,Land area,Land area (ha),,,,,,,,307.6,
+LANDUSE_13,Land use experimental estimates - year ended 30 June,Urban intensive uses (ha),,,325,,,,,,
+LANDUSE_19,Land use experimental estimates - year ended 30 June,Total land use (ha),,,325,,,,,,
+LCOVER_1,Land cover experimental estimates - year ended 31 December,Artificial surfaces (ha),,119,138,106,131,181,181,,
+LCOVER_2,Land cover experimental estimates - year ended 31 December,Cultivated terrestrial vegetated: herbaceous (ha),,12,119,12,94,119,94,,
+LCOVER_3,Land cover experimental estimates - year ended 31 December,Natural terrestrial vegetated: herbaceous (ha),,175,25,188,88,25,25,,
+LCOVER_4,Land cover experimental estimates - year ended 31 December,Natural terrestrial vegetated: woody (ha),,6,25,,6,,19,,
+LCOVER_5,Land cover experimental estimates - year ended 31 December,Natural surfaces (ha),,12,19,19,6,,6,,
+LCOVER_12,Land cover experimental estimates - year ended 31 December,Total land cover (ha),,325,325,325,325,325,325,,
+LTENURE_2,Land tenure experimental estimates - year ended 30 June,Freehold (ha),,,13,,,,,,
+LTENURE_11,Land tenure experimental estimates - year ended 30 June,Other Crown purposes (ha),,,313,,,,,,
+LTENURE_14,Land tenure experimental estimates - year ended 30 June,Total land tenure (ha),,,325,,,,,,
+LPARCEL_3,Land and housing supply indicators: Experimental counts of land parcels by size - at March 2022,"Land parcel size greater than 10,000 sqm (no.)",,,,,,,,,11
+LPARCEL_12,Land and housing supply indicators: Experimental counts of land parcels by planning zone - at March 2022,Industrial planning zone (no.),,,,,,,,,2
+LPARCEL_17,Land and housing supply indicators: Experimental counts of land parcels by planning zone - at March 2022,Special use N.E.S. planning zone (no.),,,,,,,,,9
