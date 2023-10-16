@@ -5,7 +5,10 @@ from selenium.webdriver.chrome.options import Options
 import pandas as pd 
 from itertools import zip_longest
 
+# Web scraping information from domain website
+
 directory_path = '../data/raw/dataset'
+
 # Check if the directory exists, and if not, create it
 if not os.path.exists(directory_path):
     os.makedirs(directory_path)
