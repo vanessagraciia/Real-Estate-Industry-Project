@@ -12,20 +12,20 @@
 **Research Goal:**
 
 To run the pipeline, please visit the `notebooks` and `scipts` directory and run the files in this order:
-1. `web_scrape.py`: 
-2. `preprocess.ipynb`
-3. `trainstation_maps.ipynb`
-4. `tramstops_maps.ipynb`
-5. `places_data.ipynb`
-6. `ABS.ipynb`
-7. `joining.ipynb`
-8. `get_long_lat.ipynb`
-9. `distance.ipynb`
-10. `preliminary_analysis.ipynb`
-11. `price_affected.ipynb`
-12. `feature_selection.ipynb question1`
-13. `predicted_growth.ipynb`
-14. `liveability.ipynb`
+1. `web_scrape.py`: This script scrapes the property data from `domain.com.au` including the corresponding features and save it to the `dataset` under the`data/raw` directory.
+2. `preprocess.ipynb`: This notebook details all preprocessing steps of the raw property data and outputs it to the `clean_data.csv` under the `data/landing` directory.
+3. `trainstation_maps.ipynb`: This notebook retrieves the location and maps the geometry points of the train stations in Victoria and output it to the `train_station.csv` under the `data/landing` directory.
+4. `tramstops_maps.ipynb`: This notebook retrieves the location and maps the geometry points of the tram stops in Victoria and output it to the `tram_stop.csv` under the `data/landing` directory.
+5. `places_data.ipynb`: This notebook collects the landmarks in Melbourne region including `Church`, `Facitilies (Parks)`, `Places of Interest`, `Office`, and `other landmarks`. The output is `melb_landmarks.csv` under the `data/landing` directory.
+6. `ABS.ipynb`: This notebook retrieves and preprocess the relevant ABS data and output it as `Property_external.csv` in `data/curated` directory.
+7. `joining.ipynb`: This notebook merges the property data and the ABS data and output it to `data/curated` directory.
+8. `get_long_lat.ipynb`:
+9. `distance.ipynb`:
+10. `preliminary_analysis.ipynb`:
+11. `price_affected.ipynb`:
+12. `feature_selection.ipynb question1`:
+13. `predicted_growth.ipynb`:
+14. `liveability.ipynb`:
 
 
 ## INI CONTOH READ ME PROJECT 1 VGT
