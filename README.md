@@ -8,8 +8,7 @@
 4. `VANESSA GRACIA TAN, 1297696`
 5. `WILLIAM CONLON, 1169893`
 
-
-**Research Goal:**
+**Research Goal:** Our reserach goal is to determine and analyse the most liveable and affordable property suburb using the predicted growth, appropriate metrics and important features to provide insights and helps to investors in choosing best property to invest. 
 
 To run the pipeline, please visit the `notebooks` and `scipts` directory and run the files in this order:
 1. `web_scrape.py`: This script scrapes the property data from `domain.com.au` including the corresponding features and save it to the `dataset` under the`data/raw` directory.
@@ -17,28 +16,12 @@ To run the pipeline, please visit the `notebooks` and `scipts` directory and run
 3. `trainstation_maps.ipynb`: This notebook retrieves the location and maps the geometry points of the train stations in Victoria and output it to the `train_station.csv` under the `data/landing` directory.
 4. `tramstops_maps.ipynb`: This notebook retrieves the location and maps the geometry points of the tram stops in Victoria and output it to the `tram_stop.csv` under the `data/landing` directory.
 5. `places_data.ipynb`: This notebook collects the landmarks in Melbourne region including `Church`, `Facitilies (Parks)`, `Places of Interest`, `Office`, and `other landmarks`. The output is `melb_landmarks.csv` under the `data/landing` directory.
-6. `ABS.ipynb`: This notebook retrieves and preprocess the relevant ABS data and output it as `Property_external.csv` in `data/curated` directory.
-7. `joining.ipynb`: This notebook merges the property data and the ABS data and output it to `data/curated` directory.
-8. `get_long_lat.ipynb`:
-9. `distance.ipynb`:
-10. `preliminary_analysis.ipynb`:
-11. `price_affected.ipynb`:
-12. `feature_selection.ipynb question1`:
-13. `predicted_growth.ipynb`:
-14. `liveability.ipynb`:
-
-
-## INI CONTOH READ ME PROJECT 1 VGT
-# MAST30034 Project 1 README.md
-- Name: `VANESSA GRACIA TAN`
-- Student ID: `1297696`
-
-## README 
-**Research Goal:** My research goal is demand analysis on yellow taxi to predict demand based on pick-up location, pick-up hour, pick-up day, and temperature in that day.
-
-**Timeline:** The timeline for the research area is January 2022 - December 2022.
-
-To run the pipeline, please visit the `notebooks` and `scipts` directory and run the files in order:
-1. `download.ipynb`: This downloads the raw data (taxi data, weather, and location shape file) into the `data/landing` directory.
-2. `preprocessing.ipynb`: This notebook details all preprocessing steps and outputs it to the `data/raw` and `data/curated` directory.
-3. `analysis_and_model.ipynb`: This notebook is used to conduct analysis on the curated data and run the model.
+6. `ABS.ipynb`: This notebook retrieves and preprocess the relevant ABS data and output it as `2021ABS.csv` in `data/landing` directory.
+7. `joining.ipynb`: This notebook merges the property data and the ABS data and output it as `Property_external.csv` under the `data/landing` directory.
+8. `get_long_lat.ipynb`: This notebook geocodes the longitude and latitude of each property and output the geometry points as `geometry.csv` under the `data/landing` directory and `geometry_property.csv` under the `data/curated` directory.
+9. `distance.ipynb`: This notebook calculates the distance by car between the properties and aminities. The output is saved as `places_property.csv` under the `data/curated` directory.
+10. `preliminary_analysis.ipynb`: This notebook is used to conduct preliminary analysis of the curated `geometry_property.csv` and `places_property.csv`.
+11. `price_affected.ipynb`: 
+12. `feature_selection.ipynb`: This notebook is used to run the model for feature selection of our data for the first question. 
+13. `predicted_growth.ipynb`: This notebook conducts analysis to calculate the predicted growth of our chosen suburb to answer the second question.
+14. `liveability.ipynb`: This notebook analyses the most liveable and affordable suburbs to answer the third question. 
