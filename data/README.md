@@ -45,7 +45,7 @@ Finally, after further preprocess the `landing data`, datasets that ready for an
 
 1. `geometry_property.csv`: This dataset contains the property addresses along with the corresponding longitude and latitude extracted through geocoding. 
 
-2. `places_property.csv`: This dataset consists of the property complete data, including number of transport within desired distance, distance to CBD, number of landmarks within desired distance, and geometry points (latitude and longitude).
+2. `places_property.csv`: This dataset consists of the property complete data, including number of transportation within desired distance, distance to CBD, number of landmarks within desired distance, and geometry points (latitude and longitude).
 
 3. `complete_dataset.csv`: This dataset is the extended version of `places_property.csv`, which consists of information about the property including the important features. 
 
