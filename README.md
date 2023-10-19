@@ -23,7 +23,7 @@ To run the pipeline, please visit the `notebooks` and `scipts` directory and run
 
 4. `tramstops_maps.ipynb`: This notebook retrieves the location and maps the geometry points of the tram stops in Victoria and output it to the `tram_stop.csv` under the `data/landing` directory.
 
-5. `places_data.ipynb`: This notebook collects the landmarks in Melbourne region including `Church`, `Facitilies (Parks)`, `Places of Interest`, `Office`, and `other landmarks`. The output is `melb_landmarks.csv` under the `data/landing` directory.
+5. `places_data.ipynb`: This notebook download the data on landmarks in Melbourne region including `Church`, `Facitilies (Parks)`, `Places of Interest`, `Office`, and `other landmarks`. The output is `melb_landmarks.csv` under the `data/raw` directory.
 
 6. `ABS.ipynb`: This notebook retrieves and preprocess the relevant ABS data and output it as `2021ABS.csv` in `data/landing` directory.
 
