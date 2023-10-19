@@ -35,9 +35,9 @@ To run the pipeline, please visit the `notebooks` and `scipts` directory and run
 
 10. `preliminary_analysis.ipynb`: This notebook is used to conduct preliminary analysis of the curated `geometry_property.csv` and `places_property.csv`.
 
-11. `price_affected.ipynb`: 
+11. `price_affected.ipynb`: This notebook is used to evaluate the relationship between the median rental payment and the ABS features. 
 
-12. `feature_selection.ipynb`: This notebook is used to run the model for feature selection of our data for the first question. 
+12. `feature_selection.ipynb`: This notebook is used to run the model for feature selection of our data for the first question. Additionally, `complete_dataset.csv` under `data/curated` is created (adding complete features). 
 
 13. `predicted_growth.ipynb`: This notebook conducts analysis to calculate the predicted growth of our chosen suburb to answer the second question.
 
