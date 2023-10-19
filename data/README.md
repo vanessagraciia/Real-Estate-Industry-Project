@@ -5,13 +5,13 @@ This `Readme.md` provides the information of our chosen datasets corresponding t
 ## Raw Data
 This `data/raw` directory contains all of our main raw internal and external datasets for our `Real Estate Project Analysis`. 
 
-1. `\ABS SA2 Inner Melbourne\`: This data contains ABS details for each SA2 Inner Melbourne region in the form of .csv file.
+1. `ABS SA2 Inner Melbourne\`: This folder contains ABS details for each SA2 Inner Melbourne region in the form of .csv files.
 
-2. `\dataset\`: This data contains rental property details that were web scraped from `domain.com.au` website for each page in the form of .csv file.
+2. `dataset\`: This folder contains rental property details that were web scraped from `domain.com.au` website for each page in the form of .csv files.
 
-3. `\PTV METRO TRAIN STATION\`: This data contains the full information on PTV Metro Train Station including the shape file and the geometry data.
+3. `PTV METRO TRAIN STATION\`: This folder contains the full information on PTV Metro Train Station including the shape file and the geometry data.
 
-4. `\PTV METRO TRAM STOP\`: This data contains the full information on PTV Metro Tram Stop including the shape file and the geometry data.
+4. `PTV METRO TRAM STOP\`: This folder contains the full information on PTV Metro Tram Stop including the shape file and the geometry data.
 
 5. `crime_count.csv`: This data contains the number of crimes in each suburb.
 
